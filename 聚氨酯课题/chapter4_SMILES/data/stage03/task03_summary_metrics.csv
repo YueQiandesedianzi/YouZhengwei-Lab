@@ -1,0 +1,11 @@
+metric,value
+rows_total,314
+molecular_desc_dim_before,15
+molecular_fp_dim_before,512
+molecular_total_before,527
+molecular_after_pearson,345
+pearson_dropped,182
+pca_n_components_95var,37
+final_feature_dim_domain,33
+final_feature_dim_pca,37
+usable_valid_smiles_rows,199

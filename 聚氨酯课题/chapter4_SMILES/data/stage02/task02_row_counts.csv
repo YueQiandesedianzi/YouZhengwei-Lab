@@ -1,0 +1,5 @@
+metric,value
+total_rows,314.0
+usable_valid_smiles_rows,199.0
+nonusable_rows,115.0
+mean_invalid_smiles_pairs,0.8471337579617835

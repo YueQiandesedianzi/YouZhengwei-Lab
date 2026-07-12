@@ -1,0 +1,8 @@
+target,non_null_all_314,non_null_usable_smiles
+sigma_max_MPa,275,226
+epsilon_break_pct,270,222
+E_MPa,143,101
+Tg,192,157
+healing_efficiency,250,208
+healing_temp_C,264,214
+healing_time_h,265,211

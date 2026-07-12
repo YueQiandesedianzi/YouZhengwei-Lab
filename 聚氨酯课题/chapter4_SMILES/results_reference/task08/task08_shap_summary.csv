@@ -1,0 +1,8 @@
+target,display_name,selected_stage,selected_model,n_samples,n_features,n_eval_for_shap,global_plot
+E_MPa,Toughness,v2,SVR_RBF,135,66,135,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/08_模型解释_稳健性汇总/task08_shap_outputs_snapshot_20260419_165753/global_importance_plots/E_MPa_shap_global_top15.png
+E_healed_MPa,Toughness Healed,v1,ExtraTrees,80,44,80,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/08_模型解释_稳健性汇总/task08_shap_outputs_snapshot_20260419_165753/global_importance_plots/E_healed_MPa_shap_global_top15.png
+Tg,Tg,v1,ExtraTrees,186,73,186,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/08_模型解释_稳健性汇总/task08_shap_outputs_snapshot_20260419_165753/global_importance_plots/Tg_shap_global_top15.png
+epsilon_break_pct,Tensile Strength,v2,ExtraTrees,258,11,220,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/08_模型解释_稳健性汇总/task08_shap_outputs_snapshot_20260419_165753/global_importance_plots/epsilon_break_pct_shap_global_top15.png
+epsilon_healed_pct,Tensile Strength Healed,v2,ExtraTrees,197,15,197,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/08_模型解释_稳健性汇总/task08_shap_outputs_snapshot_20260419_165753/global_importance_plots/epsilon_healed_pct_shap_global_top15.png
+sigma_healed_MPa,Max Elongation Healed,v2,HistGBR,222,51,220,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/08_模型解释_稳健性汇总/task08_shap_outputs_snapshot_20260419_165753/global_importance_plots/sigma_healed_MPa_shap_global_top15.png
+sigma_max_MPa,Max Elongation,v2,RandomForest,263,15,220,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/08_模型解释_稳健性汇总/task08_shap_outputs_snapshot_20260419_165753/global_importance_plots/sigma_max_MPa_shap_global_top15.png

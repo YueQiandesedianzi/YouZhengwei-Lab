@@ -1,0 +1,16 @@
+molecular_desc_col
+molw_MolWt
+molw_MolLogP
+molw_TPSA
+molw_NumHDonors
+molw_NumHAcceptors
+molw_NumRotatableBonds
+molw_RingCount
+molw_FractionCSP3
+molw_HeavyAtomCount
+molw_NHOHCount
+molw_NOCount
+molw_NumAliphaticRings
+molw_NumAromaticRings
+molw_NumSaturatedRings
+molw_NumValenceElectrons

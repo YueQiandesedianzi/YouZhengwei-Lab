@@ -1,0 +1,12 @@
+target,selected_rank,feature
+epsilon_break_pct,1,f_hs_total
+epsilon_break_pct,2,f_ss_total
+epsilon_break_pct,3,hs_ss_ratio
+epsilon_break_pct,4,Tg_fox_C
+epsilon_break_pct,5,dk_total_ratio
+epsilon_break_pct,6,urea_frac
+epsilon_break_pct,7,delta_Tg_repair
+epsilon_break_pct,8,fn_hs_avg
+epsilon_break_pct,9,n_urethane_mmol_g
+epsilon_break_pct,10,hbond_balance
+epsilon_break_pct,11,delta_delta

@@ -1,0 +1,8 @@
+target,non_null_all_314,non_null_usable_valid_smiles
+sigma_max_MPa,275,181
+epsilon_break_pct,270,171
+E_MPa,143,83
+sigma_healed_MPa,232,158
+epsilon_healed_pct,204,132
+E_healed_MPa,82,45
+Tg,192,129

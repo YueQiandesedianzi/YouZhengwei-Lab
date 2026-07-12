@@ -1,0 +1,8 @@
+target,n_samples_for_target,n_features,cv_splits,cv_repeats
+sigma_max_MPa,263,73,5,3
+epsilon_break_pct,258,73,5,3
+E_MPa,135,73,5,3
+sigma_healed_MPa,222,73,5,3
+epsilon_healed_pct,197,73,5,3
+E_healed_MPa,80,73,5,3
+Tg,186,73,5,3

@@ -1,0 +1,2 @@
+snapshot,objective_a,objective_b,model_a,model_b,n_train_joint,n_features_union,pop,gen,pareto_size,pred_a_min,pred_a_max,pred_b_min,pred_b_max
+snapshot_20260419_165753,sigma_max_MPa,epsilon_break_pct,RandomForest,ExtraTrees,251,15,180,90,35,19.354811417948625,29.434848299999672,726.3312329118842,999.9796748537863

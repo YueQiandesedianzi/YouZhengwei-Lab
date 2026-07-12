@@ -1,0 +1,8 @@
+param,value
+n_samples,314
+n_features_input,73
+perplexity,30
+init,pca
+learning_rate,auto
+random_state,42
+max_iter,1500

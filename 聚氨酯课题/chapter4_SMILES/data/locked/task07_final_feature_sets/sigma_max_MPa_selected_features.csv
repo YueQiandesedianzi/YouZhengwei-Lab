@@ -1,0 +1,16 @@
+target,selected_rank,feature
+sigma_max_MPa,1,hs_ss_ratio
+sigma_max_MPa,2,f_hs_total
+sigma_max_MPa,3,f_ss_total
+sigma_max_MPa,4,n_urethane_mmol_g
+sigma_max_MPa,5,dk_total_ratio
+sigma_max_MPa,6,urea_frac
+sigma_max_MPa,7,fn_hs_avg
+sigma_max_MPa,8,delta_Tg_repair
+sigma_max_MPa,9,Tg_fox_C
+sigma_max_MPa,10,f_hs2
+sigma_max_MPa,11,hbond_balance
+sigma_max_MPa,12,r_NCO_OH
+sigma_max_MPa,13,delta_delta
+sigma_max_MPa,14,mol_pca_030
+sigma_max_MPa,15,dk_molar_frac

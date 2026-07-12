@@ -1,0 +1,161 @@
+﻿角色,组分名称,SMILES,SMILES有效
+动态键组分,-S-S-,SS,✅
+动态键组分,4-AFD,Nc1ccc(SSc2ccc(N)cc2)cc1,✅
+动态键组分,4-氨基苯基二硫醚,Nc1ccc(SSc2ccc(N)cc2)cc1,✅
+动态键组分,5-AFD,Nc1ccc(SSc2ccc(N)cc2)cc1,✅
+动态键组分,6-AFD,Nc1ccc(SSc2ccc(N)cc2)cc1,✅
+动态键组分,7-AFD,Nc1ccc(SSc2ccc(N)cc2)cc1,✅
+动态键组分,8-AFD,Nc1ccc(SSc2ccc(N)cc2)cc1,✅
+动态键组分,9-AFD,Nc1ccc(SSc2ccc(N)cc2)cc1,✅
+动态键组分,B(OH)3,OB(O)O,✅
+动态键组分,B-O,,⚪无单一结构
+动态键组分,"B-O,酰腙键，二硫键",,⚪无单一结构
+动态键组分,BCCFA/BIM,,⚪无单一结构
+动态键组分,BHPAE+BMI,,⚪无单一结构
+动态键组分,BN-二醇,OCC(O)c1ccc(B(O)O)cc1,✅
+动态键组分,CDE,OCC(O)CCSSCC(O)CO,✅
+动态键组分,Cr3f,,⚪无单一结构
+动态键组分,DA diol,,⚪无单一结构
+动态键组分,DA-diol,,⚪无单一结构
+动态键组分,DBA,OB(O)c1ccccc1,✅
+动态键组分,DHDDS,Oc1ccc(SSc2ccc(O)cc2)cc1,✅
+动态键组分,DHDPD,Oc1ccc(SSc2ccc(O)cc2)cc1,✅
+动态键组分,DMG,,⚪无单一结构
+动态键组分,DTDA+BA,,⚪无单一结构
+动态键组分,DTSA,Nc1ccc(SSc2ccc(N)cc2)cc1,✅
+动态键组分,FA + BMI,,⚪无单一结构
+动态键组分,FA+BMI,,⚪无单一结构
+动态键组分,FA+TMI,,⚪无单一结构
+动态键组分,FAM+BMI,,⚪无单一结构
+动态键组分,FAm+BMI,,⚪无单一结构
+动态键组分,FDME+KA+BM,,⚪无单一结构
+动态键组分,FDME/BM,,⚪无单一结构
+动态键组分,FGE-FA+BMI,,⚪无单一结构
+动态键组分,FO呋喃基+MPBMI马来酰亚胺基,,⚪无单一结构
+动态键组分,Furfuryl alcohol+BMI,,⚪无单一结构
+动态键组分,HEDS+-SH,,⚪无单一结构
+动态键组分,HEMI+FA,,⚪无单一结构
+动态键组分,MDA,Nc1ccc(Cc2ccc(N)cc2)cc1,✅
+动态键组分,MN,NCC(CO)CO,✅
+动态键组分,MPS₂MBT,,⚪无单一结构
+动态键组分,N-(2-羟乙基)马来酰亚+HFA,,⚪无单一结构
+动态键组分,S-S,SS,✅
+动态键组分,S-S（HEDS),OCCSSCCO,✅
+动态键组分,UPY、HEDS,,⚪无单一结构
+动态键组分,二硫键（S-S）,SS,✅
+动态键组分,亚胺,,⚪无单一结构
+动态键组分,双源二硫键（HEDS 自带二硫键 + 巯基氧化生成的新二硫键）,,⚪无单一结构
+动态键组分,呋喃 (Furan) / 马来酰亚胺 (Maleimide),,⚪无单一结构
+动态键组分,呋喃-马来酰亚胺 DA加合物,,⚪无单一结构
+动态键组分,呋喃-马来酰亚胺对,,⚪无单一结构
+动态键组分,呋喃甲醇 (FA) 和 N-(2-羟乙基)马来酰亚胺 (HEM),,⚪无单一结构
+硬段1,BDA,OCC(O)CO,✅
+硬段1,BDB,OB(O)c1ccc(B(O)O)cc1,✅
+硬段1,BDBA,OB(O)c1ccc(B(O)O)cc1,✅
+硬段1,BHPAE,OCCOCCOCCO,✅
+硬段1,CMC-B(OH)2,,⚪无单一结构
+硬段1,DA,OCc1ccco1,✅
+硬段1,HDI,O=C=NCCCCCCN=C=O,✅
+硬段1,HMDI,O=C=NCC1CCCCC1CN=C=O,✅
+硬段1,HT-100,O=C=NCCCCCCn1c(=O)n(CCCCCCN=C=O)n(CCCCCCN=C=O)c1=O,✅
+硬段1,IPDI,CC1(C)CC(N=C=O)CC(C)(CN=C=O)C1,✅
+硬段1,IPDI    BDO,,⚪无单一结构
+硬段1,IPDI+BDO,,⚪无单一结构
+硬段1,IPDI-4AFD,,⚪无单一结构
+硬段1,IPDI‑PTMG,,⚪无单一结构
+硬段1,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc1,✅
+硬段1,NBN*,,⚪无单一结构
+硬段1,OUa（低聚脲）中的脲基团,,⚪无单一结构
+硬段1,PBA,OCCCCOCCO,✅
+硬段1,PBS,,⚪无单一结构
+硬段1,PDI,O=C=NC1CCC(N=C=O)CC1,✅
+硬段1,PEI,NCCNCCN,✅
+硬段1,PSt-co-PBA,,⚪无单一结构
+硬段1,PUDMA,,⚪无单一结构
+硬段1,PUSSDMA,,⚪无单一结构
+硬段1,PVA,CC(O)CC(O)CC(O)CO,✅
+硬段1,SBR,,⚪无单一结构
+硬段1,TDI,Cc1ccc(N=C=O)cc1N=C=O,✅
+硬段1,tri-HDI,O=C=NCCCCCCn1c(=O)n(CCCCCCN=C=O)n(CCCCCCN=C=O)c1=O,✅
+硬段2,2-FPBA,O=Cc1ccccc1B(O)O,✅
+硬段2,BA,OB(O)c1ccccc1,✅
+硬段2,BD,OCCCCO,✅
+硬段2,BDO,OCCCCO,✅
+硬段2,BDO + DMPA,,⚪无单一结构
+硬段2,BDO DADO,,⚪无单一结构
+硬段2,BIM,O=C1C=CC(=O)N1CCN1C(=O)C=CC1=O,✅
+硬段2,BQBD,OCC(O)c1ccc(C(O)CO)cc1,✅
+硬段2,DMHD,CCC(C)(CO)CCO,✅
+硬段2,DMPA,CC(CO)(CO)CC(=O)O,✅
+硬段2,DMPA +MN+TEA,,⚪无单一结构
+硬段2,DMPA+MN+TEA,,⚪无单一结构
+硬段2,DPA,OB(O)c1ccccc1,✅
+硬段2,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc1,✅
+硬段2,FAm,OCc1ccco1,✅
+硬段2,GC,,⚪无单一结构
+硬段2,HDB,OCc1ccccc1B(O)O,✅
+硬段2,HDB   DPA,,⚪无单一结构
+硬段2,HDB+DPA,,⚪无单一结构
+硬段2,HDO,OCCCCCCO,✅
+硬段2,HEDS,OCCSSCCO,✅
+硬段2,HPBA,OCc1ccccc1B(O)O,✅
+硬段2,HPDS,OCCCSSCCCO,✅
+硬段2,HPS,OCCCSSCCCO,✅
+硬段2,IPDI-IPDH,,⚪无单一结构
+硬段2,IPTS,CCO[Si](CCCN=C=O)(OCC)OCC,✅
+硬段2,IPTS+BN-二醇,,⚪无单一结构
+硬段2,NHP*,,⚪无单一结构
+硬段2,PDMS,C[Si](C)(O)O[Si](C)(C)O,✅
+硬段2,SSDMA,C=C(C)C(=O)OCCSSCCO,✅
+硬段2,T-SS,NCCSSCCN,✅
+硬段2,TEA,OCCN(CCO)CCO,✅
+硬段2,TMP,CCC(CO)(CO)CO,✅
+硬段2,TMPMP,CCC(CO)(CO)CO,✅
+硬段2,Tri-HDI,O=C=NCCCCCCn1c(=O)n(CCCCCCN=C=O)n(CCCCCCN=C=O)c1=O,✅
+软段1,20%-diolPCO,,⚪无单一结构
+软段1,AM,C=CC(N)=O,✅
+软段1,BPE+HDI,,⚪无单一结构
+软段1,ENR,,⚪无单一结构
+软段1,HO-PDMS-OH,C[Si](C)(O)O[Si](C)(C)O,✅
+软段1,HPSi,C[Si](O)(O)O,✅
+软段1,HTPB,OCC=CC=CCCO,✅
+软段1,IAOH,O=C(O)CC(CO)(CO)CO,✅
+软段1,MF-PEG,OCCOCCO,✅
+软段1,PAAm,C=CC(N)=O,✅
+软段1,PBD,C=CC=C,✅
+软段1,PCL,CCCCCC(=O)OCCCCCO,✅
+软段1,PCL g·mol-1,CCCCCC(=O)OCCCCCO,✅
+软段1,PCLD,CCCCCC(=O)OCCCCCO,✅
+软段1,PCL（,CCCCCC(=O)OCCCCCO,✅
+软段1,PDMS-OH,C[Si](C)(O)O[Si](C)(C)O,✅
+软段1,PEG,OCCOCCO,✅
+软段1,PEG10000,OCCOCCO,✅
+软段1,PEGMA,C=C(C)C(=O)OCCO,✅
+软段1,PHDA,O=C(O)CCCCC(=O)OCCCCCCO,✅
+软段1,PPC2000,CC(CO)OC(=O)O,✅
+软段1,PPG-2000,CC(O)COC(C)CO,✅
+软段1,PPG2000,CC(O)COC(C)CO,✅
+软段1,PPG210,CC(O)COC(C)CO,✅
+软段1,PPG220,CC(O)COC(C)CO,✅
+软段1,PTHF,OCCCCO,✅
+软段1,PTMEG,OCCCCO,✅
+软段1,PTMEG-1000,OCCCCO,✅
+软段1,PTMG,OCCCCO,✅
+软段1,PTMG-1000,OCCCCO,✅
+软段1,PVA-124,CC(O)CC(O)CC(O)CO,✅
+软段1,SA,,⚪无单一结构
+软段1,TMN-700,CC(CO)(CO)COCC(CO)(CO)CO,✅
+软段1,TTD,OCCCCCCCCCCO,✅
+软段1,UMA,C=C(C)C(=O)NCCO,✅
+软段1,UPES2,,⚪无单一结构
+软段1,聚酯多元醇,,⚪无单一结构
+软段2,2-HEA,C=CC(=O)OCCO,✅
+软段2,3-HEA,C=CC(=O)OCCO,✅
+软段2,4-HEA,C=CC(=O)OCCO,✅
+软段2,5-HEA,C=CC(=O)OCCO,✅
+软段2,DMAEMA,C=C(C)C(=O)OCCN(C)C,✅
+软段2,DMN-2000,OCCOCCO,✅
+软段2,FO,OCc1ccco1,✅
+软段2,PTMEG-2000,OCCCCO,✅
+软段2,聚乙二醇段（PEG2000​，PUDMA 中）,,⚪无单一结构
+软段2,聚乙二醇段（PEG2000​，PUSSDMA 中）,,⚪无单一结构

@@ -1,0 +1,9 @@
+column,type,lo,hi,n_rows,rows,action
+f_hs2,bounded_violation,0.0,1.01,3,"[181, 182, 183]",DROP
+f_hs_total,bounded_violation,0.0,1.01,4,"[181, 182, 183, 184]",DROP
+f_ss_total,bounded_violation,0.0,1.01,5,"[201, 202, 203, 204, 206]",DROP
+mw_ss_avg,domain_hard,100.0,50000.0,1,[20],DROP
+r_NCO_OH,domain_soft,0.5,3.5,6,"[176, 177, 178, 179, 180, 279]",FLAG
+static_dynamic_xlink_ratio,domain_hard,0.0,1000.0,1,[269],DROP
+healing_temp_C,special_check,,300.0,1,[14],DROP
+healing_efficiency,special_check,,2.0,1,[40],DROP

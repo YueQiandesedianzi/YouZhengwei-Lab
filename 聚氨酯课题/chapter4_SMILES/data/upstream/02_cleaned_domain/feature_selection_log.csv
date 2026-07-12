@@ -1,0 +1,91 @@
+﻿col,decision,reason,level
+mw_ss2,DROP,L1: 高缺失/冗余/文本/ID列,L1
+样本编号_原始,DROP,L1: 高缺失/冗余/文本/ID列,L1
+硬段1_SMILES,DROP,L1: 高缺失/冗余/文本/ID列,L1
+硬段2_SMILES,DROP,L1: 高缺失/冗余/文本/ID列,L1
+硬段3_SMILES,DROP,L1: 高缺失/冗余/文本/ID列,L1
+软段1_SMILES,DROP,L1: 高缺失/冗余/文本/ID列,L1
+软段2_SMILES,DROP,L1: 高缺失/冗余/文本/ID列,L1
+动态键组分_SMILES,DROP,L1: 高缺失/冗余/文本/ID列,L1
+硬段2,DROP,L1: 高缺失/冗余/文本/ID列,L1
+硬段3,DROP,L1: 高缺失/冗余/文本/ID列,L1
+软段2,DROP,L1: 高缺失/冗余/文本/ID列,L1
+Tg_fox_K,DROP,L1: 高缺失/冗余/文本/ID列,L1
+n_NCO_mmol_g,DROP,L1: 高缺失/冗余/文本/ID列,L1
+mw_ss1,DROP,L1: 高缺失/冗余/文本/ID列,L1
+f_ss2,DROP,L1: 高缺失/冗余/文本/ID列,L1
+fn_ss2,DROP,L1: 高缺失/冗余/文本/ID列,L1
+Tg测量方法,DROP,L1: 高缺失/冗余/文本/ID列,L1
+sigma_healed_MPa,DROP,L1: 高缺失/冗余/文本/ID列,L1
+epsilon_healed_pct,DROP,L1: 高缺失/冗余/文本/ID列,L1
+E_healed_MPa,DROP,L1: 高缺失/冗余/文本/ID列,L1
+log_E_MPa,DROP,L1: 高缺失/冗余/文本/ID列,L1
+log_sigma_max_MPa,DROP,L1: 高缺失/冗余/文本/ID列,L1
+log_healing_time_h,DROP,L1: 高缺失/冗余/文本/ID列,L1
+crosslink_density_val,DROP,L1: 高缺失/冗余/文本/ID列,L1
+f_ss1,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+urethane_in_dk_frac,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+crosslink_from_dk,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+dk_per_chain,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+dk_hs_ratio,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+n_urea_mmol_g,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+n_OH_mmol_g,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+is_stoichiometric,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+is_OH_excess,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+network_type_linear,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+dk_response_thermal,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+dk_response_water,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+dk_response_redox,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+dk_steric_hindrance,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+dk_reaction_temp_C,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+dk_bond_energy_kJ,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+urethane_in_hs_frac,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+excess_NCO_frac,DROP,L2: 高共线性合并，保留物理意义更强的特征,L2
+f_hs1,KEEP,保留特征，max_r=0.159,KEEP
+f_hs2,KEEP,保留特征，max_r=0.202,KEEP
+f_hs3,KEEP,保留特征，max_r=0.128,KEEP
+f_dk,KEEP,保留特征，max_r=0.128,KEEP
+f_hs_total,KEEP,保留特征，max_r=0.133,KEEP
+f_ss_total,KEEP,保留特征，max_r=0.363,KEEP
+hs_ss_ratio,KEEP,保留特征，max_r=0.315,KEEP
+dk_total_ratio,KEEP,保留特征，max_r=0.137,KEEP
+fn_hs1,KEEP,保留特征，max_r=0.220,KEEP
+fn_hs2,KEEP,保留特征，max_r=0.225,KEEP
+fn_ss1,KEEP,保留特征，max_r=0.195,KEEP
+fn_hs_avg,KEEP,保留特征，max_r=0.208,KEEP
+has_trifunctional,KEEP,保留特征，max_r=0.259,KEEP
+mw_ss_avg,KEEP,保留特征，max_r=0.439,KEEP
+log_mw_ss_avg,KEEP,保留特征，max_r=0.439,KEEP
+ss_type_polyether,KEEP,保留特征，max_r=0.305,KEEP
+ss_type_polyester,KEEP,保留特征，max_r=0.221,KEEP
+ss_type_PDMS,KEEP,保留特征，max_r=0.290,KEEP
+ss_type_HTPB,KEEP,保留特征，max_r=0.127,KEEP
+ss_type_mixed,KEEP,保留特征，max_r=0.163,KEEP
+iso_aromatic,KEEP,保留特征，max_r=0.309,KEEP
+iso_aliphatic,KEEP,保留特征，max_r=0.355,KEEP
+iso_multifunctional,KEEP,保留特征，max_r=0.379,KEEP
+iso_symmetric,KEEP,保留特征，max_r=0.234,KEEP
+n_urethane_mmol_g,KEEP,保留特征，max_r=0.275,KEEP
+urethane_urea_ratio,KEEP,保留特征，max_r=0.202,KEEP
+total_hbond_site,KEEP,保留特征，max_r=0.216,KEEP
+hbond_balance,KEEP,保留特征，max_r=0.294,KEEP
+urea_frac,KEEP,保留特征，max_r=0.305,KEEP
+urethane_in_ss_frac,KEEP,保留特征，max_r=0.281,KEEP
+log_crosslink_density,KEEP,保留特征，max_r=0.844,KEEP
+crosslink_from_hs2,KEEP,保留特征，max_r=0.297,KEEP
+static_dynamic_xlink_ratio,KEEP,保留特征，max_r=0.278,KEEP
+network_type_lightly_xlinked,KEEP,保留特征，max_r=0.287,KEEP
+network_type_highly_xlinked,KEEP,保留特征，max_r=0.286,KEEP
+dk_type_DA,KEEP,保留特征，max_r=0.560,KEEP
+dk_type_disulfide,KEEP,保留特征，max_r=0.278,KEEP
+dk_type_boronate,KEEP,保留特征，max_r=0.268,KEEP
+dk_activation_energy_kJ,KEEP,保留特征，max_r=0.345,KEEP
+dk_density_mmol_g,KEEP,保留特征，max_r=0.286,KEEP
+dk_molar_frac,KEEP,保留特征，max_r=0.389,KEEP
+Tg_fox_C,KEEP,保留特征，max_r=0.269,KEEP
+delta_Tg_repair,KEEP,保留特征，max_r=0.453,KEEP
+delta_hs,KEEP,保留特征，max_r=0.319,KEEP
+delta_ss,KEEP,保留特征，max_r=0.242,KEEP
+delta_delta,KEEP,保留特征，max_r=0.270,KEEP
+r_NCO_OH,KEEP,保留特征，max_r=0.238,KEEP
+is_NCO_excess,KEEP,保留特征，max_r=0.246,KEEP

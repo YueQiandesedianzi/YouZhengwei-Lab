@@ -1,0 +1,12 @@
+target,feature,mean_abs_shap
+epsilon_break_pct,Tg_fox_C,102.43175882310788
+epsilon_break_pct,delta_delta,94.44486577160002
+epsilon_break_pct,delta_Tg_repair,46.9494984365923
+epsilon_break_pct,f_hs_total,45.127149944150354
+epsilon_break_pct,hbond_balance,44.821372127428035
+epsilon_break_pct,dk_total_ratio,39.941796186260206
+epsilon_break_pct,urea_frac,39.694003842117816
+epsilon_break_pct,fn_hs_avg,36.53075770324298
+epsilon_break_pct,f_ss_total,30.70706001466419
+epsilon_break_pct,hs_ss_ratio,29.442071663226162
+epsilon_break_pct,n_urethane_mmol_g,28.322289211559116

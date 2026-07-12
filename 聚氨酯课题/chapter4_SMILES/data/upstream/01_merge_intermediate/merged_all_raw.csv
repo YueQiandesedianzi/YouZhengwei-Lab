@@ -1,0 +1,1385 @@
+﻿样本编号_原始,论文中样品编号,文献来源,动态键类型,硬段1,硬段1_SMILES,硬段1官能度,硬段1含量,硬段2,硬段2_SMILES,硬段2官能度,硬段2含量,硬段3,硬段3_SMILES,硬段3官能度,硬段3含量,软段1,软段1_SMILES,软段1分子量,软段1官能度,软段1含量,软段2,软段2_SMILES,软段2分子量,软段2官能度,软段2含量,动态键组分,动态键组分_SMILES,动态键组分含量,NCO_OH原始,交联密度原始,杨氏模量,最大拉伸强度,断裂伸长率,Tg原始,Tg测量方法,自修复温度,自修复时间,修复后拉伸强度,修复后断裂伸长率,修复后杨氏模量,自修复效率
+1.0,POU-3,"[1]周菱瑶,赵启凡,王占华,等.基于异氰酸酯-肟可逆加成反应的动态交联聚氨酯的制备及性能[J/OL].高分子材料科学与工程,1-12[2025-11-25].https://doi.org/10.16865/j.cnki.1000-7555.2025.0156.",DA,MDI,,2,35.29%,Tri-HDI,,3,11.76%,,,,,PCL Mn≈1000 g·mol-1,,,2,17.65%,,,,,,DMG,,35.29%,3,0.12,185.5,34.1,197.90%,66.2,DMA,100,1,22.165,132.56%,144.19,65.00%
+1.0,PU-DA,"[1]万里鹰,肖洋,张伦亮.基于热可逆Diels-Alder动态共价键PU-DA体系的制备和性能[J].材料研究学报, 2021, 35(10):9.DOI:10.11901/1005.3093.2020.535.",DA,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,2,17.38%,-,-,-,-,,,,,PTMG-1000,,1000,2,39.20%,-,,-,-,-,FGE-FA+BMI,,43.42%,2：3,-,-,4.2,305.59%,-,-,"70
+70
+70","2
+4
+8","2.27
+3.98
+4.07","225.14%
+298.98%
+305.16%",-,"54.10%
+94.80%
+96.90%"
+2.0,PU-DA,"Feng L, Yu Z, Bian Y, et al. Self-healing behavior of polyurethanes based on dual actions of thermo-reversible Diels-Alder reaction and thermal movement of molecular chains[J]. Polymer, 2017, 124: 48-59.",DA,MDI,,2,16.38%,"FAm
+BMI",,"1
+2","6.36%
+11.75%",,,,,PPG-2000,,2000,2,65.52%,-,,-,-,-,FAm+BMI,,18.10%,"1.5
+2
+2.5
+PU-DA(PPG-1000)
+PU-DA(PPG-1500)
+PU-DA(PPG-2000)",,"0.60±0.21
+4.53±0.28
+10.45±0.37
+168.59±6.32
+53.49±3.56
+4.53±0.28","2.40±0.20
+6.55±0.36
+10.09±0.32
+8.50±0.52
+7.57±0.48
+6.55±0.36","510±44%
+444±43%
+247±34%
+7±0.70%
+133±26%
+444±43%",,,120(后三个),15分钟后（后三个）,"1.78±0.23
+5.23±0.15
+3.54±0.26
+3.73±0.21
+4.16±0.30
+5.23±0.15","379±25%
+304±32%
+75±21%
+4±0.39%
+84±23%
+304±32%","0.39±0.13
+2.11±0.22
+3.81±0.42
+28.87±2.70
+6.98±1.03
+2.11±0.22","57%
+71%
+8%
+12%
+25%
+71%"
+3.0,PUAn-DA-x(硬段和软段数据按PUAn-DA-1/1计算),"Fang Y, Li J, Du X, et al. Thermal-and mechanical-responsive polyurethane elastomers with self-healing, mechanical-reinforced, and thermal-stable capabilities[J]. Polymer, 2018, 158: 166-175.",DA,BHPAE,,2,3.70%,"IPDI
+BDO",,"2
+2","32.9%
+6.4%",,,,,PPG210,,,2,55.60%,-,,,-,-,BHPAE+BMI,,"PUAn-DA-1/1:5.08%
+PUAn-DA-1/2:5.0%
+PUAn-DA-1/4:4.9%
+PUAn-DA-3/4:5.1%",1,,-,"10.66±1.33
+4.21±0.33
+3.84±0.41
+6.27±0.56","662.1%±39.4
+882.1%±36.0
+1049.5%±41.7
+844.8%±60.6",16,DMA,90,-,"9.73±1.35
+3.48±0.50
+3.22±0.30
+5.18±0.41","614.8±27.7%
+855.5±24.1%
+1025.8±71.2%
+794.3±29.4%",-,"91.28%±12.48
+82.66%±11.87
+83.85%±8.81
+82.62%±6.54"
+4.0,CPU-DA,"[1]张士玉,白亚朋,赵凯锋,等.含DA键的自修复交联型聚氨酯弹性体的制备与再加工[J].高校化学工程学报, 2018, 32(2):9.DOI:10.3969/j.issn.1003-9015.2018.02.024.",DA,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,2,19.93%,-,-,-,-,,,,,TMN-700,,,3,10.46%,DMN-2000,,,2,44.83%,FAm+BMI,,24.80%,2,,-,8.4917,312.77%,"软段：-57
+硬段：99",DSC,110,10分钟后,7.17938,339.39%,-,84.55%（取点求）原文为81.6%
+5.0,HTK-PU,"Wei Y, Ma X. The self‐healing cross‐linked polyurethane by Diels–Alder polymerization[J]. Advances in Polymer Technology, 2018, 37(6): 1987-1993.",DA,HT-100,,3（NCO）,40.96%,-,-,-,-,,,,,-,,,-,-,-,,,-,-,Furfuryl alcohol+BMI,OCC1=CC=CO1,25.30%,1,,-,9.34,1.13%,54.88,DMA,54.88,"3
+6
+12","1.64
+5.02
+6.31","0.25%
+0.63%
+0.76%",-,"17.56%
+53.75%
+67.56%"
+6.0,DAPU-0.2,"Yang, R., Jin, H., Li, W., & Zhang, X. (2024). An ultra-strong polyurethane elastomer with efficient self-healing capacity enabled by partial mixed domain. European Polymer Journal, 213, 113123. https://doi.org/10.1016/j.eurpolymj.2024.113123",DA,HMDI,O=C=NCCCCCCN=C=O,2,47.20%,-,-,-,-,,,,,PTMEG-1000,,1000,2,28.30%,-,,-,-,-,呋喃-马来酰亚胺对,NCC1=CC=CO1+O=C(N1)C=CC1=O,9.10%,1.05,-,40,65,1050%,-15.6 °C,DMA,110,2,61.75,-,-,95.00%
+7.0,"WPU-DA-0
+WPU-DA-1
+WPU-DA-2
+WPU-DA-4
+WPU-DA-6","Du, X.; Liu, X.; Zhang, J.; Wang, H.; Cheng, X. Environmentally Friendly, Self-Healing, and Recyclable Waterborne Polyurethane Based on Diels–Alder Chemistry. ACS Sustainable Chem. Eng. 2018, *6* (11), 14490–14500.
+DOI: 10.1021/acssuschemeng.8b03151
+URL: https://doi.org/10.1021/acssuschemeng.8b03151",DA,IPDI,CC1(C)CC(N=C=O)CC(CN=C=O)(C)C1,2,"37.5
+37.3
+37.1
+36.8
+36.5",DMPA,CC(CO)(CO)C(=O)O,2,"12.5
+12.4
+12.4
+12.3
+12.2",,,,,PPG2000,,2000,2,"20.5
+20.6
+20.6
+20.7
+20.8",-,,-,-,-,"无
+f-PDAPs（糠基改性聚多巴胺颗粒）/m-PU（马来酰亚胺封端聚氨酯
+同上
+同上
+同上",SCC1=CC=CO1+O=C(N1)C=CC1=O,"0
+1.7
+3.4
+6.7
+10.0",1.3,-,-,"未提供
+17.3 ± 1.1
+15.6 ± 0.9
+13.1 ± 0.4
+9.3 ± 0.2","未提供
+936 ± 30
+830 ± 26
+742 ± 50
+607 ± 28",-,-,"不适用
+130（断裂）→ 65（重连）
+130（断裂）→ 65（重连）
+130（断裂）→ 65（重连）
+130（断裂）→ 65（重连）","不适用
+0.5 + 24
+0.5 + 24
+0.5 + 24
+0.5 + 24","不适用
+6.9 ± 1.2
+8.0 ± 0.8
+11.3 ± 1.8
+8.6 ± 0.4","不适用
+212 ± 28
+331 ± 32
+606 ± 51
+535 ± 26",-,"不适用
+39.9%
+51.3%
+86.3%
+92.5%"
+8.0,PCM2,"Wang, H., Xu, J., Du, X., Wang, H., Cheng, X., & Du, Z. (2021). Stretchable and self-healing polyurethane coating with synergistic anticorrosion effect for the corrosion protection of stainless steels. Progress in Organic Coatings. https://doi.org/10.1016/j.porgcoat.2021.106672",DA,IPDI,CC1(C)CC(N=C=O)CC(CN=C=O)(C)C1,2,33.4,BDO + DMPA,OCCCCO+CC(CO)(CO)C(=O)O,2,45.1,,,,,PPG2000,,2000,2,21.5,-,,-,-,-,呋喃 (Furan) / 马来酰亚胺 (Maleimide),NCC1=CC=CO1+O=C(N1)C=CC1=O,2%,1.05,-,105.43,23.95,806.15,65 °C,DSC,120,0.017,23.83729,797.429,103.32,98%
+9.0,"1DA1T
+1.5DA1T","Heo, Y.; Sodano, H. A. Self-Healing Polyurethanes with Shape Recovery. Adv. Funct. Mater. 2014, 24, 5261–5268.
+https://doi.org/10.1002/adfm.201400299
+
+",DA,HDI,"
+O=C=NCCCCCCN=C=O",2,"55.6
+54.5",TEA,CCN(CC)CC,3,"22.2
+18.2",,,,,-,,-,-,-,-,,-,-,-,呋喃甲醇 (FA) 和 N-(2-羟乙基)马来酰亚胺 (HEM),NCC1=CC=CO1+O=C(N1)C=CC1=O,"22.2
+27.3",1,-,"2370
+2570","76.8
+87.3","30.5
+5.4","42.4
+45.6",DSC,修复程序为在135°C解离 (rDA)，在90°C交联 (DA),8.5,"61.2
+73.4",-,-,"79.76% 69.30% 59.26%
+ 84.08% 84.34% 75.89%
+
+"
+10.0,CNF/PU,"Liao, Q., Ren, H., Zhou, Z., Gao, S., Wang, Y., Yuan, B., & Zhang, H. (2025). Fabrication of high-performance bio-based cellulose/polyurethane composites via Diels-Alder reaction: Wide temperature adaptability, self-healing, and sensing properties. Chemical Engineering Journal, *518*, 164675.
+https://doi.org/10.1016/j.cej.2025.164675",DA,IPDI,CC1(C)CC(N=C=O)CC(CN=C=O)(C)C1,2,53.5,BDO,OCCCCO,2,11.9,,,,,PTMG-2000,,2000,2,5.9,HTPDMS-2000,,2000,2,5.9,CNFF中的呋喃基 + PU-MI中的马来酰亚胺基形成的DA加合物,C1=COC=C1+C1=CC(=O)NC1=O,7.1,1,-,-,12.34464,285.9848,-86 °C,DSC,120,0.67,10.01804,295.3583,-,84%
+11.0,"WPU-DA-0/4
+WPU-DA-1/4
+WPU-DA-2/4
+WPU-DA-3/4
+WPU-DA-4/4","Cheng B X, Lu C C, Li Q, et al. Preparation and properties of self-healing triboelectric nanogenerator based on waterborne polyurethane containing Diels–Alder bonds[J]. Journal of Polymers and the Environment, 2022, 30(12): 5252-5262.",DA,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,2,"63.29%
+62.00%
+60.73%
+59.72%
+58.38%",DMPA,,2,"19.89%
+19.48%
+19.10%
+18.71%
+18.35%",,,,,PTMG,,2000,2,"14.40%
+14.14%
+13.90%
+13.66%
+13.43%",-,,,-,-,FA+BMI,OCC1=CC=CO1,"16.82%+0.00%
+16.47%+2.05%
+16.14%+4.04%
+15.82%+5.95%
+15.51%+7.76%",1.18,-,-,"12.62
+13.23
+14.47
+16.04
+16.77","802.48
+673.02
+637.67
+613.30
+530.14",,,,,"6.31
+7.81
+10.20
+11.57
+12.18","513.996
+377.78
+487.44
+438.30
+400.00",,"50.00
+59.02
+70.51
+72.16
+72.61"
+12.0,FMXene,"Li Q, He H, Ye X, et al. NIR light-induced functionalized MXene as a dynamic-crosslinker for reinforced polyurethane composites with shape memory and self-healing[J]. Chemical Engineering Journal, 2023, 475: 146500.",DA,IPTS,,"-NCO:2
+-Si(OC2H5)3  :3",49%,-,-,-,-,,,,,FA,,,1,19.60%,-,,,-,-,FA+IPTS,OCC1=CC=CO1,19.60%,1.45（NCO过量）,-,-,8.8±1.2,214.9±28%,,,,,5.46-7.19,131.15-170.44,,71.88%
+13.0,PU-DA,"Feng L, Bian Y, Chai C, et al. Effect of heat-treatment on self-healing and processing behavior of thermally reversible polyurethanes[J]. Journal of Polymers and the Environment, 2020, 28(2): 647-656.",DA,MDI,,2,16.38%,-,-,-,-,,,,,PPG-2000,,,2,65.52%,-,,,-,-,FAM+BMI,NCC1=CC=CO1,18.10%,2,-,4.52±0.20,10.99±0.39,632±43%,-,-,"60
+120
+","30h
+120℃/10min+60℃/24h
+","6.83±0.15
+8.59±0.33","260±19%
+364±32%","3.85±0.21
+3.55±0.13","62.1%
+78.2%"
+14.0,DAPU(2000),"Motora K G, Wu C M, Chang C C, et al. NIR Light Stimulated Self‐Healing Reduced Tungsten Oxide/Polyurethane Nanocomposite Based on the Diels− Alder Reaction[J]. Macromolecular Materials and Engineering, 2021, 306(11): 2100438.
+",DA,MDI,,2,17.06%,-,-,-,-,,,,,PCL,,,2,64.98%,-,,,-,-,FA+BMI,NCC1=CC=CO1,17.96%,2.1(NCO过量),-,-,44.58,802.40%,-,-,71,R.T.2d,42.24,870.26%,-,94.80%
+,W-DAPU（向DAPU加入了还原氧化钨）,"Motora K G, Wu C M, Chang C C, et al. NIR Light Stimulated Self‐Healing Reduced Tungsten Oxide/Polyurethane Nanocomposite Based on the Diels− Alder Reaction[J]. Macromolecular Materials and Engineering, 2021, 306(11): 2100438.
+",DA,-,,-,-,-,-,-,-,,,,,-,,,-,-,-,,,-,-,-,,-,-,-,-,52.8,858.55%,-,-,W-DAPU（2000）的表面温度可在近红外光照射下10分钟内从环境温度升至100°C,-,43.2,923.38%,-,82.3%(论文给的数据，与画图计算有偏差)
+15.0,"2K-WPU-1/1
+2K-WPU-1/2
+2K-WPU-1/4
+2K-WPU-3/4","Fang Y, Du X, Cheng X, et al. Preparation of living and highly stable blended polyurethane emulsions for self-healing films with enhancive toughness and recyclability[J]. Polymer, 2020, 188: 122142.",DA,"IPDI
+BDO",CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,"2（NCO）
+2（OH）
+2（OH）",,DMPA,,2,,,,,,PPG220,,2000,2,,-,,,-,-,,,"10.72
+10.25
+10.02
+10.48",1（NCO过量）,-,-,"21.95±0.90
+7.51±0.33
+3.55±0.31
+14.77±0.53","784±41
+650±41
+541±39
+755±49",-,-,125后65,30min（125）24h(65),"20.89±0.83
+6.89±0.53
+3.44±0.17
+13.53±0.64","759±51
+509±48
+496±34
+735±42",-,"95.2±3.8%
+91.7±7.1%
+96.9±4.8%
+91.6±4.3%"
+16.0,"PU-DA
+PU-DA with 0.5mm crack (healed)
+PU-DA with 1.0mm crack (healed)
+PU-DA with 1.5mm crack (healed)","Feng, L., Yu, Z., Bian, Y., Wang, Y., Zhao, Y., & Gou, L. (2018). Effect of failure modes on healing behavior and multiple healing capability of self-healing polyurethanes. Polymer, *124*, 48–59. https://doi.org/10.1016/j.polymer.2017.08.048",DA,MDI,O=C=NC1=CC=C(C=C1)CC2=CC=C(N=C=O)C=C2,2,42.9,-,-,-,-,,,,,PPG-2000,,2000,2,28.6,-,,-,-,-,呋喃-马来酰亚胺加合物,NCC1=CC=CO1+O=C(N1)C=CC1=O,14.3,1,-,"4.53 ± 0.28
+2.11 ± 0.22
+2.07 ± 0.25
+1.78 ± 0.27","6.55 ± 0.36
+5.23 ± 0.15
+3.77 ± 0.23
+2.31 ± 0.26","444 ± 43
+304 ± 32
+246 ± 25
+231 ± 27",-,-,120°C (裂解) 与 60°C (重组),0.25h (120°C) + 24h (60°C),"-
+5.23 ± 0.15
+3.77 ± 0.23
+2.31 ± 0.26","-
+304 ± 32
+246 ± 25
+231 ± 27","-
+2.11 ± 0.22
+2.07 ± 0.25
+1.78 ± 0.27","-
+71%
+49%
+35%"
+17.0,"DA-100PBU
+DA-(75PBU-co-25PEU)
+DA-(50PBU-co-50PEU)
+DA-(25PBU-co-75PEU)
+DA-100PEU","Hughes, J. C., Wilson, J. A., Hawkins, N., Zhang, Y., Holland, C., & Slark, A. T. (2025). Compatibilisation of immiscible soft segments in self-healing thermoplastic polyurethane elastomers via Diels-Alder cycloaddition. European Polymer Journal, 113881.https://doi.org/10.1016/j.eurpolymj.2025.113881",DA,MDI,O=C=NC1=CC=C(C=C1)CC2=CC=C(N=C=O)C=C2,2,40,-,-,-,-,,,,,PBD,,2000 g/mol,2,"20.0
+15.0
+10.0
+5.0
+0","-
+PCL
+PCL
+PCL
+PCL",,"—
+2000
+2000
+2000
+2000","-
+2
+2
+2
+2","0
+5.0
+10.0
+15.0
+20.0",呋喃-马来酰亚胺 DA加合物,NCC1=CC=CO1+O=C(N1)C=CC1=O,40,"步骤1: 2:1
+步骤2: 1.1:1
+DA: 1:1 (F:M)",-,"6.4 ± 0.4
+4.6 ± 0.7
+14.0 ± 0.4
+57.6 ± 3.5
+147 ± 6.2","11.7 ± 0.4
+9.8 ± 0.5
+11.2 ± 0.3
+9.5 ± 0.6
+13.6 ± 0.4","680 ± 32
+1070 ± 68
+1390 ± 83
+1060 ± 54
+1030 ± 43","DSC: -30°C (软段), 53°C (硬段) / DMA (tanδ峰值): -17°C
+DSC: -30°C / DMA (tanδ峰值): -14°C
+DSC: -30°C / DMA (tanδ峰值): -19°C, 2°C
+DSC: -31°C / DMA (tanδ峰值): -19°C, 24°C
+DSC: -32°C / DMA (tanδ峰值): 25°C",DSC & DMA,"130
+-
+-
+-
+80","0.083 (5分钟)
+-
+-
+-
+0.025 (90秒)",-,-,-,"96%
+97%
+83%
+100%
+94%"
+18.0,"PU-1
+PUE-1
+PU-2
+PUE-2","Li, W., Zuo, F., & Tian, W. (2025). A DA-bonded crosslinked epoxy-modified polyurethane elastomer with abrasion resistant, weathering resistant, corrosion-resistant, and self-healing functions. Progress in Organic Coatings, 208, 109461.https://doi.org/10.1016/j.pogrocat.2025.109461",DA,TDI,O=C=NC1=CC(N=C=O)=CC=C1C,2,42.1,"-
+BM（双马来酰亚胺）
+-
+BM",O=C(N1)C=CC1=O,"0
+12.2
+0
+11.8","0
+4.8
+0
+4.9",,,,,"PTMG-1000
+PTMG-1000
+PTMG-650
+PTMG-650",,"1000
+1000
+650
+650",2,21.1,-,,-,-,-,FDME/BM,OCC1=CC=C(CO)O1+O=C(N1)C(C(C(N2)=O)=CC2=O)=CC1=O,"0
+24.4
+0
+23.6",1,PUE-2 > PUE-1 > PU-2 > PU-1,"7.09894
+28.95724
+60.38259
+101.14799","27.51837
+37.54226
+41.11192
+36.6168","737.3218
+560.81925
+472.81064
+235.64039",-,-,"120
+120
+-
+-","16 (4+12)
+16 (4+12)
+-
+-",-,-,-,"82.1%
+77.3%
+接近0 (非常弱)
+接近0 (非常弱)"
+19.0,FGNS-PU-DA-2,"Wu, S., Li, J., Zhang, G., Yao, Y., Li, G., Sun, R., & Wong, C. (2017). Ultrafast self-healing nanocomposites via infrared laser and their application in flexible electronics. ACS Applied Materials & Interfaces, 9(3), 3040–3049.
+https://doi.org/10.1021/acsami.6b15476",DA,MDI,O=C=NC1=CC=C(C=C1)CC2=CC=C(N=C=O)C=C2,2,32.8,,-,-,-,,,,,PTMG,,2000 g/mol,2,16.4,-,,-,-,-,FA + BMI,"NCC1=CC=CO1+
+O=C(C=C1)N(C2=CC=C(CC3=CC=C(N(C4=O)C(C=C4)=O)C=C3)C=C2)C1=O",50.8,2,-,127,36,">1100%
+原文给出",-,-,150,0.0167,34.6,1056,121.9,96.13%
+20.0,"TCP
+TCPDA","Bi, H., Ye, G., Sun, H., Ren, Z., Gu, T., & Xu, M. (2024). Mechanically robust, shape memory, self-healing and 3D printable thermoreversible cross-linked polymer composites toward conductive and biomimetic skin devices applications. Additive Manufacturing, *86*, 102487.
+https://doi.org/10.1016/j.addma.2021.102487",DA,TPU,C/C(C)=C\CC1=C(O)C=CC(C(NC2=C(O)C3=C(OC2=O)C=C(O[C@@H]4[C@@H](O)[C@@H](OC(N)=O)[C@H](OC)C(C)(C)O4)C=C3)=O)=C1,2,83.30%,-,-,-,-,,,,,PCL,,"50,000 g/mol",2,0.60%,-,,-,-,-,"无
+CNC-FA (呋喃) + CNC-MAH (马来酸酐)",NCC1=CC=CO1+OC1=CC=C(O)N=N1,"0%
+0.4%",-,"0.0986
+0.215",-,"10.14492
+12","892.96898
+1050","T_g,PCL ≈ -60°C， T_g,TPU ≈ -30°C
+T_g,PCL ≈ -65°C， T_g,TPU ≈ -40°C",DMA,120°C + 70°C,0.5 h + 1 h,"8.214342
+10.44","656.82513
+955.5",-,"未量化 (低于TCPDA)
+强度：87%， 伸长率：91%"
+21.0,"PU-H1
+PU-H2","Ponomareva P, Lokiaeva Z, Zakharova D, et al. Furan–Urethane Monomers for Self-Healing Polyurethanes[J]. Polymers, 2025, 17(14): 1951.
+",DA,TDI,CC1=CC=C(N=C=O)C=C1N=C=O,,"36.6
+33.2",-,-,-,-,,,,,PPG-2000,,2000,2,"63.4
+66.8",-,,-,-,-,FA+BMI,NCC1=CC=CO1,,,,"42±4
+54±4","14±1
+11±1",,"硬段：-2  软段：-48
+硬段：-4 软段：-50",DSC,120,,"18±2
+9±2",,"27±4
+54±12","129%
+81%"
+,"PU-M1
+PU-M2","Ponomareva P, Lokiaeva Z, Zakharova D, et al. Furan–Urethane Monomers for Self-Healing Polyurethanes[J]. Polymers, 2025, 17(14): 1951.
+",DA,TDI,CC1=CC=C(N=C=O)C=C1N=C=O,,"38.2
+35.0",-,-,-,-,,,,,PPG-2000,,2000,2,"61.8
+65.0",-,,-,-,-,FA+BMI,,,,,"95±7
+23±2","20±3
+11±1",,"硬段：7 软段：-50
+硬段：7  软段：-44",DSC,120,,"12±3
+7±2",,"42±4
+17±3","60%
+64%"
+,"PU-T1
+PU-T2","Ponomareva P, Lokiaeva Z, Zakharova D, et al. Furan–Urethane Monomers for Self-Healing Polyurethanes[J]. Polymers, 2025, 17(14): 1951.
+",DA,TDI,CC1=CC=C(N=C=O)C=C1N=C=O,,"36.7
+33.3",-,-,-,-,,,,,PPG-2000,,2000,2,"63.3
+66.7",-,,-,-,-,FA+BMI,,,,,"110±5
+55±3","8±1
+10±1",,"硬段：7  软段：-50
+硬段：7  软段：-47",DSC,120,,"9±1
+9±1",,"84±17
+51±8","113%
+90%"
+,"PU-(NFu₂)₂
+PU-(NFu)₂","Ponomareva P, Lokiaeva Z, Zakharova D, et al. Furan–Urethane Monomers for Self-Healing Polyurethanes[J]. Polymers, 2025, 17(14): 1951.
+",DA,TDI,CC1=CC=C(N=C=O)C=C1N=C=O,,"34.7
+31.1",-,-,-,-,,,,,PPG-2000,,2000,2,"65.3
+68.9",-,,-,-,-,FA+BMI,,,,,"40±4
+14±4","3.2±0.3
+2.4±0.3",,"硬段：-4  软段：-55
+硬段：-7  软段：-54",DSC,120,,"2.1±0.3
+1.2±0.1",,"27±7
+7±1","67%
+50%"
+22.0,WPU-3,"Omrani I, Taghizadeh M, Salimi A, et al. Self-healable and self-crosslinkable 1 K waterborne polyurethane loaded with curing agent[J]. European Polymer Journal, 2025: 114448.
+",DA,"IPDI
+BDO",CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,"2
+2","5.4
+10.97","DMPA
+TEA",,"2
+1","9.07
+6.84",,,,,UPES2,,1200,2,66.56%,-,,-,-,-,Cr3f,,1.14%,1,-,-,37.48,293.78%,58,DSC,120,"8
+4
+2","27.89
+20.68
+6.63","257.78      
+200.89        
+120.89",-,
+23.0,PUDA,"于正洋,冯利邦,柴昌盛,等.基于Diels-Alder反应的自修复聚氨酯的结构与修复行为[J].高分子学报,2016,(11):1579-1586.",DA,MDI,,2,18.20%,-,-,-,-,,,,,PPG-2000,,2000,2,72.70%,-,,-,-,-,FAm+BMI,NCC1=CC=CO1,20.10%,2,-,4.53,6,444%,-,-,120,0.25,4.86,304%,2.21,71%
+24.0,DA-SM-PU-0,"刘晓纯,吴建宇,梁俊文. 形状记忆辅助自修复聚氨酯弹性体的合成与性能研究[J]. 山西化工,2025,45(12):9-11. DOI:10.16525/j.cnki.cn14-1109/tq.2025.12.003.
+",DA,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,2,14.70%,-,-,-,-,,,,,PCL,,2000,2,66%,-,,,-,-,FA+TMI,OCC1=CC=CO1,6.60%,2,-,-,14.47,678.40%,-,-,"先120
+后60","先1
+后60",5.74,19.20%,-,39.71%
+,DA-SM-PU-1,"刘晓纯,吴建宇,梁俊文. 形状记忆辅助自修复聚氨酯弹性体的合成与性能研究[J]. 山西化工,2025,45(12):9-11. DOI:10.16525/j.cnki.cn14-1109/tq.2025.12.003.
+",DA,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,2,14.70%,-,-,-,-,,,,,PCL,,2000,2,66%,-,,,-,-,FA+TMI,OCC1=CC=CO1,10.60%,2,-,-,17.66,915.20%,-,-,"先120
+后60","先1
+后60",11.7,659.20%,-,66.26%
+,DA-SM-PU-2,"刘晓纯,吴建宇,梁俊文. 形状记忆辅助自修复聚氨酯弹性体的合成与性能研究[J]. 山西化工,2025,45(12):9-11. DOI:10.16525/j.cnki.cn14-1109/tq.2025.12.003.
+",DA,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,2,14.70%,-,-,-,-,,,,,PCL,,2000,2,66%,-,,,-,-,FA+TMI,OCC1=CC=CO1,14.60%,2,-,-,19.79,1126.40%,-,-,"先120
+后60","先1
+后60",14.89,960.00%,-,75.27%
+,DA-SM-PU-3,"刘晓纯,吴建宇,梁俊文. 形状记忆辅助自修复聚氨酯弹性体的合成与性能研究[J]. 山西化工,2025,45(12):9-11. DOI:10.16525/j.cnki.cn14-1109/tq.2025.12.003.
+",DA,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,2,14.70%,-,-,-,-,,,,,PCL,,2000,2,66%,-,,,-,-,FA+TMI,OCC1=CC=CO1,19.50%,2,-,-,25.11,1376.00%,-,-,"先120
+后60","先1
+后60",23.19,1350.40%,-,92.37%
+25.0,WPU-0,"张兆阳,刘寿祥,乔阳,等.基于Diels-Alder反应的自修复水性聚氨酯的合成与性能研究[J].合成材料老化与应用,2023,52(01):1-5.DOI:10.16584/j.cnki.issn1671-5381.2023.01.053.
+",DA,"IPDI
+BDO",CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,"2
+2","20.59%
+0.51%","DMPA
+TEA",,"2
+1","4.00%
+3.02%",,,,,PPC2000,,2000,2,71.87%,-,,-,-,-,N-(2-羟乙基)马来酰亚+HFA,O=C1C=CC(N1CCO)=O,0%,1.3,-,-,0.51,775,-5.52℃,DSC,-,-,-,-,-,-
+,WPU-1,"张兆阳,刘寿祥,乔阳,等.基于Diels-Alder反应的自修复水性聚氨酯的合成与性能研究[J].合成材料老化与应用,2023,52(01):1-5.DOI:10.16584/j.cnki.issn1671-5381.2023.01.053.
+",DA,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,2,19.82%,"DMPA
+TEA",,"2
+1","3.93%
+2.97%",,,,,PPC2000,,2000,2,70.66%,-,,-,-,-,N-(2-羟乙基)马来酰亚+HFA,O=C1C=CC(N1CCO)=O,2.62%,1.3,-,-,1.18,575,-,-,130℃加热0.5h，然后在80℃ 的烘箱保温8h后进行观察,,0.82,351%,-,69.49%
+,WPU-2,"张兆阳,刘寿祥,乔阳,等.基于Diels-Alder反应的自修复水性聚氨酯的合成与性能研究[J].合成材料老化与应用,2023,52(01):1-5.DOI:10.16584/j.cnki.issn1671-5381.2023.01.053.
+",DA,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,2,19.98%,"DMPA
+TEA",,"2
+1","3.80%
+2.87%",,,,,PPC2000,,2000,2,68.30%,-,,-,-,-,N-(2-羟乙基)马来酰亚+HFA,O=C1C=CC(N1CCO)=O,5.06%,1.3,-,-,1.28,425,-6.22℃,DSC,130℃加热0.5h，然后在80℃ 的烘箱保温8h后进行观察,,0.98,314%,-,75.56%
+26.0,DPU-Ⅰ,"石碧茹,武浩浩,谢昊圃,等.Diels-Alder型自修复聚氨酯胶粘剂的制备及其性能[J].应用化学,2023,40(02):277-287.DOI:10.19894/j.issn.1000-0518.220226.
+",DA,HDI,,2,15.74%,TMP,,3,4.19%,,,,,PTMG,,2000,2,74.90%,-,,-,-,-,DA diol,O=C(C1C2C3(CO)C=CC1O3)N(C4=CC=C(CC5=CC=C(N(C(C6C7C8(CO)C=CC6O8)=O)C7=O)C=C5)C=C4)C2=O,5.19%,1,-,4.06±0.51,28.45±1.64,948±174%,-,-,置于135 ℃下放置30 min， 75 ℃下放置24 h,,1.04±0.29,117±27%,-,3.66
+,DPU-Ⅱ,"石碧茹,武浩浩,谢昊圃,等.Diels-Alder型自修复聚氨酯胶粘剂的制备及其性能[J].应用化学,2023,40(02):277-287.DOI:10.19894/j.issn.1000-0518.220226.
+",DA,HDI,,2,18.21%,TMP,,3,4.84%,,,,,PTMG,,2000,2,64.90%,-,,-,-,-,DA diol,O=C(C1C2C3(CO)C=CC1O3)N(C4=CC=C(CC5=CC=C(N(C(C6C7C8(CO)C=CC6O8)=O)C7=O)C=C5)C=C4)C2=O,12.01%,1,-,6.97±1.06,30.6±12.15,855±141%,-,-,置于135 ℃下放置30 min， 75 ℃下放置24 h,,2.71±0.67,162±31%,-,8.85
+,DPU-Ⅲ,"石碧茹,武浩浩,谢昊圃,等.Diels-Alder型自修复聚氨酯胶粘剂的制备及其性能[J].应用化学,2023,40(02):277-287.DOI:10.19894/j.issn.1000-0518.220226.
+",DA,HDI,,2,21.58%,TMP,,3,5.74%,,,,,PTMG,,2000,2,51.30%,-,,-,-,-,DA diol,O=C(C1C2C3(CO)C=CC1O3)N(C4=CC=C(CC5=CC=C(N(C(C6C7C8(CO)C=CC6O8)=O)C7=O)C=C5)C=C4)C2=O,21.34%,1,-,26.7±4.28,39.43±3.06,566±119%,-,-,置于135 ℃下放置30 min， 75 ℃下放置24 h,,20.99±1.95,587±96%,-,53.2
+,DPU-Ⅳ,"石碧茹,武浩浩,谢昊圃,等.Diels-Alder型自修复聚氨酯胶粘剂的制备及其性能[J].应用化学,2023,40(02):277-287.DOI:10.19894/j.issn.1000-0518.220226.
+",DA,HDI,,2,26.50%,TMP,,3,7.05%,,,,,PTMG,,2000,2,31.50%,-,,-,-,-,DA-diol,O=C(C1C2C3(CO)C=CC1O3)N(C4=CC=C(CC5=CC=C(N(C(C6C7C8(CO)C=CC6O8)=O)C7=O)C=C5)C=C4)C2=O,34.94%,1,-,391±34.1,27.15±2.91,203±85%,-,-,置于135 ℃下放置30 min， 75 ℃下放置24 h,,24.17±2.44,88±18%,-,89
+27.0,PUDA,"Wang Z, Zhou J, Liang H, et al. A novel polyurethane elastomer with super mechanical strength and excellent self-healing performance of wide scratches[J]. Progress in Organic Coatings, 2020, 149: 105943.
+",DA,HDI,,2,13.50%,TMPMP,,3,7.00%,,,,,PCL,,2000,2,73.20%,-,,-,-,-,DA-diol,O=C(C1C2C3(CO)C=CC1O3)N(C4=CC=C(CC5=CC=C(N(C(C6C7C8(CO)C=CC6O8)=O)C7=O)C=C5)C=C4)C2=O,8.00%,1,-,-,32.88,702.85%,-,-,110,"1
+2
+4","12.21
+13.75
+34.58","88.80%
+166.67%
+514.62%",-,"37.14
+41.82
+105.17"
+28.0,"F1-PUDA
+F2-PUDA
+F3-PUDA
+F4-PUDA","Santoso H, Salma S A, Yuliati F, et al. Polyurethanes synthesized from diisocyanate trimers and polyethylene glycol undergo crosslinking via thermally reversible Diels–Alder reactions[J]. Macromolecular Research, 2025, 33(8): 1015-1028.
+",DA,PDI三聚体,,3,16.51%,-,-,-,-,,,,,PEG-4000,,4000,2,75.23%,-,,-,-,-,FA+BMI,NCC1=CC=CO1,8.26%,1.5,-,-,"1.22±0.14
+2.13±0.34
+0.54±0.04
+0.98±0.21","19.19±2.36
+20.11±0.58
+20.22±6.25
+33.34±3.25",-,-,130 °Cfor 2 h followed by additional heating at 70 C for 24 h,,"0.89±0.13
+1.68±0.28
+0.35±0.71
+0.24±0.18","18.69±4.72
+12.50±0.13
+16.64±5.67
+11.47±7.41",-,"73.04%
+78.85%
+65.22%
+24.18%"
+,"F5-PUDA
+F6-PUDA
+F7-PUDA
+F8-PUDA","Santoso H, Salma S A, Yuliati F, et al. Polyurethanes synthesized from diisocyanate trimers and polyethylene glycol undergo crosslinking via thermally reversible Diels–Alder reactions[J]. Macromolecular Research, 2025, 33(8): 1015-1028.
+",DA,PDI三聚体,,3,24.04%,-,-,-,-,,,,,PEG-4000,,4000,2,54.80%,-,,-,-,-,FA+BMI,NCC1=CC=CO1,21.16%,3,-,-,"0.83±0.83
+1.36±0.10
+2.79±1.39
+2.15±0.62","28.44±8.44
+39.27±5.83
+36.29±1.72
+43.87±4.87",-,-,130 °Cfor 2 h followed by additional heating at 70 C for 24 h,,"6.45±0.30
+7.49±0.37
+9.91±0.40
+8.65±2.24","50.20±4.11
+48.72±7.03
+57.15±3.96
+58.29±3.80",-,"776.55%
+552.54%
+355.45%
+402.74%"
+29.0,"PU-1
+PUE-1
+PUE-2",,DA,TDI,CC1=CC=C(N=C=O)C=C1N=C=O,2,21.04%,-,-,-,-,,,,,PTMG,,"1000
+1000
+650",2,"60.04%
+56.89%
+46.99%",-,,-,-,-,FDME+KA+BM,OCC1=CC=C(CO)O1,"18.56%
+20.04%
+24.67%",2:03,-,-,,,,,,,,,,
+31.0,PUUA-DA,"Wu, P., Cheng, H., Wang, X., Shi, R., Zhang, C., Arai, M., & Zhao, F. (2020). A self-healing and recyclable polyurethane-urea Diels-Alder adduct synthesized from carbon dioxide and furfuryl amine. Green Chemistry, *22*(2), 552–560.
+https://doi.org/10.1039/D0GC03695A",DA,OUa（低聚脲）中的脲基团,C(CN)COCCOCCOCCCN,2,41.7,BIM,CN(C)CCCN1C=C(C2=CC=CC=C21)C3=C(C(=O)NC3=O)C4=CNC5=CC=CC=C54,2,13.3,,,,,TTD,,220 g/mol,2,41.7,-,,-,-,-,BCCFA/BIM,C1=COC(=C1)CN+O=C(N1C2(N3C(C=CC3=O)=O)=CC=C(CC4=CC=CC=C4)C=C2)C=CC1=O,BCCFA: 15.4%，BIM: 4.6%,-,-,151 ± 5,18.5 ± 0.9,136 ± 20,-8°C,DSC（第二段升温）,120°C (10 min) + 60°C (24 h),0.17 h + 24 h,16.6 ± 0.3,140 ± 22,-,94%
+32.0,"1.5DA1T
+2DA1H
+C1.5DA1T
+C2DA1H","Heo, Y., & Sodano, H. A. (2015). Thermally responsive self-healing composites with continuous carbon fiber reinforcement. Composites Science and Technology, *118*, 244–250.
+https://doi.org/10.1016/j.compscitech.2015.08.010",DA,HDI,"
+O=C=NCCCCCCN=C=O",2,"54.5
+57.1
+54.5
+57.1",-,-,-,-,,,,,"TEA
+HPED
+TEA
+HPED",,"149 g/mol
+310 g/mol
+—
+—","3
+4
+3
+4","18.2
+14.3
+18.2
+14.3",-,,-,-,-,HEMI+FA,C1=CC(=O)N(C1=O)CCO+NCC1=CC=CO1,"27.3
+28.6
+27.3
+28.6","1 : 1.67
+1 : 1.5
+1 : 1.67
+1 : 1.5",-,"2.57 ± 0.2
+2.56 ± 0.3
+-
+-","87.8 ± 7.6
+53.7 ± 18.8
+44.7 (SBS)
+55.7 (SBS)","5.4 ± 2.8
+2.3 ± 0.9
+-
+-","45.6 ± 3.8°C
+49.7 ± 5.7°C
+-
+-","DSC (中点)
+DSC (中点)
+-
+-",135°C + 90°C + 70°C,2h + 2h + 2h,-,-,-,"84.1%
+96.1%
+87.8%
+84.7%"
+33.0,FAGS/DAPU,"Li, J., Liu, Q., Ho, D., Zhao, S., Wu, S., Ling, L., Han, F., Wu, X., Zhang, G., Sun, R., & Wong, C.-P. (2018). Three-dimensional graphene structure for healable flexible electronics based on Diels-Alder chemistry. ACS Applied Materials & Interfaces, *10*(11), 9727–9735.
+https://doi.org/10.1021/acsami.7b19649",DA,MDI,O=C=NC1=CC=C(C=C1)CC2=CC=C(N=C=O)C=C2,2,46.5,BMI,"
+O=C(C=C1)N(C2=CC=C(CC3=CC=C(N(C4=O)C(C=C4)=O)C=C3)C=C2)C1=O",2,26.7,,,,,PTMEG2000,,2000,2,14,-,,-,-,-,呋喃基（来自2F2OH）+ 马来酰亚胺基（来自BMI）形成的DA键,NCC1=CC=CO1+O=C(C=C1)N(C2=CC=C(CC3=CC=C(N(C4=O)C(C=C4)=O)C=C3)C=C2)C1=O,26.20%,1 : 1.125,-,76.31 ± 5.19,11.96 ± 0.95,210.26 ± 18.59,-,-,120°C (30min) + 65°C (5h),5.5h,-,-,-,75.30%
+34.0,"PU-FO10-MPBMI
+PU-FO20-MPBMI
+PU-FO30-MPBMI
+PU-FO20-PPOBMI-DP6
+PU-FO20-PPOPEOBMI-DP13
+PU-FO20-PPOBMI-DP33
+PU-HS20-FO20
+PU-HS20-FO20-PPOBMI-DP6","Tremblay-Parrado, K.-K., & Avérous, L. (2020). Synthesis and behavior of responsive biobased polyurethane networks cross-linked by click chemistry: Effect of the cross-linkers and backbone structures. European Polymer Journal, *135*, 109840.
+https://doi.org/10.1016/j.eurpolymj.2020.109840",DA,HDI,"
+O=C=NCCCCCCN=C=O",2,"46.8
+43.0
+39.8
+43.0
+43.0
+43.0
+38.8",-,-,-,-,,,,,聚酯多元醇,,3000 g/mol,2,"40.1
+32.8
+26.6
+32.8
+32.8
+32.8
+24.8",FO,,2078 g/mol,2,"4.5
+8.2
+11.4
+8.2
+8.2
+8.2
+6.2",FO呋喃基+MPBMI马来酰亚胺基,NCC1=CC=CO1+O=C(N1)C=CC1=O,"8.6
+16.0
+22.2
+16.0
+16.0
+16.0
+—",1.05:1,-,"1.86±0.12
+2.40±0.22
+2.22±0.19
+1.65±0.15
+1.57±0.21
+1.22±0.10
+11.84±1.16
+14.47±3.50","0.95±0.08
+1.10±0.04
+1.58±0.16
+1.10±0.03
+0.86±0.01
+0.80±0.07
+1.15±0.11
+1.74±0.20","265±27
+120±5
+118±10
+129±8
+131±5
+120±7
+30±9
+24±10","-51
+-51
+-51
+-50
+-52
+-52
+-50
+-49",DSC,120+60,1h+24h,"0.39
+0.40
+-
+0.34
+0.27
+0.25
+-
+搭接剪切粘附成功（无量化的拉伸强度恢复率）","125
+70
+-
+-
+-
+-
+-
+-","1.19
+0.79
+-
+-
+-
+-
+-
+-","41%
+36%
+-
+31%
+31%
+31%
+-
+无线型自修复测试"
+35.0,"PU/B-THDI
+PU/FMXene
+PU/B-THDI/FMXene1
+PU/B-THDI/FMXene2
+PU/B-THDI/FMXene3","Li, Q., He, H., Ye, X., Guan, F., Ai, Y., Shen, Y., & Zhang, C. (2023). NIR light-induced functionalized MXene as a dynamic-crosslinker for reinforced polyurethane composites with shape memory and self-healing. Chemical Engineering Journal, *475*, 146500.
+https://doi.org/10.1016/j.cej.2023.146500",DA,HDI,O=C=NCCCCCCN=C=O,2,26.3,"B-THDI
+—
+B-THDI
+B-THDI
+B-THDI",O=C1N(CCCCCNC(=O)OCCOC(=O)c2ccc(cc2)C(=O)OCCO)C(=O)N(CCCCCNC(=O)OCCOC(=O)c3ccc(cc3)C(=O)OCCO)C(=O)N1CCCCCNC(=O)OCCOC(=O)c4ccc(cc4)C(=O)OCCO,"
+—
+多臂（表面多个呋喃基）
+多臂
+多臂
+多臂","10.4
+-
+9.8
+9.2
+8.6",,,,,PBA-2000,,2000 g/mol,2,"25.6
+24.1
+25.2
+24.8
+24.4",PTMG-2000,,2000 g/mol,2,"25.6
+24.1
+25.2
+24.8
+24.4","无
+FMXene表面的呋喃基 + DHMI的马来酰亚胺基
+同上
+同上
+同上",NCC1=CC=CO1+O=C(N1)C=CC1=O,"0
+15.6
+2.0
+4.0
+6.0",1.05:1,"低
+较高
+较高
+最高
+降低",-,"11.5±1.4
+8.8±1.2
+13.7±0.8
+16.9±1.5
+10.3±1.0","243.4±25
+214.9±28
+236.4±30
+233.9±20
+221.2±24",-50,DMA,"—
+NIR~150
+NIR~150
+NIR~156
+NIR~150","—
+<100s
+<100s
+<100s
+<100s","—
+6.2
+10.3
+14.9
+7.7","—
+155
+189
+213
+166",-,"0
+70%
+75%
+88%
+75%"
+36.0,"DAPU
+RFGO-DAPU-1
+RFGO-DAPU-2
+RFGO-DAPU-3","Li, J., Zhang, G., Sun, R., & Wong, C.-P. (2017). A covalently cross-linked reduced functionalized graphene oxide/polyurethane composite based on Diels-Alder chemistry and its potential application in healable flexible electronics. Journal of Materials Chemistry C, *5*(1), 220–228.
+https://doi.org/10.1039/C6TC04715G",DA,MDI,O=C=NC1=CC=C(C=C1)CC2=CC=C(N=C=O)C=C2,2,"55.6
+55.3
+55.0
+54.7",-,-,-,-,,,,,PTMEG-2000,,2000 g/mol,2,"24.5
+24.4
+24.3
+24.1",-,,-,-,-,"2F2OH中的呋喃基 + BMI中的马来酰亚胺基
+同上 + RFGO表面的呋喃基
+同上
+同上
+（2F2OH为双臂，BMI为双臂）",NCC1=CC=CO1+O=C(N1)C=CC1=O,"6.9
+7.4
+7.9
+8.5",1.05:1,"较低
+增加
+增加
+最高","29.27 ± 2.44
+34.48 ± 0.68
+42.30 ± 3.18
+51.91 ± 3.28","19.92 ± 1.22
+24.55 ± 3.11
+26.06 ± 2.59
+24.22 ± 3.39","358 ± 12
+420 ± 56
+410 ± 23
+343 ± 21",15°C,DSC,微波+70°C,2.083h,"10.57 ± 0.91
+15.89 ± 1.11
+18.33 ± 2.67
+22.56 ± 2.76","184 ± 17
+296 ± 65
+292 ± 23
+300 ± 30","18.6 ± 1.42
+29.67 ± 1.55
+36.7 ± 5.27
+43.5 ± 2.34","53.08774
+64.7279
+70.16968
+92.86799"
+37.0,"FPU
+FPU-POSS-M6
+FPU-POSS-M12
+FPU-POSS-M36","Behera, P. K., Mondal, P., & Singha, N. K. (2018). Self-healable and ultrahydrophobic polyurethane-POSS hybrids by Diels-Alder ""click"" reaction: A new class of coating material. Macromolecules, *51*(13), 4770–4781.
+https://doi.org/10.1021/acs.macromol.8b00583",DA,MDI,O=C=NC1=CC=C(C=C1)CC2=CC=C(N=C=O)C=C2,2,"46.2
+40.2
+36.6
+28.2",FA-FGE,C1=COC(=C1)CN(CC(C)OCC2=CC=CO2)CC(CO)O,2,"30.7
+26.7
+24.3
+18.7",,,,,PCL-二醇,,1300 g/mol,2,"23.1
+20.1
+18.3
+14.1",-,,-,-,-,POSS-M,C([Si]12O[Si](CC(C)C)3O[Si](CC(C)C)4O[Si](CC(C)C)(O[Si]5(O[Si](CC(C)C)(O4)O[Si](CC(C)C)(O[Si](CC(C)C)(O1)O5)O3)CCCN1C(=O)C([H])=C([H])C1=O)O2)C(C)C,"0
+13.0
+20.8
+39.0",1:01,"线性聚合物（无交联）
+接枝体系（非交联网络）
+接枝体系
+接枝体系",-,"4.05151
+8.12794
+9.81583
+18.15977","961.85066
+548.83955
+425.63904
+187.09309","-30
+-28
+-26
+-20",DSC,"自修复温度1 自修复温度2
+—                   —
+130                  70
+130                  70
+130                  70","自修复时间1 自修复时间2
+—                     —
+3                        15
+3                        15
+3                        15","0.60566
+3.05151
+5.73941
+15.36359","160.42721
+128.80023
+154.84597
+138.51571",-,"14.9%
+37.5%
+58.5%
+84.6%"
+38.0,"PCLF/PU/BMI
+G10
+T10
+G5T5
+G5T10","Wang, L.-Y., Chiang, C.-H., Chueh, C.-C., Lin, Y.-R., Lin, C.-H., Lee, C.-W., & Lee, Y.-H. (2025). A bio-based, biodegradable, self-healable, and recyclable dynamic crosslinking network for sustainable high-performance electromagnetic interference shielding. Materials Today Chemistry, *43*, 102473.
+https://doi.org/10.1016/j.mtchem.2024.102473",DA,H₁₂MDI,O=C=NC(CC1)CCC1CC2CCC(N=C=O)CC2,2,"32.0
+28.8
+28.8
+30.4
+28.8",-,-,-,-,,,,,PCL链段,,114 g/mol,2,"32.0
+28.8
+28.8
+30.4
+28.8",二聚酸聚酯多元醇,,2000 g/mol,2,"32.0
+28.8
+28.8
+30.4
+28.8","PCLF中FGE呋喃基 + PU呋喃胺基 + BMI马来酰亚胺基
+同上 + GNS表面
+同上 + MWCNT表面
+同上 + GNS+MWCNT表面
+同上 + GNS+MWCNT表面",NCC1=CC=CO1+O=C(N1)C=CC1=O,"4.0
+3.6
+3.6
+3.8
+3.6",1:01,"中等
+增加
+增加
+增加
+最高",-,"6.59034
+4.46045
+10.65686
+4.30461
+5.80308","442.48602
+68.55993
+221.80763
+260.5727
+179.14788",-,-,"80-100
+—
+—
+—
+80-160","逐步升温
+—
+—
+—
+逐步升温","5.71129
+4.31825
+8.79322
+3.57671
+4.87288","385.74511
+63.82189
+206.03889
+250.13774
+160.45933",-,"86.22739
+98.2909
+82.436
+82.7462
+82.436"
+39.0,"PU
+PU-DA-PDAP₀.₅
+PU-DA-PDAP₁
+PU-DA-PDAP₁.₅
+PU-DA-PDAP₂","Yang, S., Du, X., Du, Z., Zhou, M., Cheng, X., Wang, H., & Yan, B. (2020). Robust, stretchable and photothermal self-healing polyurethane elastomer based on furan-modified polydopamine nanoparticles. Polymer, *190*, 122219.
+https://doi.org/10.1016/j.polymer.2020.122219",DA,IPDI,CC1(C)CC(N=C=O)CC(CN=C=O)(C)C1,2,"31.8
+31.7
+31.6
+31.5
+31.3",BDO,OCCCCO,2,"7.1
+7.1
+7.0
+7.0
+7.0",,,,,PPG-2000,,2000,2,"54.5
+54.3
+54.1
+53.9
+53.7",-,,-,-,-,"无
+F-PDAPs表面呋喃基 + HEMI马来酰亚胺基形成的DA加合物
+同上
+同上
+同上",NCC1=CC=CO1+O=C(N1)C=CC1=O,"6.6
+7.6
+6.9
+7.3
+7.6
+8.0",1:01,"低
+增加
+增加
+最高
+过高（团聚）",-,"17.36
+24.93846
+30.3294
+33.94238
+34.75624","718
+739.94242
+764.43037
+801
+791.25623","-50
+-48
+-45
+-42
+-40",DMA,"NIR方法   加热方法
+—              —
+115            130
+125            130
+134            130
+155            130","NIR方法   加热方法
+—             —
+30s           120s
+30s           120s
+30s           120s
+30s           120s","NIR方法       加热方法
+—                   —
+19.56999     20.35082
+25.38728     26.96563
+31.5            31.7
+31.27319     31.57452","NIR方法      加热方法
+—
+687.53761   719.44389
+692.21356   681.16615
+780.33078   789.83923
+764.0785     751.23084",-,"—       —
+78.6    84
+87.9    92
+91.8    92.5
+86.0    87"
+40.0,"PCM
+FMPCM-1
+FMPCM-2
+FMPCM-3
+FMPCM-4","Li, X., Wang, H., Yuan, S., Lin, S., Deng, S., Du, Z., Cheng, X., & Du, X. (2022). NIR-induced self-healing and recyclable polyurethane composites based on thermally reversible cross-linking for efficient solar-to-thermal energy storage. Polymer, *250*, 124885.
+https://doi.org/10.1016/j.polymer.2022.124885",DA,MDI,O=C=NC1=CC=C(C=C1)CC2=CC=C(N=C=O)C=C2,2,"10.5
+10.5
+10.4
+10.3
+10.1",BDO,OCCCCO,2,0.7,,,,,PEG 6000,,6000,2,"57.2
+56.9
+56.7
+56.1
+55.0",PPG 220,,1000 g/mol,2,"19.1
+19.0
+18.9
+18.7
+18.3",f-MXene表面呋喃基 + HEMI马来酰亚胺基形成的DA加合物,NCC1=CC=CO1+O=C(N1)C=CC1=O,"12.5
+12.9
+13.3
+14.2
+15.9",1.11:1,"永久
+可逆
+可逆
+可逆
+可逆",-,"16.4
+6.0
+16.6
+17.2
+12.5",-,"49.4
+49.0
+49.7
+50.3
+49.1",DSC,"—
+>120
+>120
+>120
+>120","—
+60s+6h
+60s+6h
+60s+6h
+60s+6h","—
+4.6
+14.1
+15.3
+11.3",-,-,"—
+76.9
+85.1
+89.1
+90.6"
+1.0,POU-3,"[1]周菱瑶,赵启凡,王占华,等.基于异氰酸酯-肟可逆加成反应的动态交联聚氨酯的制备及性能[J/OL].高分子材料科学与工程,1-12[2025-11-25].https://doi.org/10.16865/j.cnki.1000-7555.2025.0156.",二硫,MDI,O=C=NC1=CC=C(CC2=CC=C(N=C=O)C=C2)C=C1,2,35.29%,Tri-HDI,O=C(N(C(N(CCCCCCN=C=O)C1=O)=O)CCCCCCN=C=O)N1CCCCCCN=C=O,3,11.76%,-,-,-,-,PCL Mn≈1000 g·mol-1,,,2,17.65%,,,,,,DMG,,35.29%,3,0.12,185.5,34.1,197.90%,66.2,DMA,100,1,22.165,132.56%,144.19,65.00%
+1.0,PU1,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C1,2,13.67%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,86.33%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C2.[S],1.80%,                1:1.87,-,-,3.44,1214,-,-,60,0.5,0.48,921,-,75.9
+2.0,PU2,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C2,2,13.67%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,86.33%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C3.[S],1.80%,                1:1.88,-,-,3.44,1214,-,-,60,1,0.96,974,-,80.2
+3.0,PU3,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,13.67%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,86.33%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C4.[S],1.80%,                1:1.89,-,-,3.44,1214,-,-,60,2,1.45,1055,-,86.9
+4.0,PU2,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C4,2,15.58%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,84.42%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C5.[S],2.92%,                1:1.90,-,-,4.61,1123,-,-,60,0.5,0.48,732,-,65.2
+5.0,PU3,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C5,2,15.58%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,84.42%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C6.[S],2.92%,                1:1.91,-,-,4.61,1123,-,-,60,1,0.99,855,-,76.1
+6.0,PU4,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C6,2,15.58%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,84.42%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C7.[S],2.92%,                1:1.92,-,-,4.61,1123,-,-,60,2,1.46,924,-,82.3
+7.0,PU3,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C7,2,17.76%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,82.24%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C8.[S],4.19%,                1:1.93,-,-,2.83,1436,-,-,60,0.5,0.61,1063,-,74
+8.0,PU4,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C8,2,17.76%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,82.24%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C9.[S],4.19%,                1:1.94,-,-,2.83,1436,-,-,60,1,0.93,1189,-,82.8
+9.0,PU5,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C9,2,17.76%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,82.24%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C10.[S],4.19%,                1:1.95,-,-,2.83,1436,-,-,60,2,1.24,1296,-,90.3
+10.0,PU4,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C10,2,20.28%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,79.72%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C11.[S],5.67%,                1:1.96,-,-,2.43,1524,-,-,60,0.5,1.12,1170,-,76.8
+11.0,PU5,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C11,2,20.28%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,79.72%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C12.[S],5.67%,                1:1.97,-,-,2.43,1524,-,-,60,1,1.39,1323,-,86.8
+12.0,PU6,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C12,2,20.28%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,79.72%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C13.[S],5.67%,                1:1.98,-,-,2.43,1524,-,-,60,2,1.63,1445,-,94.8
+13.0,PU5,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C13,2,23.15%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,76.85%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C2.[S],7.30%,                1:1.99,-,-,1.78,1656,-,-,60,0.5,0.92,1293,-,78.1
+14.0,PU6,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C14,2,23.15%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,76.85%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C3.[S],7.30%,                1:1.100,-,-,1.78,1656,-,-,60,1,1.04,1431,-,86.4
+15.0,PU7,"邵春妍1,田秀娟1,温喜梅2,李灿刚2,宋晓杰1          基于动态二硫键的聚氨酯弹性体自修复及阻尼性能研究https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzB8BN0n9IKcOp3XDtdgctqJkyJT8fJbBi9u1Iws0RsQ1f8GCM9O12L8XjhDptQ57EYuZWvfRVgq02X1Q-gq6gJoEWfp_0RSJrV2QiAVzNeL-XtTdmAm8NhqNc3cY7jWkXOXtRpoi34Fxcq2GuFbdQiTlWlPVRhL61w=&uniplatform=NZKPT",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C15,2,23.15%,-,-,-,-,-,-,-,-,PTMEG,,2000,2,76.85%,-,,,-,-,DHDPD,OC1=CC=C(SC)C=C1.CC2=CC=C(O)C=C4.[S],7.30%,                1:1.101,-,-,1.78,1656,-,-,60,2,1.55,1621,-,97.9
+1.0,PU-BDO,"邹欣倩，杜鹃．高强度自修复聚氨酯弹性体的合成与性能研究[J/OL]．涂料工 
+业. https://link.cnki.net/urlid/32.1154.tq.20260123.1102.006",二硫,-,-,2,13.79%,-,,-,-,-,-,-,-,PTMEG,,,2,86.21%,-,,,-,-,4-AFD,"
+",-,1.2,-,-,-,-,-,-,80,24,-,-,-,54
+2.0,PU1,"邹欣倩，杜鹃．高强度自修复聚氨酯弹性体的合成与性能研究[J/OL]．涂料工 
+业. https://link.cnki.net/urlid/32.1154.tq.20260123.1102.007",二硫,IPDI-4AFD,,2,27.45%,IPDI-IPDH,,2,-,-,-,-,-,PTMEG,,,2,72.55%,-,,,-,-,5-AFD,,4.57%,1.2,-,-,-,-,-22.8,Q200 型差示扫描量热仪,-,-,-,-,-,-
+3.0,PU1.5,"邹欣倩，杜鹃．高强度自修复聚氨酯弹性体的合成与性能研究[J/OL]．涂料工 
+业. https://link.cnki.net/urlid/32.1154.tq.20260123.1102.008",二硫,IPDI-4AFD,,2,22.90%,IPDI-IPDH,,-,-,-,-,-,-,PTMEG,,,2,77.10%,-,,,-,-,6-AFD,,3.24%,1.2,-,-,-,-,-21.9,Q201 型差示扫描量热仪,,-,-,-,-,
+4.0,PU2,"邹欣倩，杜鹃．高强度自修复聚氨酯弹性体的合成与性能研究[J/OL]．涂料工 
+业. https://link.cnki.net/urlid/32.1154.tq.20260123.1102.009",二硫,IPDI-4AFD,,2,20.35%,IPDI-IPDH,,-,-,-,-,-,-,PTMEG,,,2,79.65%,-,,,-,-,7-AFD,,2.51%,1.2,-,-,-,-,-17.8,Q202 型差示扫描量热仪,,-,-,-,-,
+5.0,PU2.5,"邹欣倩，杜鹃．高强度自修复聚氨酯弹性体的合成与性能研究[J/OL]．涂料工 
+业. https://link.cnki.net/urlid/32.1154.tq.20260123.1102.010",二硫,IPDI-4AFD,,2,18.80%,IPDI-IPDH,,-,-,-,-,-,-,PTMEG,,,2,81.20%,-,,,-,-,8-AFD,,2.07%,1.2,-,-,15,940,-12.6,Q203 型差示扫描量热仪,80,24,8,400-450,-,66
+6.0,PU3,"邹欣倩，杜鹃．高强度自修复聚氨酯弹性体的合成与性能研究[J/OL]．涂料工 
+业. https://link.cnki.net/urlid/32.1154.tq.20260123.1102.011",二硫,IPDI-4AFD,,2,28.21%,IPDI-IPDH,,-,-,-,-,-,-,PTMEG,,,2,71.79%,-,,,-,-,9-AFD,,1.51%,1.2,-,-,-,-,-11.6,Q204 型差示扫描量热仪,-,"-
+",-,－,-,-
+1.0,PU-SS,李 璐 1，2，3，* ， 张贤明 1 ， 郝增恒 3-动态二硫键自修复聚氨酯改性沥青的制备和性能-https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzDo1i05jg1kAR98MIbeH7WT-8UFzApwOUYRV-OOBJt8jF31wIfUMWOSZqnUudqXaZTvgMbcqLXUmJ3OxKkXaLsI51mqOoVSZ7n_NSybi4P_2_rb2sTqSHbp2YnKSXTrXl6cV3DuEBCRb59vcCAG4rdge2lwwQVrfhk=&uniplatform=NZKPT,二硫,IPDI-CY-OA,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC1,2,4.27%,IPDI-BDO,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC1,2,3.26%,-,-,-,-,PPG,,2000,2,32.38%,N330,,,2,48.58%,含二硫键扩链剂（CY-OA,,2.47%,1.05,-,-,5.35,600,-,-,60,1,-,－,-,60.74
+2.0,PU-SS,李 璐 1，2，3，* ， 张贤明 1 ， 郝增恒 3-动态二硫键自修复聚氨酯改性沥青的制备和性能-https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzDo1i05jg1kAR98MIbeH7WT-8UFzApwOUYRV-OOBJt8jF31wIfUMWOSZqnUudqXaZTvgMbcqLXUmJ3OxKkXaLsI51mqOoVSZ7n_NSybi4P_2_rb2sTqSHbp2YnKSXTrXl6cV3DuEBCRb59vcCAG4rdge2lwwQVrfhk=&uniplatform=NZKPT,二硫,IPDI-CY-OA,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC2,2,4.27%,IPDI-BDO,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC2,2,3.26%,-,-,-,-,PPG,,2000,2,32.38%,N330,,,2,48.58%,含二硫键扩链剂（CY-OA,,2.47%,1.05,-,-,5.35,600,-,-,60,5,-,－,-,79.25
+3.0,PU-SS,李 璐 1，2，3，* ， 张贤明 1 ， 郝增恒 3-动态二硫键自修复聚氨酯改性沥青的制备和性能-https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzDo1i05jg1kAR98MIbeH7WT-8UFzApwOUYRV-OOBJt8jF31wIfUMWOSZqnUudqXaZTvgMbcqLXUmJ3OxKkXaLsI51mqOoVSZ7n_NSybi4P_2_rb2sTqSHbp2YnKSXTrXl6cV3DuEBCRb59vcCAG4rdge2lwwQVrfhk=&uniplatform=NZKPT,二硫,IPDI-CY-OA,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC3,2,4.27%,IPDI-BDO,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC3,2,3.26%,-,-,-,-,PPG,,2000,2,32.38%,N330,,,2,48.58%,含二硫键扩链剂（CY-OA,,2.47%,1.05,-,-,5.35,600,-,-,60,8,-,－,-,91.58
+4.0,PU-SS,李 璐 1，2，3，* ， 张贤明 1 ， 郝增恒 3-动态二硫键自修复聚氨酯改性沥青的制备和性能-https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzDo1i05jg1kAR98MIbeH7WT-8UFzApwOUYRV-OOBJt8jF31wIfUMWOSZqnUudqXaZTvgMbcqLXUmJ3OxKkXaLsI51mqOoVSZ7n_NSybi4P_2_rb2sTqSHbp2YnKSXTrXl6cV3DuEBCRb59vcCAG4rdge2lwwQVrfhk=&uniplatform=NZKPT,二硫,IPDI-CY-OA,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC4,2,4.27%,IPDI-BDO,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC4,2,3.26%,-,-,-,-,PPG,,2000,2,32.38%,N330,,,2,48.58%,含二硫键扩链剂（CY-OA,,2.47%,1.05,-,-,5.35,600,-,-,60,12,-,－,-,94.02
+5.0,PSA-4,李 璐 1，2，3，* ， 张贤明 1 ， 郝增恒 3-动态二硫键自修复聚氨酯改性沥青的制备和性能-https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzDo1i05jg1kAR98MIbeH7WT-8UFzApwOUYRV-OOBJt8jF31wIfUMWOSZqnUudqXaZTvgMbcqLXUmJ3OxKkXaLsI51mqOoVSZ7n_NSybi4P_2_rb2sTqSHbp2YnKSXTrXl6cV3DuEBCRb59vcCAG4rdge2lwwQVrfhk=&uniplatform=NZKPT,二硫,IPDI-CY-OA,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC5,2,17%,IPDI-BDO,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC5,2,13%,-,-,-,-,PPG,,2000,2,1.29%,N330,,,2,1.94%,PU-SS 中的 CY-OA,,0.10%,1.05,-,-,-,5.9,-,-,25,4,-,－,-,53.8
+6.0,PSA-4,李 璐 1，2，3，* ， 张贤明 1 ， 郝增恒 3-动态二硫键自修复聚氨酯改性沥青的制备和性能-https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzDo1i05jg1kAR98MIbeH7WT-8UFzApwOUYRV-OOBJt8jF31wIfUMWOSZqnUudqXaZTvgMbcqLXUmJ3OxKkXaLsI51mqOoVSZ7n_NSybi4P_2_rb2sTqSHbp2YnKSXTrXl6cV3DuEBCRb59vcCAG4rdge2lwwQVrfhk=&uniplatform=NZKPT,二硫,IPDI-CY-OA,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC6,2,17%,IPDI-BDO,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC6,2,13%,-,-,-,-,PPG,,2000,2,1.29%,N330,,,2,1.94%,PU-SS 中的 CY-OA,,0.10%,1.05,-,-,-,5.9,-,-,25,8,-,－,-,76.3
+7.0,PSA-8,李 璐 1，2，3，* ， 张贤明 1 ， 郝增恒 3-动态二硫键自修复聚氨酯改性沥青的制备和性能-https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzDo1i05jg1kAR98MIbeH7WT-8UFzApwOUYRV-OOBJt8jF31wIfUMWOSZqnUudqXaZTvgMbcqLXUmJ3OxKkXaLsI51mqOoVSZ7n_NSybi4P_2_rb2sTqSHbp2YnKSXTrXl6cV3DuEBCRb59vcCAG4rdge2lwwQVrfhk=&uniplatform=NZKPT,二硫,IPDI-CY-OA,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC7,2,34%,IPDI-BDO,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC7,2,26%,-,-,-,-,PPG,,2000,2,2.59%,N330,,,2,3.89%,PU-SS 中的 CY-OA,,0.20%,1.05,-,-,-,7.6,-,-,25,4,-,－,-,67.2
+8.0,PSA-8,李 璐 1，2，3，* ， 张贤明 1 ， 郝增恒 3-动态二硫键自修复聚氨酯改性沥青的制备和性能-https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzDo1i05jg1kAR98MIbeH7WT-8UFzApwOUYRV-OOBJt8jF31wIfUMWOSZqnUudqXaZTvgMbcqLXUmJ3OxKkXaLsI51mqOoVSZ7n_NSybi4P_2_rb2sTqSHbp2YnKSXTrXl6cV3DuEBCRb59vcCAG4rdge2lwwQVrfhk=&uniplatform=NZKPT,二硫,IPDI-CY-OA,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC8,2,34%,IPDI-BDO,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC8,2,26%,-,-,-,-,PPG,,2000,2,2.59%,N330,,,2,3.89%,PU-SS 中的 CY-OA,,0.20%,1.05,-,-,-,7.6,-,-,25,8,-,－,-,81.9
+9.0,PSA-12,李 璐 1，2，3，* ， 张贤明 1 ， 郝增恒 3-动态二硫键自修复聚氨酯改性沥青的制备和性能-https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzDo1i05jg1kAR98MIbeH7WT-8UFzApwOUYRV-OOBJt8jF31wIfUMWOSZqnUudqXaZTvgMbcqLXUmJ3OxKkXaLsI51mqOoVSZ7n_NSybi4P_2_rb2sTqSHbp2YnKSXTrXl6cV3DuEBCRb59vcCAG4rdge2lwwQVrfhk=&uniplatform=NZKPT,二硫,IPDI-CY-OA,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC9,2,51%,IPDI-BDO,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC9,2,39%,-,-,-,-,PPG,,2000,2,3.89%,N330,,,2,5.83%,PU-SS 中的 CY-OA,,0.29%,1.05,-,-,-,9.2,-,-,25,4,-,－,-,71.8
+10.0,PSA-12,李 璐 1，2，3，* ， 张贤明 1 ， 郝增恒 3-动态二硫键自修复聚氨酯改性沥青的制备和性能-https://kns.cnki.net/kcms2/article/abstract?v=zWoS8hcslzDo1i05jg1kAR98MIbeH7WT-8UFzApwOUYRV-OOBJt8jF31wIfUMWOSZqnUudqXaZTvgMbcqLXUmJ3OxKkXaLsI51mqOoVSZ7n_NSybi4P_2_rb2sTqSHbp2YnKSXTrXl6cV3DuEBCRb59vcCAG4rdge2lwwQVrfhk=&uniplatform=NZKPT,二硫,IPDI-CY-OA,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC10,2,51%,IPDI-BDO,CC1(C)CC(NHC(=O)NCCSSCCNC(=O)NCC2(C)CC3CCC(C2)N3)CCC10,2,39%,-,-,-,-,PPG,,2000,2,3.89%,N330,,,2,5.83%,PU-SS 中的 CY-OA,,0.29%,1.05,-,-,-,9.2,-,-,25,8,-,－,-,85.8
+1.0,MPU3,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc1,2,50.00%,HEDS,OCCSCCSCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,HEDS,OCCSSCCO,33.30%,1.05,-,-,3.2,520,-,-,室温,6,0,0,-,0
+,MPU3,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc1,2,50.00%,HEDS,OCCSCCSCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,HEDS,OCCSSCCO,33.30%,1.05,-,-,3.2,520,-,-,80,24,4.11,8,-,17
+2.0,TPU3,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,TDI,Cc1ccc(N=C=O)cc1N=C=O,2,50.00%,HEDS,OCCSCCSCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,HEDS,OCCSSCCO,33.30%,1.05,-,-,2.8,580,-,-,室温,6,2,154.8,-,11
+,TPU3,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,TDI,Cc1ccc(N=C=O)cc1N=C=O,2,50.00%,HEDS,OCCSCCSCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,HEDS,OCCSSCCO,33.30%,1.05,-,-,2.8,580,-,-,80,24,11.04,431.5,-,61
+3.0,HPU3,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,HMDI,C1CCC(CC1N=C=O)CC2CCC(CC2)N=C=O,2,50.00%,HEDS,OCCSCCSCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,HEDS,OCCSSCCO,33.30%,1.05,-,-,2.5,620,-,-,室温,6,2.39,84.6,-,8.4
+,HPU3,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,HMDI,C1CCC(CC1N=C=O)CC2CCC(CC3)N=C=O,2,50.00%,HEDS,OCCSCCSCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,HEDS,OCCSSCCO,33.30%,1.05,-,-,2.5,620,-,-,80,24,28.5,371.7,-,100
+4.0,IPU3,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,IPDI,CC1(C)CC2(CC1C)CC(C)(N=C=O)CC2N=C=O,2,50.00%,HEDS,OCCSCCSCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,HEDS,OCCSSCCO,33.30%,1.05,-,-,2.2,650,-35,DSC,室温,6,6.39,383.5,-,31
+,IPU3,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,IPDI,CC1(C)CC2(CC1C)CC(C)(N=C=O)CC3N=C=O,2,50.00%,HEDS,OCCSCCSCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,HEDS,OCCSSCCO,33.30%,1.05,-,-,2.2,650,-35,DSC,80,24,20.39,462,-,99
+5.0,IPU2.5,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,IPDI,CC1(C)CC2(CC1C)CC(C)(N=C=O)CC4N=C=O,2,50.00%,HEDS,OCCSCCSCO,2,30.00%,-,-,-,-,PCL 210N,,2000,2,20.00%,-,,,-,-,HEDS,OCCSSCCO,30.00%,1.05,-,-,1.8,700,-,-,室温,6,2.34,269.5,-,12
+,IPU2.5,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,IPDI,CC1(C)CC2(CC1C)CC(C)(N=C=O)CC5N=C=O,2,50.00%,HEDS,OCCSCCSCO,2,30.00%,-,-,-,-,PCL 210N,,2000,2,20.00%,-,,,-,-,HEDS,OCCSSCCO,30.00%,1.05,-,-,1.8,700,-,-,80,24,19.11,561,-,98
+6.0,IPU2,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,IPDI,CC1(C)CC2(CC1C)CC(C)(N=C=O)CC6N=C=O,2,50.00%,HEDS,OCCSCCSCO,2,25.00%,-,-,-,-,PCL 210N,,2000,2,25%,-,,,-,-,HEDS,OCCSSCCO,25.00%,1.05,-,-,1.5,750,-,-,室温,6,1.71,125.4,-,18
+,IPU2,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,IPDI,CC1(C)CC2(CC1C)CC(C)(N=C=O)CC7N=C=O,2,50.00%,HEDS,OCCSCCSCO,2,25.00%,-,-,-,-,PCL 210N,,2000,2,25%,-,,,-,-,HEDS,OCCSSCCO,25.00%,1.05,-,-,1.5,750,-,-,80,24,9.41,664.6,-,99
+7.0,TPU3-HDO,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,TDI,Cc1ccc(N=C=O)cc1N=C=O,2,50.00%,HDO,OCCCCCCCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,-,-,-,1.05,-,-,1.2-2.0,450-500,-,-,室温,6,1.32,167.2,-,6
+,TPU3-HDO,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,TDI,Cc1ccc(N=C=O)cc2N=C=O,2,50.00%,HDO,OCCCCCCCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,-,-,-,1.05,-,-,1.2-2.1,450-501,-,-,80,24,2.64,298.3,-,12
+8.0,HPU3-HDO,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,HMDI,C1CCC(CC1N=C=O)CC2CCC(CC2)N=C=O,2,50.00%,HDO,OCCCCCCCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,-,-,-,1.05,-,-,1.2-2.2,450-502,-,-,室温,6,8.87,243.8,-,19
+,HPU3-HDO,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,HMDI,C1CCC(CC1N=C=O)CC2CCC(CC3)N=C=O,2,50.00%,HDO,OCCCCCCCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,-,-,-,1.05,-,-,1.2-2.3,450-503,-,-,80,24,31.29,351.5,-,67
+9.0,IPU3-HDO,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,IPDI,CC1(C)CC2(CC1C)CC(C)(N=C=O)CC2N=C=O,2,50.00%,HDO,OCCCCCCCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,-,-,-,1.05,-,-,1.2-2.4,450-504,-,-,室温,6,9.38,389.9,-,23
+,IPU3-HDO,张 阳，周雨琪，段文鹏，李 博，许 勇，孙妮娟-硬段结构对含二硫键自修复聚氨酯性能的影响-https://kns.cnki.net/kcms2/article/abstract?v=A-1EuXenf_pf-fMVyZ4WaU8jhZsT2l_ib7Q3guWLYPFfO060PclmIfuEY5KrKGi2HDmHZq3-Z4Fg30uTZ0dWgHyozuu4mKZWo82v7cRCUejUGefKHrlXpIGl_u_zl9zX5aSrA4jB4AcztmUdBLdHb8WgoPM5y4r9RGe08npUDYc=&uniplatform=NZKPT,二硫,IPDI,CC1(C)CC2(CC1C)CC(C)(N=C=O)CC3N=C=O,2,50.00%,HDO,OCCCCCCCO,2,33.30%,-,-,-,-,PCL 210N,,2000,2,16.70%,-,,,-,-,-,-,-,1.05,-,-,1.2-2.5,450-505,-,-,80,24,35.09,447.4,-,86
+1.0,SH-PUU,"[1]晏文康,万里鹰,李钰,等.基于双硫键自修复交联聚氨酯脲的制备及性能[J].高分子材料科学与工程,2023,39(09):135-143.DOI:10.16865/j.cnki.1000-7555.2023.0202.",二硫,IPDI‑PTMG,CC1(C)CC2CC(C1)NC(=O)N=C=O,2,25.41%,TEA,OCCN(CO)CO,3,8.47%,IPDI‑TEA ,CC1(C)CC2CC(C2)NC(=O)N=C=O,2,25.41%,PTMG,,1000,2,16.82%,-,,,-,-,CDE,COC(=O)C(N)CSSC(N)C(=O)OC,23.89%,0.9,-,-,5.22,628.40%,49.2,DSC,25（室温）,24,1.57,246.8,0.41,30.00%
+2.0,SH-PUU,"[1]晏文康,万里鹰,李钰,等.基于双硫键自修复交联聚氨酯脲的制备及性能[J].高分子材料科学与工程,2023,39(09):135-143.DOI:10.16865/j.cnki.1000-7555.2023.0203.",二硫,IPDI‑PTMG,CC1(C)CC2CC(C2)NC(=O)N=C=O,2,25.41%,TEA,OCCN(CO)CO,3,8.47%,IPDI‑TEA ,CC1(C)CC2CC(C3)NC(=O)N=C=O,2,25.41%,PTMG,,1000,2,16.82%,-,,,-,-,CDE,COC(=O)C(N)CSSC(N)C(=O)OC,23.89%,0.9,-,-,5.22,628.40%,49.2,DSC,80,1,3.25,486.2,0.82,62.30%
+3.0,SH-PUU,"[1]晏文康,万里鹰,李钰,等.基于双硫键自修复交联聚氨酯脲的制备及性能[J].高分子材料科学与工程,2023,39(09):135-143.DOI:10.16865/j.cnki.1000-7555.2023.0204.",二硫,IPDI‑PTMG,CC1(C)CC2CC(C1)NC(=O)N=C=O,2,25.41%,TEA,OCCN(CO)CO,3,8.47%,IPDI‑TEA ,CC1(C)CC2CC(C4)NC(=O)N=C=O,2,25.41%,PTMG,,1000,2,16.82%,-,,,-,-,CDE,COC(=O)C(N)CSSC(N)C(=O)OC,23.89%,0.9,-,-,5.22,628.40%,49.2,DSC,80,2,3.92,501.5,0.95,75.10%
+4.0,SH-PUU,"[1]晏文康,万里鹰,李钰,等.基于双硫键自修复交联聚氨酯脲的制备及性能[J].高分子材料科学与工程,2023,39(09):135-143.DOI:10.16865/j.cnki.1000-7555.2023.0205.",二硫,IPDI‑PTMG,CC1(C)CC2CC(C2)NC(=O)N=C=O,2,25.41%,TEA,OCCN(CO)CO,3,8.47%,IPDI‑TEA ,CC1(C)CC2CC(C5)NC(=O)N=C=O,2,25.41%,PTMG,,1000,2,16.82%,-,,,-,-,CDE,COC(=O)C(N)CSSC(N)C(=O)OC,23.89%,0.9,-,-,5.22,628.40%,49.2,DSC,80,3,4.31,514.3,1.08,82.60%
+5.0,SH-PUU,"[1]晏文康,万里鹰,李钰,等.基于双硫键自修复交联聚氨酯脲的制备及性能[J].高分子材料科学与工程,2023,39(09):135-143.DOI:10.16865/j.cnki.1000-7555.2023.0206.",二硫,IPDI‑PTMG,CC1(C)CC2CC(C3)NC(=O)N=C=O,2,25.41%,TEA,OCCN(CO)CO,3,8.47%,IPDI‑TEA ,CC1(C)CC2CC(C6)NC(=O)N=C=O,2,25.41%,PTMG,,1000,2,16.82%,-,,,-,-,CDE,COC(=O)C(N)CSSC(N)C(=O)OC,23.89%,0.9,-,-,5.22,628.40%,49.2,DSC,80,4,4.66,520.7,1.19,89.20%
+6.0,SH-PUU,"[1]晏文康,万里鹰,李钰,等.基于双硫键自修复交联聚氨酯脲的制备及性能[J].高分子材料科学与工程,2023,39(09):135-143.DOI:10.16865/j.cnki.1000-7555.2023.0207.",二硫,IPDI‑PTMG,CC1(C)CC2CC(C4)NC(=O)N=C=O,2,25.41%,TEA,OCCN(CO)CO,3,8.47%,IPDI‑TEA ,CC1(C)CC2CC(C7)NC(=O)N=C=O,2,25.41%,PTMG,,1000,2,16.82%,-,,,-,-,CDE,COC(=O)C(N)CSSC(N)C(=O)OC,23.89%,0.9,-,-,5.22,628.40%,49.2,DSC,80,5,4.9,528.4,1.26,93.90%
+1.0,PU-S2,"https://rdcu.be/e1pFZ
+DOI: 10.1007/s42823-022-00413-y",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.04,-,-,-,-,-,-,-,-,PTMEG,,2000,2,77.2,-,,,-,-,UPY、HEDS,CC(NC(N)=N1)=C(CCO)C1=O、OCCSSCCO,6.36,1.25:1,-,-,14.83,640.3,-71.2,DSC,30,24,4.28,204.97,-,28.6
+2.0,PU-S2,"https://rdcu.be/e1pFZ
+DOI: 10.1007/s42823-022-00413-y",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.04,-,-,-,-,-,-,-,-,PTMEG,,2000,2,77.2,-,,,-,-,UPY、HEDS,CC(NC(N)=N1)=C(CCO)C1=O、OCCSSCCO,6.36,1.25:1,-,-,14.83,640.3,-71.2,DSC,80,24,11.92,510.3,-,80.38
+3.0,PU-S5,"https://rdcu.be/e1pFZ
+DOI: 10.1007/s42823-022-00413-y",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.04,-,-,-,-,-,-,-,-,PTMEG,,2000,2,77.2,-,,,-,-,UPY、HEDS,CC(NC(N)=N1)=C(CCO)C1=O、OCCSSCCO,5.79,1.25:1,-,-,12.28,1210.8,-72.8,DSC,30,24,7.75,844.49,-,63.11
+4.0,PU-S5,"https://rdcu.be/e1pFZ
+DOI: 10.1007/s42823-022-00413-y",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.04,-,-,-,-,-,-,-,-,PTMEG,,2000,2,77.2,-,,,-,-,UPY、HEDS,CC(NC(N)=N1)=C(CCO)C1=O、OCCSSCCO,5.79,1.25:1,-,-,12.28,1210.8,-72.8,DSC,80,24,11.64,1091.8,-,94.79
+5.0,PU-S8,"https://rdcu.be/e1pFZ
+DOI: 10.1007/s42823-022-00413-y",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.04,-,-,-,-,-,-,-,-,PTMEG,,2000,2,77.2,-,,,-,-,UPY、HEDS,CC(NC(N)=N1)=C(CCO)C1=O、OCCSSCCO,5.99,1.25:1,-,-,0.28,1249.3,-73.9,DSC,30,24,0.26,1213.63,-,92.86
+6.0,PU-S8,"https://rdcu.be/e1pFZ
+DOI: 10.1007/s42823-022-00413-y",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.04,-,-,-,-,-,-,-,-,PTMEG,,2000,2,77.2,-,,,-,-,UPY、HEDS,CC(NC(N)=N1)=C(CCO)C1=O、OCCSSCCO,5.99,1.25:1,-,-,0.28,1249.3,-73.9,DSC,80,24,0.28,1019.33,-,100
+7.0,PU-S10,"https://rdcu.be/e1pFZ
+DOI: 10.1007/s42823-022-00413-y",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.04,-,-,-,-,-,-,-,-,PTMEG,,2000,2,77.2,-,,,-,-,HEDS,OCCSSCCO,5.9,1.25:1,-,-,-,-,-70,DSC,-,-,-,-,-,-
+1.0,PU1,"[1][ Kun Chang, Jia H , Gu] S Y .A transparent, highly stretchable, self-healing polyurethane based on disulfide bonds[J].European Polymer Journal, 2019.DOI:10.1016/j.eurpolymj.2018.11.005.",二硫,HDI,O=C=NCCCCCCN=C=O,2,13,-,-,-,-,-,-,-,-,PEG,,2000,2,67,PTMEG-2000,,,2,9,4-氨基苯基二硫醚,NC1=CC=C(SSC2=CC=C(N)C=C2)C=C1,11,2.04:1,-,-,5.33,811,-15,DMA,60,24,2.29,-,-,43.4
+2.0,PU1,"[1][ Kun Chang, Jia H , Gu] S Y .A transparent, highly stretchable, self-healing polyurethane based on disulfide bonds[J].European Polymer Journal, 2019.DOI:10.1016/j.eurpolymj.2018.11.005.",二硫,HDI,O=C=NCCCCCCN=C=O,2,13,-,-,-,-,-,-,-,-,PEG,,2000,2,67,PTMEG-2000,,,2,9,4-氨基苯基二硫醚,NC1=CC=C(SSC2=CC=C(N)C=C2)C=C1,11,2.04:1,-,-,5.33,811,-15,DMA,70,24,2.86,-,-,53.66
+3.0,PU1,"[1][ Kun Chang, Jia H , Gu] S Y .A transparent, highly stretchable, self-healing polyurethane based on disulfide bonds[J].European Polymer Journal, 2019.DOI:10.1016/j.eurpolymj.2018.11.005.",二硫,HDI,O=C=NCCCCCCN=C=O,2,13,-,-,-,-,-,-,-,-,PEG,,2000,2,67,PTMEG-2000,,,2,9,4-氨基苯基二硫醚,NC1=CC=C(SSC2=CC=C(N)C=C2)C=C1,11,2.04:1,-,-,5.33,811,-15,DMA,80,1,1.87,-,-,35.08
+4.0,PU1,"[1][ Kun Chang, Jia H , Gu] S Y .A transparent, highly stretchable, self-healing polyurethane based on disulfide bonds[J].European Polymer Journal, 2019.DOI:10.1016/j.eurpolymj.2018.11.005.",二硫,HDI,O=C=NCCCCCCN=C=O,2,13,-,-,-,-,-,-,-,-,PEG,,2000,2,67,PTMEG-2000,,,2,9,4-氨基苯基二硫醚,NC1=CC=C(SSC2=CC=C(N)C=C2)C=C1,11,2.04:1,-,-,5.33,811,-15,DMA,80,4,2.41,-,-,45.22
+5.0,PU1,"[1][ Kun Chang, Jia H , Gu] S Y .A transparent, highly stretchable, self-healing polyurethane based on disulfide bonds[J].European Polymer Journal, 2019.DOI:10.1016/j.eurpolymj.2018.11.005.",二硫,HDI,O=C=NCCCCCCN=C=O,2,13,-,-,-,-,-,-,-,-,PEG,,2000,2,67,PTMEG-2000,,,2,9,4-氨基苯基二硫醚,NC1=CC=C(SSC2=CC=C(N)C=C2)C=C1,11,2.04:1,-,-,5.33,811,-15,DMA,80,8,3.22,-,-,60.41
+6.0,PU1,"[1][ Kun Chang, Jia H , Gu] S Y .A transparent, highly stretchable, self-healing polyurethane based on disulfide bonds[J].European Polymer Journal, 2019.DOI:10.1016/j.eurpolymj.2018.11.005.",二硫,HDI,O=C=NCCCCCCN=C=O,2,13,-,-,-,-,-,-,-,-,PEG,,2000,2,67,PTMEG-2000,,,2,9,4-氨基苯基二硫醚,NC1=CC=C(SSC2=CC=C(N)C=C2)C=C1,11,2.04:1,-,-,5.33,811,-15,DMA,80,12,4.09,-,-,76.92
+7.0,PU1,"[1][ Kun Chang, Jia H , Gu] S Y .A transparent, highly stretchable, self-healing polyurethane based on disulfide bonds[J].European Polymer Journal, 2019.DOI:10.1016/j.eurpolymj.2018.11.005.",二硫,HDI,O=C=NCCCCCCN=C=O,2,13,-,-,-,-,-,-,-,-,PEG,,2000,2,67,PTMEG-2000,,,2,9,4-氨基苯基二硫醚,NC1=CC=C(SSC2=CC=C(N)C=C2)C=C1,11,2.04:1,-,-,5.33,811,-15,DMA,80,24,4.98,700,-,93.43
+8.0,PU1(循环修复),"[1][ Kun Chang, Jia H , Gu] S Y .A transparent, highly stretchable, self-healing polyurethane based on disulfide bonds[J].European Polymer Journal, 2019.DOI:10.1016/j.eurpolymj.2018.11.005.",二硫,HDI,O=C=NCCCCCCN=C=O,2,13,-,-,-,-,-,-,-,-,PEG,,2000,2,67,PTMEG-2000,,,2,9,4-氨基苯基二硫醚,NC1=CC=C(SSC2=CC=C(N)C=C2)C=C1,11,2.04:1,-,-,5.33,811,-15,DMA,80,24（1次循环）,5.08,-,-,95.22
+9.0,PU0（对照样）,"[1][ Kun Chang, Jia H , Gu] S Y .A transparent, highly stretchable, self-healing polyurethane based on disulfide bonds[J].European Polymer Journal, 2019.DOI:10.1016/j.eurpolymj.2018.11.005.",二硫,HDI,O=C=NCCCCCCN=C=O,2,14.5,-,-,-,-,-,-,-,-,PEG,,2000,2,74.5,PTMEG-2000,,,2,11,-,-,0,2.04:1,-,-,-,-,-30,DMA,80,24,1.34,-,-,36.42
+1.0,A1,"[1]刘敏.二硫键对自修复水性聚氨酯机械性能的影响[J].中国皮革,2024,53(11):91-97.DOI:10.13536/j.cnki.issn1001-6813.2024-011-018.",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,41.3,DMPA,CC(CO)(CO)C(=O)O,2,3.49,-,-,-,-,PTMEG,,2000,2,58.7,-,,,-,-,S-S（HEDS),OCCSSCCO,11.70%,1.2,-,-,11.6,524,-40.2,DMA,80,18,9.57,-,-,82.5
+2.0,A2,"[1]刘敏.二硫键对自修复水性聚氨酯机械性能的影响[J].中国皮革,2024,53(11):91-97.DOI:10.13536/j.cnki.issn1001-6813.2024-011-019.",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,39.4,DMPA,CC(CO)(CO)C(=O)O,2,3.6,-,-,-,-,PTMEG,,2000,2,60.6,-,,,-,-,S-S（HEDS),OCCSSCCO,11.70%,1.2,-,-,24.5,448,-38.5,DMA,80,18,13.03,-,-,53.2
+3.0,B1,"[1]刘敏.二硫键对自修复水性聚氨酯机械性能的影响[J].中国皮革,2024,53(11):91-97.DOI:10.13536/j.cnki.issn1001-6813.2024-011-020.",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,41.3,DMPA,CC(CO)(CO)C(=O)O,2,3.49,-,-,-,-,PTMEG,,2000,2,58.7,-,,,-,-,S-S（HEDS),OCCSSCCO,11.70%,1.2,-,-,16.3,605,-37.4,DMA,80,18,8.2,-,-,50.3
+4.0,B2,"[1]刘敏.二硫键对自修复水性聚氨酯机械性能的影响[J].中国皮革,2024,53(11):91-97.DOI:10.13536/j.cnki.issn1001-6813.2024-011-021.",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,39.4,DMPA,CC(CO)(CO)C(=O)O,2,3.59,-,-,-,-,PTMEG,,2000,2,60.6,-,,,-,-,S-S（HEDS),OCCSSCCO,11.70%,1.2,-,-,28.8,457,-35.9,DMA,80,18,4.18,-,-,14.5
+1.0,PUSA-1,"[1]Liu, MaochenZhong, JiangLi, ZijianRong, JinchuangYang, KunZhou, JiyongShen, LiangGao, FeiHuang, XuelongHe, Haifeng.A high stiffness and self-healable polyurethane based on disulfide bonds and hydrogen bonding[J].European Polymer Journal, 2020, 124(1).",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,38.5,-,-,-,-,-,-,-,-,PTMEG,,1000,2,30,-,,,-,-,HEDS,OCCSSCCO,9.65,-,1.6*10^-5,3.5,-,-,10.7,DSC,90,24,-,-,-,-
+2.0,PUSA-2,"[1]Liu, MaochenZhong, JiangLi, ZijianRong, JinchuangYang, KunZhou, JiyongShen, LiangGao, FeiHuang, XuelongHe, Haifeng.A high stiffness and self-healable polyurethane based on disulfide bonds and hydrogen bonding[J].European Polymer Journal, 2020, 124(1).",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,39,-,-,-,-,-,-,-,-,PTMEG,,1000,2,24.5,-,,,-,-,HEDS,OCCSSCCO,10.18,-,1.58*10^-4,47.4,-,-,39.7,DSC,90,24,-,-,-,-
+3.0,PUSA-3,"[1]Liu, MaochenZhong, JiangLi, ZijianRong, JinchuangYang, KunZhou, JiyongShen, LiangGao, FeiHuang, XuelongHe, Haifeng.A high stiffness and self-healable polyurethane based on disulfide bonds and hydrogen bonding[J].European Polymer Journal, 2020, 124(1).",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,39.5,-,-,-,-,-,-,-,-,PTMEG,,1000,2,19,-,,,-,-,HEDS,OCCSSCCO,10.76,-,2.09*10^-4,111.6,-,-,55.9,DSC,70,12,-,-,-,-
+4.0,PUSA-3,"[1]Liu, MaochenZhong, JiangLi, ZijianRong, JinchuangYang, KunZhou, JiyongShen, LiangGao, FeiHuang, XuelongHe, Haifeng.A high stiffness and self-healable polyurethane based on disulfide bonds and hydrogen bonding[J].European Polymer Journal, 2020, 124(1).",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,39.5,-,-,-,-,-,-,-,-,PTMEG,,1000,2,19,-,,,-,-,HEDS,OCCSSCCO,10.76,-,2.09*10^-4,111.6,-,-,55.9,DSC,80,12,-,-,-,-
+5.0,PUSA-3,"[1]Liu, MaochenZhong, JiangLi, ZijianRong, JinchuangYang, KunZhou, JiyongShen, LiangGao, FeiHuang, XuelongHe, Haifeng.A high stiffness and self-healable polyurethane based on disulfide bonds and hydrogen bonding[J].European Polymer Journal, 2020, 124(1).",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,39.5,-,-,-,-,-,-,-,-,PTMEG,,1000,2,19,-,,,-,-,HEDS,OCCSSCCO,10.76,-,2.09*10^-4,111.6,-,-,55.9,DSC,90,3,-,-,-,-
+6.0,PUSA-3,"[1]Liu, MaochenZhong, JiangLi, ZijianRong, JinchuangYang, KunZhou, JiyongShen, LiangGao, FeiHuang, XuelongHe, Haifeng.A high stiffness and self-healable polyurethane based on disulfide bonds and hydrogen bonding[J].European Polymer Journal, 2020, 124(1).",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,39.5,-,-,-,-,-,-,-,-,PTMEG,,1000,2,19,-,,,-,-,HEDS,OCCSSCCO,10.76,-,2.09*10^-4,111.6,-,-,55.9,DSC,90,6,-,-,-,-
+7.0,PUSA-3,"[1]Liu, MaochenZhong, JiangLi, ZijianRong, JinchuangYang, KunZhou, JiyongShen, LiangGao, FeiHuang, XuelongHe, Haifeng.A high stiffness and self-healable polyurethane based on disulfide bonds and hydrogen bonding[J].European Polymer Journal, 2020, 124(1).",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,39.5,-,-,-,-,-,-,-,-,PTMEG,,1000,2,19,-,,,-,-,HEDS,OCCSSCCO,10.76,-,2.09*10^-4,111.6,-,-,55.9,DSC,90,12,-,-,-,-
+8.0,PUSA-3,"[1]Liu, MaochenZhong, JiangLi, ZijianRong, JinchuangYang, KunZhou, JiyongShen, LiangGao, FeiHuang, XuelongHe, Haifeng.A high stiffness and self-healable polyurethane based on disulfide bonds and hydrogen bonding[J].European Polymer Journal, 2020, 124(1).",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,39.5,-,-,-,-,-,-,-,-,PTMEG,,1000,2,19,-,,,-,-,HEDS,OCCSSCCO,10.76,-,2.09*10^-4,111.6,-,-,55.9,DSC,90,24,-,-,-,-
+9.0,PUSA-4,"[1]Liu, MaochenZhong, JiangLi, ZijianRong, JinchuangYang, KunZhou, JiyongShen, LiangGao, FeiHuang, XuelongHe, Haifeng.A high stiffness and self-healable polyurethane based on disulfide bonds and hydrogen bonding[J].European Polymer Journal, 2020, 124(1).",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,40,-,-,-,-,-,-,-,-,PTMEG,,1000,2,13.5,-,,,-,-,HEDS,OCCSSCCO,11.42,-,2.29*10^-4,182.7,-,-,80.2,DSC,90,24,-,-,-,-
+10.0,PUCA（对照样）,"[1]Liu, MaochenZhong, JiangLi, ZijianRong, JinchuangYang, KunZhou, JiyongShen, LiangGao, FeiHuang, XuelongHe, Haifeng.A high stiffness and self-healable polyurethane based on disulfide bonds and hydrogen bonding[J].European Polymer Journal, 2020, 124(1).",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,39.5,-,-,-,-,-,-,-,-,PTMEG,,1000,2,19,-,,,-,-,-,-,0,-,-,112,-,-,-,-,90,24,-,-,-,-
+1.0,PUDS（对照样）,"Sokjorhor J, Phantan C, Ratanathawornkit K, et al. Simultaneous Self‐Healing and Corrosion Protection Using Disulfide Bonds[J]. Advanced Functional Materials, 2025: 2508274.   https://doi.org/10.1002/adfm.202508274
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC2,2,48.40%,HEDS,OCCSSCCO,2,19%,MPS₂MBT,OCC(O)CSSC(S1)=NC2=C1C=CC=C2,2,0%,PTHF,,1000,2,32.30%,-,,,-,-,MPS₂MBT,OCC(O)CSSC(S1)=NC2=C1C=CC=C2,19.30%,1.05,-,3.0-5.0,3.8,420,-48,DSC,70,48,3.8,420,3.0-5.0,100
+2.0,PUS₂MBT-22,"Sokjorhor J, Phantan C, Ratanathawornkit K, et al. Simultaneous Self‐Healing and Corrosion Protection Using Disulfide Bonds[J]. Advanced Functional Materials, 2025: 2508274.   https://doi.org/10.1002/adfm.202508274
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC3,2,47.80%,HEDS,OCCSSCCO,2,14.10%,MPS₂MBT,OCC(O)CSSC(S1)=NC2=C1C=CC=C3,2,6.20%,PTHF,,1000,2,31.90%,-,,,-,-,MPS₂MBT,OCC(O)CSSC(S1)=NC2=C1C=CC=C2,20%,1.05,-,2.8-4.5,3.5,380,-45,DSC,70,48,3.36,353,2.7-4.3,96
+3.0,PUS₂MBT-28,"Sokjorhor J, Phantan C, Ratanathawornkit K, et al. Simultaneous Self‐Healing and Corrosion Protection Using Disulfide Bonds[J]. Advanced Functional Materials, 2025: 2508274.   https://doi.org/10.1002/adfm.202508274
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC4,2,47.50%,HEDS,OCCSSCCO,2,12.20%,MPS₂MBT,OCC(O)CSSC(S1)=NC2=C1C=CC=C4,2,8.60%,PTHF,,1000,2,31.70%,-,,,-,-,MPS₂MBT,OCC(O)CSSC(S1)=NC2=C1C=CC=C3,21%,1.05,-,2.5-4.0,3.2,350,-42,DSC,70,48,2.91,322,2.4-3.8,94
+4.0,PUS₂MBT-38,"Sokjorhor J, Phantan C, Ratanathawornkit K, et al. Simultaneous Self‐Healing and Corrosion Protection Using Disulfide Bonds[J]. Advanced Functional Materials, 2025: 2508274.   https://doi.org/10.1002/adfm.202508274
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC5,2,46。8%,HEDS,OCCSSCCO,2,8.80%,MPS₂MBT,OCC(O)CSSC(S1)=NC2=C1C=CC=C5,2,13.20%,PTHF,,1000,2,31.20%,-,,,-,-,MPS₂MBT,OCC(O)CSSC(S1)=NC2=C1C=CC=C4,22%,1.05,-,2.0-3.5,2.9,320,-38,DSC,70,48,2.35,291,1.9-3.3,81
+1.0,PU-A," Xu, Y. and Chen, D. (2016), A Novel Self-Healing Polyurethane Based on Disulfide Bonds. Macromol. Chem. Phys., 217: 1191-1196. https://doi.org/10.1002/macp.201600011",二硫,HDI,O=C=NCCCCCCN=C=O,2,4.56,-,-,-,-,-,-,-,-,PTMEG,,1810,2,23.38,-,,,-,-,HEDS,OCCSSCCO,2,1.05,-,4.65,11,715.1,-55,DMA,80,4,10,728.5,4.65,90.9
+2.0,PU-B," Xu, Y. and Chen, D. (2016), A Novel Self-Healing Polyurethane Based on Disulfide Bonds. Macromol. Chem. Phys., 217: 1191-1196. https://doi.org/10.1002/macp.201600011",二硫,HDI,O=C=NCCCCCCN=C=O,2,4.56,-,-,-,-,-,-,-,-,PTMEG,,1810,2,23.38,-,,,-,-,-,-,-,1.05,-,17.8,16.8,724.6,-55,DMA,80,4,6,308.3,17.8,35.7
+1.0,WPU-BS1,"Mantala K, Crespy D. Waterborne Polyurethane Transparent Coatings for Self-Healing at Room Temperature[J]. Macromolecules, 2025, 58(7): 3450-3459.-10.1021/acs.macromol.4c02732
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC5,2,75.50%,-,-,-,-,-,-,-,-,PTHF,,-,2,24.50%,-,,,-,-,HEDS,O=C(NC1CCC(CC1)CC2CCC(CC2)N)C(O)CCSSCCO,21%,1.05,-,0.18~0.25,0.21,2459,17,DMA,30,48,0.21,2459,0.17-0.24,～100
+2.0,WPU-BS2,"Mantala K, Crespy D. Waterborne Polyurethane Transparent Coatings for Self-Healing at Room Temperature[J]. Macromolecules, 2025, 58(7): 3450-3459.-10.1021/acs.macromol.4c02733
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC5,2,75.50%,-,-,-,-,-,-,-,-,PTHF,,-,2,24.50%,-,,,-,-,HEDS,O=C(NC1CCC(CC1)CC2CCC(CC3)N)C(O)CCSSCCO,30%,1.05,-,0.35~0.42,1.77,1230,18,DMA,30,48,1.77,1230,0.34-0.40,～101
+3.0,WPU-SH1,"Mantala K, Crespy D. Waterborne Polyurethane Transparent Coatings for Self-Healing at Room Temperature[J]. Macromolecules, 2025, 58(7): 3450-3459.-10.1021/acs.macromol.4c02734
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC6,2,67.00%,-,-,-,-,-,-,-,-,PTHF,,-,2,22.00%,-,,,-,-,HEDS+-SH,CCSSCC + HSCCCCCCCCO,21.00%,1.05,-,0.20~0.27,0.2,2300,17,DMA,30,48,0.2,2300,0.19-0.26,～102
+4.0,WPU-SH2,"Mantala K, Crespy D. Waterborne Polyurethane Transparent Coatings for Self-Healing at Room Temperature[J]. Macromolecules, 2025, 58(7): 3450-3459.-10.1021/acs.macromol.4c02735
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC7,2,62.50%,-,-,-,-,-,-,-,-,PTHF,,-,2,20.50%,-,,,-,-,HEDS+-SH,CCSSCC + HSCCCCCCCCO,30.00%,1.05,-,0.38~0.45,1.7,1150,18,DMA,30,48,1.7,1150,0.37-0.43,～103
+5.0,WPU-SS1,"Mantala K, Crespy D. Waterborne Polyurethane Transparent Coatings for Self-Healing at Room Temperature[J]. Macromolecules, 2025, 58(7): 3450-3459.-10.1021/acs.macromol.4c02736
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC8,2,67.00%,-,-,-,-,-,-,-,-,PTHF,,-,2,22.00%,-,,,-,-,双源二硫键（HEDS 自带二硫键 + 巯基氧化生成的新二硫键）,CCSSCC + CCCCCCCCSSCCCCCCCC,21.00%,1.05,-,0.22~0.29,0.21,2450,17,DMA,30,48,0.21,2450,0.21-0.28,～104
+6.0,WPU-SS2,"Mantala K, Crespy D. Waterborne Polyurethane Transparent Coatings for Self-Healing at Room Temperature[J]. Macromolecules, 2025, 58(7): 3450-3459.-10.1021/acs.macromol.4c02737
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC9,2,62.50%,-,-,-,-,-,-,-,-,PTHF,,-,2,20.50%,-,,,-,-,双源二硫键（HEDS 自带二硫键 + 巯基氧化生成的新二硫键）,CCSSCC + CCCCCCCCSSCCCCCCCC,30.00%,1.05,-,0.40~0.47,1.77,1230,18,DMA,30,48,1.77,1230,0.39-0.45,～105
+7.0,PUDS（对照样）,"Mantala K, Crespy D. Waterborne Polyurethane Transparent Coatings for Self-Healing at Room Temperature[J]. Macromolecules, 2025, 58(7): 3450-3459.-10.1021/acs.macromol.4c02738
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC10,2,75.50%,-,-,-,-,-,-,-,-,PTHF,,-,2,24.50%,-,,,-,-,HEDS,O=C(NC1CCC(CC1)CC2CCC(CC4)N)C(O)CCSSCCO,100%,1.05,-,0.25~0.32,0.85,1800,17,DMA,30,48,0.85,1800,0.24-0.31,～106
+8.0,PUHDO（对照样）,"Mantala K, Crespy D. Waterborne Polyurethane Transparent Coatings for Self-Healing at Room Temperature[J]. Macromolecules, 2025, 58(7): 3450-3459.-10.1021/acs.macromol.4c02739
+",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC11,2,75.50%,-,-,-,-,-,-,-,-,PTHF,,-,2,24.50%,-,,,-,-,-,-,0,1.05,-,0.15~0.22,0.8,1750,18,DMA,30,48,0.04,280,0.01-0.03,～107
+1.0,PU-0(对照样),"[1] Li C , Wang P , Zhang D ,et al.Near-Infrared Responsive Smart Superhydrophobic Coating with Self-Healing and Robustness Enhanced by Disulfide-Bonded Polyurethane[J].ACS applied materials & interfaces, 2022, 14(40):45988-46000.DOI:10.1021/acsami.2c08496.
+",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,66.70%,HEDS,OCCSSCCO,2,0.00%,-,-,-,-,PTMEG,,1000,2,33.30%,-,,,-,-,-,-,0,1.05,-,0.10-0.15,0.09±0.01,2200±150,-45,DMA,-,-,-,-,-,0
+2.0,PU-1,"[1] Li C , Wang P , Zhang D ,et al.Near-Infrared Responsive Smart Superhydrophobic Coating with Self-Healing and Robustness Enhanced by Disulfide-Bonded Polyurethane[J].ACS applied materials & interfaces, 2022, 14(40):45988-46000.DOI:10.1021/acsami.2c08497.
+",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C4,2,50.00%,HEDS,OCCSSCCO,2,25%,-,-,-,-,PTMEG,,1000,2,25.00%,-,,,-,-,HEDS,OCCSSCCO,25%,1.05,-,0.12-0.18,0.11±0.02,2500±200,-42,DMA,25~30,1.5,0.11,2480,0.11-0.17,~99
+3.0,PU-2,"[1] Li C , Wang P , Zhang D ,et al.Near-Infrared Responsive Smart Superhydrophobic Coating with Self-Healing and Robustness Enhanced by Disulfide-Bonded Polyurethane[J].ACS applied materials & interfaces, 2022, 14(40):45988-46000.DOI:10.1021/acsami.2c08498.
+",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C5,2,50.00%,HEDS,OCCSSCCO,2,33.30%,-,-,-,-,PTMEG,,1000,2,16.70%,-,,,-,-,HEDS,OCCSSCCO,33%,1.05,-,0.35-0.42,0.64±0.03,1800±120,-38,DMA,50,1.5,0.63,1780,0.33-0.40,~98
+4.0,PU-3,"[1] Li C , Wang P , Zhang D ,et al.Near-Infrared Responsive Smart Superhydrophobic Coating with Self-Healing and Robustness Enhanced by Disulfide-Bonded Polyurethane[J].ACS applied materials & interfaces, 2022, 14(40):45988-46000.DOI:10.1021/acsami.2c08499.
+",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C6,2,50.00%,HEDS,OCCSSCCO,2,37.50%,-,-,-,-,PTMEG,,1000,2,12.50%,-,,,-,-,HEDS,OCCSSCCO,37.50%,1.05,-,1.2-1.8,4.04±0.13,1000±80,-35,DMA,70,2,2.77±0.22,686,1.0-1.6,~68.56
+5.0,PU-3,"[1] Li C , Wang P , Zhang D ,et al.Near-Infrared Responsive Smart Superhydrophobic Coating with Self-Healing and Robustness Enhanced by Disulfide-Bonded Polyurethane[J].ACS applied materials & interfaces, 2022, 14(40):45988-46000.DOI:10.1021/acsami.2c08500.
+",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C7,2,50.00%,HEDS,OCCSSCCO,2,37.50%,-,-,-,-,PTMEG,,1000,2,12.50%,-,,,-,-,HEDS,OCCSSCCO,37.50%,1.05,-,1.2-1.9,4.04±0.14,1000±81,-35,DMA,70,6,3.43±0.47,849,1.0-1.6,~84.90
+6.0,PU-3,"[1] Li C , Wang P , Zhang D ,et al.Near-Infrared Responsive Smart Superhydrophobic Coating with Self-Healing and Robustness Enhanced by Disulfide-Bonded Polyurethane[J].ACS applied materials & interfaces, 2022, 14(40):45988-46000.DOI:10.1021/acsami.2c08501.
+",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C8,2,50.00%,HEDS,OCCSSCCO,2,37.50%,-,-,-,-,PTMEG,,1000,2,12.50%,-,,,-,-,HEDS,OCCSSCCO,37.50%,1.05,-,1.2-1.10,4.04±0.15,1000±82,-35,DMA,70,12,3.55±0.14,879,1.0-1.6,~87.87
+1.0,PU-A,[1]Rapid self-healing and tough polyurethane based on the synergy of multi-level hydrogen and disulfide bonds for healing propellant microcracks[J].Materials Chemistry Frontiers[2026-02-06].DOI:10.1039/D2QM00047D.,二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C9,2,36%,MDI,O=C=Nc1ccc(cc1)CH2c1ccc(cc1)N=C=O,2,-,-,-,-,-,PTMG,,2000,2,64%,-,,,-,-,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc1,100,1.05,-,0.8-1.2,3.9,1150,-59.4,DSC,60,1,3.9,1150,0.8-1.2,100
+2.0,PU-B,[1]Rapid self-healing and tough polyurethane based on the synergy of multi-level hydrogen and disulfide bonds for healing propellant microcracks[J].Materials Chemistry Frontiers[2026-02-06].DOI:10.1039/D2QM00048D.,二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,34%,MDI,O=C=Nc1ccc(cc1)CH2c1ccc(cc1)N=C=O,2,8.50%,-,-,-,-,PTMG,,2000,2,57.50%,-,,,-,-,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc1,83.3,1.05,-,1.5-2.0,5.9,1060,-58.2,DSC,60,3,5.9,1060,1.4-1.9,100
+3.0,PU-C,[1]Rapid self-healing and tough polyurethane based on the synergy of multi-level hydrogen and disulfide bonds for healing propellant microcracks[J].Materials Chemistry Frontiers[2026-02-06].DOI:10.1039/D2QM00049D.,二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,29.40%,MDI,O=C=Nc1ccc(cc1)CH2c1ccc(cc2)N=C=O,2,19.60%,-,-,-,-,PTMG,,2000,2,51%,-,,,-,-,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc1,71.4,1.05,-,2.2-2.8,8,980,-56.1,DSC,60,5,8,980,2.1-2.7,100
+4.0,PU-C,[1]Rapid self-healing and tough polyurethane based on the synergy of multi-level hydrogen and disulfide bonds for healing propellant microcracks[J].Materials Chemistry Frontiers[2026-02-06].DOI:10.1039/D2QM00050D.,二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,29.40%,MDI,O=C=Nc1ccc(cc1)CH2c1ccc(cc3)N=C=O,2,19.60%,-,-,-,-,PTMG,,2000,2,51%,-,,,-,-,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc1,71.4,1.05,-,2.2-2.8,8,980,-56.1,DSC,25,24,8,980,2.1-2.8,100
+5.0,PU-D,[1]Rapid self-healing and tough polyurethane based on the synergy of multi-level hydrogen and disulfide bonds for healing propellant microcracks[J].Materials Chemistry Frontiers[2026-02-06].DOI:10.1039/D2QM00051D.,二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,22.20%,MDI,O=C=Nc1ccc(cc1)CH2c1ccc(cc4)N=C=O,2,33.30%,-,-,-,-,PTMG,,2000,2,44.50%,-,,,-,-,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc1,62.5,1.05,-,3.0-3.6,9.8,970,-55.5,DSC,60,10,9.8,970,2.8-3.5,100
+6.0,SHP（自修复推进剂）,[1]Rapid self-healing and tough polyurethane based on the synergy of multi-level hydrogen and disulfide bonds for healing propellant microcracks[J].Materials Chemistry Frontiers[2026-02-06].DOI:10.1039/D2QM00052D.,二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,19.60%,MDI,O=C=Nc1ccc(cc1)CH2c1ccc(cc5)N=C=O,2,29.40%,-,-,-,-,PTMG,,2000,2,51%,-,,,-,-,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc1,71.4,1.05,-,1.8-2.4,1.4,450,-56.1,DSC,70,6,1.16,380,1.5-2.0,83
+7.0,SHP（自修复推进剂）,[1]Rapid self-healing and tough polyurethane based on the synergy of multi-level hydrogen and disulfide bonds for healing propellant microcracks[J].Materials Chemistry Frontiers[2026-02-06].DOI:10.1039/D2QM00053D.,二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,19.60%,MDI,O=C=Nc1ccc(cc1)CH2c1ccc(cc6)N=C=O,2,29.40%,-,-,-,-,PTMG,,2000,2,51%,-,,,-,-,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc1,71.4,1.05,-,1.8-2.5,1.4,450,-56.1,DSC,70,12,1.33,430,1.5-2.1,95
+1.0,cPHDA,"[1] Zhang W , Leng X , Gao M ,et al.Synthesis of cross-linked triple shape memory polyurethane with self-healing functionalities[J].Polymer Testing, 2021.DOI:10.1016/j.polymertesting.2021.107099.",二硫,tri-HDI,O=C(N(C(N(CCCCCCN=C=O)C1=O)=O)CCCCCCN=C=O)N1CCCCCCN=C=O,3,50%,-,-,-,-,-,-,-,-,-,,-,-,-,-,,,-,-,-,-,-,1.05,-,140.0±20,8.8±2.0,439.1±20,-40~-35,DSC；DMA,不可修复,-,-,-,-,-
+2.0,cPHDA-PEG20,"[1] Zhang W , Leng X , Gao M ,et al.Synthesis of cross-linked triple shape memory polyurethane with self-healing functionalities[J].Polymer Testing, 2021.DOI:10.1016/j.polymertesting.2021.107100.",二硫,tri-HDI,O=C(N(C(N(CCCCCCN=C=O)C1=O)=O)CCCCCCN=C=O)N2CCCCCCN=C=O,3,50%,-,-,-,-,-,-,-,-, PHDA ,,4000,2,40%,PEG,,,400,10%,-,-,-,1.05,-,72.0±5,7.5±1.2,384.0±20,-45~-40,DSC；DMA,不可修复,-,-,-,-,-
+3.0,cPHDA-PEG50,"[1] Zhang W , Leng X , Gao M ,et al.Synthesis of cross-linked triple shape memory polyurethane with self-healing functionalities[J].Polymer Testing, 2021.DOI:10.1016/j.polymertesting.2021.107101.",二硫,tri-HDI,O=C(N(C(N(CCCCCCN=C=O)C1=O)=O)CCCCCCN=C=O)N3CCCCCCN=C=O,3,50%,-,-,-,-,-,-,-,-, PHDA ,,4000,2,25%,PEG,,,400,25%,-,-,-,1.05,-,20.3±3,5.6±0.7,180.2±15,-48~-43,DSC；DMA,不可修复,-,-,-,-,-
+4.0,cPHDA-PEG80,"[1] Zhang W , Leng X , Gao M ,et al.Synthesis of cross-linked triple shape memory polyurethane with self-healing functionalities[J].Polymer Testing, 2021.DOI:10.1016/j.polymertesting.2021.107102.",二硫,tri-HDI,O=C(N(C(N(CCCCCCN=C=O)C1=O)=O)CCCCCCN=C=O)N4CCCCCCN=C=O,3,50%,-,-,-,-,-,-,-,-, PHDA ,,4000,2,10%,PEG,,,400,40%,-,-,-,1.05,-,57.8±6,5.2±0.2,112.1±10,-50~-45,DSC；DMA,不可修复,-,-,-,-,-
+5.0,cPEG,"[1] Zhang W , Leng X , Gao M ,et al.Synthesis of cross-linked triple shape memory polyurethane with self-healing functionalities[J].Polymer Testing, 2021.DOI:10.1016/j.polymertesting.2021.107103.",二硫,tri-HDI,O=C(N(C(N(CCCCCCN=C=O)C1=O)=O)CCCCCCN=C=O)N5CCCCCCN=C=O,3,50%,-,-,-,-,-,-,-,-,PEG,,4000,2,50%,-,,,-,-,-,-,-,1.05,-,80.3±4,9.2±4.2,79.0±6,-52~-47,DSC；DMA,不可修复,-,-,-,-,-
+6.0,ssPHDA-PEG80（原始）,"[1] Zhang W , Leng X , Gao M ,et al.Synthesis of cross-linked triple shape memory polyurethane with self-healing functionalities[J].Polymer Testing, 2021.DOI:10.1016/j.polymertesting.2021.107104.",二硫,tri-HDI,O=C(N(C(N(CCCCCCN=C=O)C1=O)=O)CCCCCCN=C=O)N6CCCCCCN=C=O,3,33.30%,T-SS,O=C(O)c1ccccc1SSc1ccccc1C(=O)O-NHCOO-(CH2)6-NCO,2,33.30%,-,-,-,-, PHDA ,,4000,2,26.72%,PEG,,,400,6.68%,DTSA,O=C(O)c1ccccc1SSc1ccccc1C(=O)O,19%,1.05,-,99.8±10,8.3±1.2,650.5±20,-49~-44,DSC；DMA,80,12,6.5±2,481.8±20,95.9±5,78.3
+7.0,ssPHDA-PEG80（修复后）,"[1] Zhang W , Leng X , Gao M ,et al.Synthesis of cross-linked triple shape memory polyurethane with self-healing functionalities[J].Polymer Testing, 2021.DOI:10.1016/j.polymertesting.2021.107105.",二硫,tri-HDI,O=C(N(C(N(CCCCCCN=C=O)C1=O)=O)CCCCCCN=C=O)N7CCCCCCN=C=O,3,6,T-SS,O=C(O)c1ccccc1SSc1ccccc1C(=O)O-NHCOO-(CH2)7-NCO,2,22,-,-,-,-, PHDA ,,4000,2,26.72%,PEG,,,400,6.68%,DTSA,O=C(O)c1ccccc1SSc1ccccc2C(=O)O,19%,1.05,-,-,-,-,-49~-44,DSC；DMA,80,12,6.5±3,481.8±21,95.9±5,78.3
+1.0,6b,"[1] Yang Y , Lu X , Wang W .A tough polyurethane elastomer with self-healing ability[J].Materials & Design, 2017, 127.DOI:10.1016/j.matdes.2017.04.015.
+",二硫,tri-HDI,O=C(N(C(N(CCCCCCN=C=O)C1=O)=O)CCCCCCN=C=O)N1CCCCCCN=C=O,3,5,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,16.1,-,-,-,-,PBA,,2000,2,72,-,,,-,-,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc1,10.1,2.01:1,0.196*10^-4,-,7.7,500,-,-,25,24,5,450,-,75.3
+2.0,6b,"[1] Yang Y , Lu X , Wang W .A tough polyurethane elastomer with self-healing ability[J].Materials & Design, 2017, 127.DOI:10.1016/j.matdes.2017.04.016.
+",二硫,tri-HDI,O=C(N(C(N(CCCCCCN=C=O)C1=O)=O)CCCCCCN=C=O)N1CCCCCCN=C=O,3,5,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,16.1,-,-,-,-,PBA,,2000,2,72,-,,,-,-,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc1,10.1,2.01:1,0.196*10^-4,-,7.7,500,-,-,60,24,7.5,500,,97.4
+3.0,6a,"[1] Yang Y , Lu X , Wang W .A tough polyurethane elastomer with self-healing ability[J].Materials & Design, 2017, 127.DOI:10.1016/j.matdes.2017.04.017.
+",二硫,tri-HDI,O=C(N(C(N(CCCCCCN=C=O)C1=O)=O)CCCCCCN=C=O)N1CCCCCCN=C=O,3,5,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,16.1,-,-,-,-,PBA,,2000,2,72,-,,,-,-,MDA,Nc1ccc(Cc2ccc(N)cc2)cc1,10.1,2.01:1,0.205*10^-4,-,9.3,500,-,-,60,24,5.4,-,-,58
+1.0,SPU-6%,"[1]  Jian X, Hu Y, Zhou W, Xiao L. Self-healing polyurethane based on disulfide bond and hydrogen bond. Polym Adv Technol.2018;29:463–469.https://doi.org/10.1002/pat.4135",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.81,HEDS,OCCSSCCO,2,-,-,-,-,-,PTMEG,,2000,2,-,-,,,-,-,-S-S-,OCCSSCCO,6%+76.33%,1:1.05,-,-,5.01,736,-,-,60,2,~2.35,-,-,47
+2.0,SPU-6%,"[1]  Jian X, Hu Y, Zhou W, Xiao L. Self-healing polyurethane based on disulfide bond and hydrogen bond. Polym Adv Technol.2018;29:463–469.https://doi.org/10.1002/pat.4136",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.81,HEDS,OCCSSCCO,2,-,-,-,-,-,PTMEG,,2000,2,-,-,,,-,-,-S-S-,OCCSSCCO,6%+76.33%,1:1.05,-,-,5.01,736,-,-,60,4,~4.01,-,-,87
+3.0,SPU-6%,"[1]  Jian X, Hu Y, Zhou W, Xiao L. Self-healing polyurethane based on disulfide bond and hydrogen bond. Polym Adv Technol.2018;29:463–469.https://doi.org/10.1002/pat.4137",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.81,HEDS,OCCSSCCO,2,-,-,-,-,-,PTMEG,,2000,2,-,-,,,-,-,-S-S-,OCCSSCCO,6%+76.33%,1:1.05,-,-,5.01,736,-,-,60,6,5.01,779,-,100
+4.0,SPU-11%,"[1]  Jian X, Hu Y, Zhou W, Xiao L. Self-healing polyurethane based on disulfide bond and hydrogen bond. Polym Adv Technol.2018;29:463–469.https://doi.org/10.1002/pat.4138",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.81,HEDS,OCCSSCCO,2,-,-,-,-,-,PTMEG,,2000,2,-,-,,,-,-,-S-S-,OCCSSCCO,11%+79.96%,1:1.05,-,-,14.72,-,-,-,60,24,2.43,-,-,16.5
+5.0,SPU-空白,"[1]  Jian X, Hu Y, Zhou W, Xiao L. Self-healing polyurethane based on disulfide bond and hydrogen bond. Polym Adv Technol.2018;29:463–469.https://doi.org/10.1002/pat.4139",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,17.81,-,-,-,-,-,-,-,-,PTMEG,,2000,2,-,-,,,-,-,-,-,-,1:1.05,-,-,2.08,1177,-,-,60,24,0.95,786,-,46
+1.0,PU90/10,"[1]  https://doi.org/10.1016/j.colsurfa.2023.132829.Yi Li, Ming Zhou, Liangliang Xia, Xiaoling Yang, YongQiang Shi,Room-temperature self-healing polyurethane elastomers with high strength and superior self-healing efficiency based on aromatic disulfide-induced",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,29.57,BDO,OCCCCO,2,7.12,-,-,-,-,PTMEG,,2000,2,58.54,-,,,-,-,DHDDS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C1,4.77%,3.8,-,-,6.78,2002,-36.9,DSC,25,48,6.09,1999.99,-,89.8
+2.0,PU80/20,"[1]  https://doi.org/10.1016/j.colsurfa.2023.132829.Yi Li, Ming Zhou, Liangliang Xia, Xiaoling Yang, YongQiang Shi,Room-temperature self-healing polyurethane elastomers with high strength and superior self-healing efficiency based on aromatic disulfide-induced",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,29.57,BDO,OCCCCO,2,6.33,-,-,-,-,PTMEG,,2000,2,58.54,-,,,-,-,DHDDS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C1,5.56,3.8,-,-,2.51,2414,-35.7,DSC,25,48,2,2414,-,79.3
+3.0,PU60/40,"[1]  https://doi.org/10.1016/j.colsurfa.2023.132829.Yi Li, Ming Zhou, Liangliang Xia, Xiaoling Yang, YongQiang Shi,Room-temperature self-healing polyurethane elastomers with high strength and superior self-healing efficiency based on aromatic disulfide-induced",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,29.57,BDO,OCCCCO,2,4.75,-,-,-,-,PTMEG,,2000,2,58.54,-,,,-,-,DHDDS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C1,7.14,3.8,-,-,0.46,1740,-20.4,DSC,25,48,0.4,1585,-,86.9
+4.0,PU40/60,"[1]  https://doi.org/10.1016/j.colsurfa.2023.132829.Yi Li, Ming Zhou, Liangliang Xia, Xiaoling Yang, YongQiang Shi,Room-temperature self-healing polyurethane elastomers with high strength and superior self-healing efficiency based on aromatic disulfide-induced",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,29.57,BDO,OCCCCO,2,3.17,-,-,-,-,PTMEG,,2000,2,58.54,-,,,-,-,DHDDS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C1,8.72,3.8,-,-,0.39,1602,-17.4,DSC,25,48,0.39,1370,-,100
+5.0,PU20/80,"[1]  https://doi.org/10.1016/j.colsurfa.2023.132829.Yi Li, Ming Zhou, Liangliang Xia, Xiaoling Yang, YongQiang Shi,Room-temperature self-healing polyurethane elastomers with high strength and superior self-healing efficiency based on aromatic disulfide-induced",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,29.57,BDO,OCCCCO,2,1.58,-,-,-,-,PTMEG,,2000,2,58.54,-,,,-,-,DHDDS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C1,10.31,3.8,-,-,0.26,2723,-13.6,DSC,25,48,0.26,2287,-,100
+1.0,PU-M01,"[1] D. Liu, Y. Lin, J. Yin, et al. “ Dynamic Disulfide Bond-Driven the Shape-Adaptive Self-Healing of Polyurethane Microcapsules.” Macromol. Rapid Commun. 46, no. 17 (2025): 46, 2500266. https://doi.org/10.1002/marc.202500266",二硫,HDI,O=C=NCCCCCCN=C=O,2,16.82,BD,OCCSSCCO,2,1.49,-,-,-,-,PCLD,,2000,2,81.69,-,,,-,-,-S-S-,OCCSSCCO,1.49,1.22:1,-,-,7.3,1450,-53.2,DSC,60,6,1.4,-,-,19.2
+2.0,PU-M01,"[1] D. Liu, Y. Lin, J. Yin, et al. “ Dynamic Disulfide Bond-Driven the Shape-Adaptive Self-Healing of Polyurethane Microcapsules.” Macromol. Rapid Commun. 46, no. 17 (2025): 46, 2500266. https://doi.org/10.1002/marc.202500266",二硫,HDI,O=C=NCCCCCCN=C=O,2,16.82,BD,OCCSSCCO,2,1.49,-,-,-,-,PCLD,,2000,2,81.69,-,,,-,-,-S-S-,OCCSSCCO,1.49,1.22:1,-,-,7.3,1450,-53.2,DSC,60,12,4.4,-,-,60.3
+3.0,PU-M01,"[1] D. Liu, Y. Lin, J. Yin, et al. “ Dynamic Disulfide Bond-Driven the Shape-Adaptive Self-Healing of Polyurethane Microcapsules.” Macromol. Rapid Commun. 46, no. 17 (2025): 46, 2500266. https://doi.org/10.1002/marc.202500266",二硫,HDI,O=C=NCCCCCCN=C=O,2,16.82,BD,OCCSSCCO,2,1.49,-,-,-,-,PCLD,,2000,2,81.69,-,,,-,-,-S-S-,OCCSSCCO,1.49,1.22:1,-,-,7.3,1450,-53.2,DSC,60,24,5.5,945,-,75.3
+4.0,PU-M02,"[1] D. Liu, Y. Lin, J. Yin, et al. “ Dynamic Disulfide Bond-Driven the Shape-Adaptive Self-Healing of Polyurethane Microcapsules.” Macromol. Rapid Commun. 46, no. 17 (2025): 46, 2500266. https://doi.org/10.1002/marc.202500266",二硫,HDI,O=C=NCCCCCCN=C=O,2,16.82,BD,OCCSSCCO,2,0.87,-,-,-,-,PCLD,,2000,2,82.31,-,,,-,-,-,-,-,1.22:1,-,-,3.8,990,-45,DSC,60,24,-,-,-,-
+1.0,PU-SH,"[1]T. Yimyai, A. Pena-Francesch, D. Crespy, Transparent and Self-Healing Elastomers for Reconfigurable 3D Materials. Macromol. Rapid Commun. 2022, 43, 2200554. https://doi.org/10.1002/marc.202200554",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,37.2,HEDS,OCCSSCCO,2,12.6,-,-,-,-,PTHF,,1000,2,50.2,-,,,-,-,-S-S-,OCCSSCCO,41%,1.01:1,-,5.04,8.1±1.1,625±57,-,-,70,24,8.0±0.8,596±63,5.04,98%
+2.0,PU,"[1]T. Yimyai, A. Pena-Francesch, D. Crespy, Transparent and Self-Healing Elastomers for Reconfigurable 3D Materials. Macromol. Rapid Commun. 2022, 43, 2200554. https://doi.org/10.1002/marc.202200555",二硫,HMDI,O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1,2,39.5,HDO,OCCCCCCO,2,9,-,-,-,-,PTHF,,1000,2,51.5,-,,,-,-,-,-,-,1.01:1,-,-,14.6±1.2,496±31,-,-,70,24,1.9±0.2,92±15,-,13%
+1.0,PU-A,"Ling, L., Li, J., Zhang, G. et al. Self-Healing and Shape Memory Linear Polyurethane Based on Disulfide Linkages with Excellent Mechanical Property. Macromol. Res. 26, 365–373 (2018). https://doi.org/10.1007/s13233-018-6037-9",二硫,MDI,O=C=NC1=CC=C(CC2=CC=C(N=C=O)C=C2)C=C1,2,25mol%,HPDS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C1,2,25mol%,-,-,-,-,PTMEG,,2000,2,50mol%,-,,,-,-,S-S,OCCSSCCO,25%,1:01,-,4.04±0.31,31.91±1.08,1156±109,-62,DSC,100,10/60,23.56±2.67,1076±101,3.90±0.63,73.83
+2.0,PU-B,"Ling, L., Li, J., Zhang, G. et al. Self-Healing and Shape Memory Linear Polyurethane Based on Disulfide Linkages with Excellent Mechanical Property. Macromol. Res. 26, 365–373 (2018). https://doi.org/10.1007/s13233-018-6037-9",二硫,MDI,O=C=NC1=CC=C(CC2=CC=C(N=C=O)C=C2)C=C1,2,27.78mol%,HPDS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C1,2,33.33mol%,-,-,-,-,PTMEG,,2000,2,38.89mol%,-,,,-,-,S-S,OCCSSCCO,30%,1:01,-,4.91±0.25,25.85±1.79,997±60,-59.6,DSC,100,10/60,20.75±2.13,929±81,4.37±0.26,80.27
+3.0,PU-C,"Ling, L., Li, J., Zhang, G. et al. Self-Healing and Shape Memory Linear Polyurethane Based on Disulfide Linkages with Excellent Mechanical Property. Macromol. Res. 26, 365–373 (2018). https://doi.org/10.1007/s13233-018-6037-9",二硫,MDI,O=C=NC1=CC=C(CC2=CC=C(N=C=O)C=C2)C=C1,2,30mol%,HPDS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C1,2,40mol%,-,-,-,-,PTMEG,,2000,2,30mol%,-,,,-,-,S-S,OCCSSCCO,33%,1:01,-,5.61±0.53,22.90±1.72,846±31,-56.8,DSC,100,10/60,20.92±2.65,837±37,5.27±0.28,91.36
+1.0,WPU1,"Ye, G.; Jiang, T. Preparation and Properties of Self-Healing Waterborne Polyurethane Based on Dynamic Disulfide Bond. Polymers 2021, 13, 2936. https://doi.org/10.3390/polym13172936",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,58.33%,DMPA,CC(CO)(CO)C(O)=O,2,14.17%,-,-,-,-,PTMG,,1000,2,9.17%,-,,,-,-,HEDS,OCCSSCCO,18.33%,1.4,-,-,13.75,820.01,-70～-60,DMA,70,4,3.99,151.12,-,29.02
+2.0,WPU2,"Ye, G.; Jiang, T. Preparation and Properties of Self-Healing Waterborne Polyurethane Based on Dynamic Disulfide Bond. Polymers 2021, 13, 2936. https://doi.org/10.3390/polym13172937",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,58.24%,DMPA,CC(CO)(CO)C(O)=O,2,14.14%%,-,-,-,-,PTMG,,1000,2,13.81%,-,,,-,-,HEDS,OCCSSCCO,13.81%,1.4,-,-,2.85,1427.78,-70～-60,DMA,70,4,2.74,1365.01,-,96.14
+3.0,WPU2,"Ye, G.; Jiang, T. Preparation and Properties of Self-Healing Waterborne Polyurethane Based on Dynamic Disulfide Bond. Polymers 2021, 13, 2936. https://doi.org/10.3390/polym13172938",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,58.24%,DMPA,CC(CO)(CO)C(O)=O,2,14.14%,-,-,-,-,PTMG,,1000,2,13.81%,-,,,-,-,HEDS,OCCSSCCO,13.81%,1.4,-,-,2.85,1427.78,-70～-60,DMA,70,24,2.4,1235.01,-,84.21
+4.0,WPU3,"Ye, G.; Jiang, T. Preparation and Properties of Self-Healing Waterborne Polyurethane Based on Dynamic Disulfide Bond. Polymers 2021, 13, 2936. https://doi.org/10.3390/polym13172939",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,58.33%,DMPA,CC(CO)(CO)C(O)=O,2,14.17%,-,-,-,-,PTMG,,1000,2,18.33%,-,,,-,-,HEDS,OCCSSCCO,9.17%,1.4,-,-,1.84,2053.08,-70～-60,DMA,70,4,1.79,1880.01,-,97.28
+5.0,WPU3,"Ye, G.; Jiang, T. Preparation and Properties of Self-Healing Waterborne Polyurethane Based on Dynamic Disulfide Bond. Polymers 2021, 13, 2936. https://doi.org/10.3390/polym13172940",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,58.33%,DMPA,CC(CO)(CO)C(O)=O,2,14.17%,-,-,-,-,PTMG,,1000,2,18.33%,-,,,-,-,HEDS,OCCSSCCO,9.17%,1.4,-,-,1.84,2053.08,-70～-60,DMA,70,24,1.58,1671.88,-,85.86
+1.0,BS-PU-1,"[1] Ying W B , Yu Z , Kim D H ,et al.Water Proof, Highly Tough and Fast Self-healing Polyurethane for Durable Electronic Skin[J].ACS Applied Materials & Interfaces, 2020, XXXX(XXX).DOI:10.1021/acsami.0c00443.",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,55.60%,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C1,2,33.30%,-,-,-,-,HTPB,,3000,2,11.10%,-,,,-,-,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C1,33.30%,1.05,-,12.5,9.8,850,-42,DMA,50,6,-,-,-,-
+2.0,BS-PU-2,"[1] Ying W B , Yu Z , Kim D H ,et al.Water Proof, Highly Tough and Fast Self-healing Polyurethane for Durable Electronic Skin[J].ACS Applied Materials & Interfaces, 2020, XXXX(XXX).DOI:10.1021/acsami.0c00444.",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,52.60%,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C2,2,26.30%,-,-,-,-,HTPB,,3000,2,21.10%,-,,,-,-,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C2,26.30%,1.05,-,8.2,9.5,1100,-45,DMA,60,6,-,-,-,-
+3.0,BS-PU-3（核心样）,"[1] Ying W B , Yu Z , Kim D H ,et al.Water Proof, Highly Tough and Fast Self-healing Polyurethane for Durable Electronic Skin[J].ACS Applied Materials & Interfaces, 2020, XXXX(XXX).DOI:10.1021/acsami.0c00445.",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,50.90%,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C3,2,36.40%,-,-,-,-,HTPB,,3000,2,12.70%,-,,,-,-,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C3,36.40%,1.05,-,5,9.8,1500,-48,DMA,25,6,9.1,1395,-,93
+4.0,BS-PU-3,"[1] Ying W B , Yu Z , Kim D H ,et al.Water Proof, Highly Tough and Fast Self-healing Polyurethane for Durable Electronic Skin[J].ACS Applied Materials & Interfaces, 2020, XXXX(XXX).DOI:10.1021/acsami.0c00446.",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,50.90%,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C4,2,36.40%,-,-,-,-,HTPB,,3000,2,12.70%,-,,,-,-,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C4,36.40%,1.05,-,5,9.8,1500,-48,DMA,40-60,2,9.5,1470,-,97
+5.0,BS-PU-4,"[1] Ying W B , Yu Z , Kim D H ,et al.Water Proof, Highly Tough and Fast Self-healing Polyurethane for Durable Electronic Skin[J].ACS Applied Materials & Interfaces, 2020, XXXX(XXX).DOI:10.1021/acsami.0c00447.",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,48.10%,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C5,2,19.20%,-,-,-,-,HTPB,,3000,2,32.70%,-,,,-,-,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C5,19.20%,1.05,-,3.8,8.2,1800,-50,DMA,25,5,-,-,-,-
+6.0,BS-PU-3-2pot（两步法对照）,"[1] Ying W B , Yu Z , Kim D H ,et al.Water Proof, Highly Tough and Fast Self-healing Polyurethane for Durable Electronic Skin[J].ACS Applied Materials & Interfaces, 2020, XXXX(XXX).DOI:10.1021/acsami.0c00448.",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,50.90%,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C6,2,36.40%,-,-,-,-,HTPB,,3000,2,12.70%,-,,,-,-,HPS,OC1=CC=C(SSC2=CC=C(O)C=C2)C=C6,36.40%,1.05,-,5.2,9.6,1450,-47,DMA,25,12,5.1,725,-,53
+1.0,PU0.8​SS0.2​PEG3​,"[1] Yingjie H , Jirong W , Zhigang H X .Disulfide bond-embedded polyurethane solid polymer electrolytes with self-healing and shape-memory performance[J].Polymer chemistry, 2022, 13(42):6002-6009.DOI:10.1039/d2py00944g.",二硫,PUDMA,CC(C(OCCOC(NC1CC(C)(CNC(OCCOC(NC2CC(C)(CN=C=O)CC(C)(C)C2)=O)=O)CC(C)(C)C1)=O)=O)=C,2,0.16,SSDMA,CC(C(OCCNC(NCSSCNC(NCCOC(C(C)=C)=O)=O)=O)=O)=C,2,0.04,-,-,-,-,PEGMA,,475,1,0.6,聚乙二醇段（PEG2000​，PUDMA 中）,,,2,PUDMA 中含 1mmol PEG2000​/0.16mmol PUDMA,二硫键（S-S）,OCCSSCCO,SSDMA 占交联剂总摩尔 20%,PUDMA 合成：2:1,-,-,-,-,"Tg,1​：38.46；Tg,2​：≈-40",DSC,60,-,-,-,-,-
+2.0,PU0.5​SS0.5​PEG3​,"[1] Yingjie H , Jirong W , Zhigang H X .Disulfide bond-embedded polyurethane solid polymer electrolytes with self-healing and shape-memory performance[J].Polymer chemistry, 2022, 13(42):6002-6009.DOI:10.1039/d2py00945g.",二硫,PUDMA,CC(C(OCCOC(NC1CC(C)(CNC(OCCOC(NC2CC(C)(CN=C=O)CC(C)(C)C2)=O)=O)CC(C)(C)C1)=O)=O)=C,2,0.1,SSDMA,CC(C(OCCNC(NCSSCNC(NCCOC(C(C)=C)=O)=O)=O)=O)=C,2,0.1,-,-,-,-,PEGMA,,476,1,0.6,聚乙二醇段（PEG2000​，PUDMA 中）,,,2,PUDMA 中含 1mmol PEG2000​/0.10mmol PUDMA,二硫键（S-S）,OCCSSCCO,SSDMA 占交联剂总摩尔 50%,PUDMA 合成：2:1,-,-,0.32,508,"Tg,1​：44.23；Tg,2​：≈-40",DSC,60,2,0.25（推算）,-,-,78
+3.0,PU0.2​SS0.8​PEG3​,"[1] Yingjie H , Jirong W , Zhigang H X .Disulfide bond-embedded polyurethane solid polymer electrolytes with self-healing and shape-memory performance[J].Polymer chemistry, 2022, 13(42):6002-6009.DOI:10.1039/d2py00946g.",二硫,PUDMA,CC(C(OCCOC(NC1CC(C)(CNC(OCCOC(NC2CC(C)(CN=C=O)CC(C)(C)C2)=O)=O)CC(C)(C)C1)=O)=O)=C,2,0.04,SSDMA,CC(C(OCCNC(NCSSCNC(NCCOC(C(C)=C)=O)=O)=O)=O)=C,2,0.16,-,-,-,-,PEGMA,,477,1,0.6,聚乙二醇段（PEG2000​，PUDMA 中）,,,2,PUDMA 中含 1mmol PEG2000​/0.04mmol PUDMA,二硫键（S-S）,OCCSSCCO,SSDMA 占交联剂总摩尔 80%,PUDMA 合成：2:1,-,-,-,-,"Tg,1​：47.01；Tg,2​：≈-40",DSC,60,-,-,-,-,-
+4.0,PU1​PEG3​,"[1] Yingjie H , Jirong W , Zhigang H X .Disulfide bond-embedded polyurethane solid polymer electrolytes with self-healing and shape-memory performance[J].Polymer chemistry, 2022, 13(42):6002-6009.DOI:10.1039/d2py00947g.",二硫,PUDMA,CC(C(OCCOC(NC1CC(C)(CNC(OCCOC(NC2CC(C)(CN=C=O)CC(C)(C)C2)=O)=O)CC(C)(C)C1)=O)=O)=C,2,0.2,-,-,-,0,-,-,-,-,PEGMA,,478,1,0.6,聚乙二醇段（PEG2000​，PUDMA 中）,,,2,PUDMA 中含 1mmol PEG2000​/0.20mmol PUDMA,-,-,-,PUDMA 合成：2:1,-,-,0.26,526,"Tg,1​：≈40；Tg,2​：≈-40",DSC,60,-,-,-,-,-
+5.0,SS1​PEG3​,"[1] Yingjie H , Jirong W , Zhigang H X .Disulfide bond-embedded polyurethane solid polymer electrolytes with self-healing and shape-memory performance[J].Polymer chemistry, 2022, 13(42):6002-6009.DOI:10.1039/d2py00948g.",二硫,-,-,-,0,SSDMA,CC(C(OCCNC(NCSSCNC(NCCOC(C(C)=C)=O)=O)=O)=O)=C,2,0.2,-,-,-,-,PEGMA,,479,1,0.6,-,,,-,0,二硫键（S-S）,OCCSSCCO,SSDMA 占交联剂总摩尔 100%,-,-,-,0.07,65,"Tg,1​：≈40；Tg,2​：≈-40",DSC,60,-,-,-,-,-
+6.0,PUSS1​PEG3​,"[1] Yingjie H , Jirong W , Zhigang H X .Disulfide bond-embedded polyurethane solid polymer electrolytes with self-healing and shape-memory performance[J].Polymer chemistry, 2022, 13(42):6002-6009.DOI:10.1039/d2py00949g.",二硫,PUSSDMA,CC(C(OCCOC(NC1CC(C)(CNC(OCCSSCCOC(NC2CC(C)(C)CC(C)(CNC(OCCOC(NC3CC(C)(CNC(OCCOC(C(C)=C)=O)=O)CC(C)(C)C3)=O)=O)C2)=O)=O)CC(C)(C)C1)=O)=O)=C,2,0.2,-,-,-,0,-,-,-,-,PEGMA,,480,1,0.6,聚乙二醇段（PEG2000​，PUSSDMA 中）,,,2,PUSSDMA 中含 1mmol PEG2000​/0.20mmol PUSSDMA,二硫键（S-S）,OCCSSCCO,键合于 PUSSDMA 主链，PUSSDMA 占交联剂总摩尔 100%,PUSSDMA 合成：3:2,-,-,0.47,565,"Tg,1​：37.43；Tg,2​：≈-40",DSC,60,0.5,0.42,-,-,89
+1.0,PU0,"[1] Wan T , Chen D .Synthesis and properties of self-healing waterborne polyurethanes containing disulfide bonds in the main chain[J].Journal of Materials Science, 2017, 52(1):197-207.DOI:10.1007/s10853-016-0321-x.
+",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,30,DMPA,CC(CO)(CO)C(O)=O,2,8.21,-,-,-,-,PCL,,1000,2,61.16,-,,,-,-,-,-,-,2.2:2.0,-,-,0.54,-,-30.1,DSC,65,10min,0.31,-,-,57.4
+2.0,PU3,"[1] Wan T , Chen D .Synthesis and properties of self-healing waterborne polyurethanes containing disulfide bonds in the main chain[J].Journal of Materials Science, 2017, 52(1):197-207.DOI:10.1007/s10853-016-0321-x.
+",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,30,DMPA,CC(CO)(CO)C(O)=O,2,5.72,-,-,-,-,PCL,,1000,2,60.93,-,,,-,-,HEDS,OCCSSCCO,0.3,2.2:2.0,-,-,0.38,-,-29.4,DSC,65,10min,0.27,-,-,71.1
+3.0,PU5,"[1] Wan T , Chen D .Synthesis and properties of self-healing waterborne polyurethanes containing disulfide bonds in the main chain[J].Journal of Materials Science, 2017, 52(1):197-207.DOI:10.1007/s10853-016-0321-x.
+",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,30,DMPA,CC(CO)(CO)C(O)=O,2,4.08,-,-,-,-,PCL,,1000,2,60.78,-,,,-,-,HEDS,OCCSSCCO,0.5,2.2:2.0,-,-,0.74,-,-27.3,DSC,65,10min,0.67,-,-,90.5
+4.0,PU6,"[1] Wan T , Chen D .Synthesis and properties of self-healing waterborne polyurethanes containing disulfide bonds in the main chain[J].Journal of Materials Science, 2017, 52(1):197-207.DOI:10.1007/s10853-016-0321-x.
+",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,30,DMPA,CC(CO)(CO)C(O)=O,2,3.26,-,-,-,-,PCL,,1000,2,60.7,-,,,-,-,HEDS,OCCSSCCO,0.6,2.2:2.0,-,-,0.38,-,-28.6,DSC,65,10min,0.25,-,-,65.8
+5.0,PU7,"[1] Wan T , Chen D .Synthesis and properties of self-healing waterborne polyurethanes containing disulfide bonds in the main chain[J].Journal of Materials Science, 2017, 52(1):197-207.DOI:10.1007/s10853-016-0321-x.
+",二硫,IPDI,CC1(CN=C=O)CC(C)(C)CC(N=C=O)C3,2,30,DMPA,CC(CO)(CO)C(O)=O,2,2.44,-,-,-,-,PCL,,1000,2,60.63,-,,,-,-,HEDS,OCCSSCCO,0.7,2.2:2.0,-,-,0.3,-,-30.9,DSC,65,10min,0.24,-,-,80
+1.0,POU-3,"[1]周菱瑶,赵启凡,王占华,等.基于异氰酸酯-肟可逆加成反应的动态交联聚氨酯的制备及性能[J/OL].高分子材料科学与工程,1-12[2025-11-25].https://doi.org/10.16865/j.cnki.1000-7555.2025.0156.",硼酸酯,MDI,,2,35.29%,Tri-HDI,,3,11.76%,,,,,PCL Mn≈1000 g·mol-1,,,2,17.65%,,,,,,DMG,,35.29%,3.0,0.12,185.5,34.1,197.90%,66.2,DMA,100,1,22.165,132.56%,144.19,65.00%
+2.0,POU-3,"[1]周菱瑶,赵启凡,王占华,等.基于异氰酸酯-肟可逆加成反应的动态交联聚氨酯的制备及性能[J/OL].高分子材料科学与工程,1-12[2025-11-25].https://doi.org/10.16865/j.cnki.1000-7555.2025.0156.",硼酸酯,MDI,,2,35.29%,Tri-HDI,,3,11.76%,,,,,PCL Mn≈1000 g·mol-1,,,2,17.65%,,,,,,DMG,,35.29%,3.0,0.12,185.5,34.1,197.90%,66.2,DMA,100,2,33.418,189.68%,126.31,98.00%
+3.0,POU-3,"[1]周菱瑶,赵启凡,王占华,等.基于异氰酸酯-肟可逆加成反应的动态交联聚氨酯的制备及性能[J/OL].高分子材料科学与工程,1-12[2025-11-25].https://doi.org/10.16865/j.cnki.1000-7555.2025.0156.",硼酸酯,MDI,,2,35.29%,Tri-HDI,,3,11.76%,,,,,PCL Mn≈1000 g·mol-1,,,2,17.65%,,,,,,DMG,,35.29%,3.0,0.12,185.5,34.1,197.90%,66.2,DMA,100,0.5,16.34,93.86%,138.37,47.92%
+4.0,POU-3,"[1]周菱瑶,赵启凡,王占华,等.基于异氰酸酯-肟可逆加成反应的动态交联聚氨酯的制备及性能[J/OL].高分子材料科学与工程,1-12[2025-11-25].https://doi.org/10.16865/j.cnki.1000-7555.2025.0156.",硼酸酯,MDI,,2,35.29%,Tri-HDI,,2,11.76%,,,,,PCL Mn≈1000 g·mol-1,,,2,17.65%,,,,,,DMG,,35.29%,3.0,0.12,185.5,34.1,197.90%,66.2,DMA,100,0.17,12.6,68.06%,119.33,36.95%
+5.0,N-50-0 S-0.232,"[1] Yang Y , Du F S , Li Z C .Highly Stretchable, Self-Healable, and Adhesive Polyurethane Elastomers Based on Boronic Ester Bonds[J].ACS Applied Polymer Materials, 2020, 2(12):5630-5640.DOI:10.1021/acsapm.0c00941.https://doi.org/10.1021/acsapm.0c00941",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C1,2,26.85%,BDO DADO,OCCCCCO   CC(CO)(CO)C(=O)NCCc1ccc(O)c(O)c1,2,10.74%,,,,,PTMEG-1000,OCCCCO,,2,59.92%,,,,,,BDB,,10.64%,1.0,0.0002,,3.2,702.41%,-2.17,DMA,25,1,0.54,24%,,16.88%
+6.0,N-50-0 S-0.233,"[1] Yang Y , Du F S , Li Z C .Highly Stretchable, Self-Healable, and Adhesive Polyurethane Elastomers Based on Boronic Ester Bonds[J].ACS Applied Polymer Materials, 2020, 2(12):5630-5640.DOI:10.1021/acsapm.0c00941.https://doi.org/10.1021/acsapm.0c00942",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C2,2,26.85%,BDO DADO,OCCCCCO   CC(CO)(CO)C(=O)NCCc1ccc(O)c(O)c1,2,10.74%,,,,,PTMEG-1000,OCCCCO,,2,59.92%,,,,,,BDB,,10.64%,1.0,0.0002,,3.2,702.41%,-2.17,DMA,60,12,2.52,393.03%,,78.75%
+7.0,55%-HTPB-Pv,"[1] Li J , Ning Z , Yang W ,et al.Hydroxyl-Terminated Polybutadiene-Based Polyurethane with Self-Healing and Reprocessing Capabilities[J].ACS omega, 2022, 7(12):10156-10166.DOI:10.1021/acsomega.1c06416.https://doi.org/10.1021/acsomega.1c06416",硼酸酯,BDB,SCC1COB(c2cccc(B3OCC(CS)O3)c2)O1,2,34.20%,HDI,O=C=NCCCCCCN=C=O,2,3.50%,,,,,HTPB,*C/C=C/CCC(O)C=C,,2,62.30%,,,,,,BDB,,34.20%,1.0,0.00142,,2.5,86.60%,54,DMA,130,0.5,,,,
+8.0,56%-HTPB-Pv,"[1] Li J , Ning Z , Yang W ,et al.Hydroxyl-Terminated Polybutadiene-Based Polyurethane with Self-Healing and Reprocessing Capabilities[J].ACS omega, 2022, 7(12):10156-10166.DOI:10.1021/acsomega.1c06416.https://doi.org/10.1021/acsomega.1c06417",硼酸酯,BDB,SCC1COB(c2cccc(B3OCC(CS)O3)c2)O2,2,34.20%,HDI,O=C=NCCCCCCN=C=O,2,3.50%,,,,,HTPB,*C/C=C/CCC(O)C=C,,2,62.30%,,,,,,BDB,,34.20%,1.0,0.00142,,2.5,86.60%,54,DMA,130,1,,,,
+9.0,57%-HTPB-Pv,"[1] Li J , Ning Z , Yang W ,et al.Hydroxyl-Terminated Polybutadiene-Based Polyurethane with Self-Healing and Reprocessing Capabilities[J].ACS omega, 2022, 7(12):10156-10166.DOI:10.1021/acsomega.1c06416.https://doi.org/10.1021/acsomega.1c06418",硼酸酯,BDB,SCC1COB(c2cccc(B3OCC(CS)O3)c2)O3,2,34.20%,HDI,O=C=NCCCCCCN=C=O,2,3.50%,,,,,HTPB,*C/C=C/CCC(O)C=C,,2,62.30%,,,,,,BDB,,34.20%,1.0,0.00142,,2.5,86.60%,54,DMA,130,2,,,,
+10.0,PU-MN2.0,"[1]许睿,王鼎,窦柳皓,等.硼酸酯基自修复聚氨酯木材涂料制备与性能[J].林业工程学报,2024,9(03):54-60.DOI:10.13360/j.issn.2096-1359.202307036.https://kns.cnki.net/reader/flowpdf?invoice=hs8uu5ooHlLSDJ2ihNtS0aNdacfvDPbOyGgA3V8daRsJ87g5ZWuzicrMzL0VqmXNlXRQHPbTO0s%2BjLxWbIap4W6TepAhNiGpyRznvN5eaLH2pJaCtApQB6RsZ9aKApgkatCC3aEsPuUv6el8wRFtG3FxeKrHC6RTfD0pjAXUdu8%3D&platform=NZKPT&sourcetype=nxgp&product=CJFQ&filename=LKKF202403007&tablename=cjfdlast2024&type=JOURNAL&scope=trial&cflag=overlay&dflag=pdf&pages=&language=CHS&trial=&nonce=83C48B0645114C528B4B9B5DAD3BF53E",硼酸酯,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc1,2,26.10%,,,,,,,,,PTMEG-1000,,,2,43.50%,,,,,,BDB,,30.30%,1.2,,,6.06,696.00%,-32.1,DMA,60,12,2.65,72.70%,,43.70%
+11.0,PU-MN2.0,"[1]许睿,王鼎,窦柳皓,等.硼酸酯基自修复聚氨酯木材涂料制备与性能[J].林业工程学报,2024,9(03):54-60.DOI:10.13360/j.issn.2096-1359.202307036.https://kns.cnki.net/reader/flowpdf?invoice=hs8uu5ooHlLSDJ2ihNtS0aNdacfvDPbOyGgA3V8daRsJ87g5ZWuzicrMzL0VqmXNlXRQHPbTO0s%2BjLxWbIap4W6TepAhNiGpyRznvN5eaLH2pJaCtApQB6RsZ9aKApgkatCC3aEsPuUv6el8wRFtG3FxeKrHC6RTfD0pjAXUdu8%3D&platform=NZKPT&sourcetype=nxgp&product=CJFQ&filename=LKKF202403007&tablename=cjfdlast2024&type=JOURNAL&scope=trial&cflag=overlay&dflag=pdf&pages=&language=CHS&trial=&nonce=83C48B0645114C528B4B9B5DAD3BF53E",硼酸酯,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc2,2,26.10%,,,,,,,,,PTMEG-1000,,,2,43.50%,,,,,,BDB,,30.30%,1.2,,,6.06,696.00%,-32.1,DMA,60,24,3.52,70.87%,,58.09%
+12.0,PU-MN2.0,"[1]许睿,王鼎,窦柳皓,等.硼酸酯基自修复聚氨酯木材涂料制备与性能[J].林业工程学报,2024,9(03):54-60.DOI:10.13360/j.issn.2096-1359.202307036.https://kns.cnki.net/reader/flowpdf?invoice=hs8uu5ooHlLSDJ2ihNtS0aNdacfvDPbOyGgA3V8daRsJ87g5ZWuzicrMzL0VqmXNlXRQHPbTO0s%2BjLxWbIap4W6TepAhNiGpyRznvN5eaLH2pJaCtApQB6RsZ9aKApgkatCC3aEsPuUv6el8wRFtG3FxeKrHC6RTfD0pjAXUdu8%3D&platform=NZKPT&sourcetype=nxgp&product=CJFQ&filename=LKKF202403007&tablename=cjfdlast2024&type=JOURNAL&scope=trial&cflag=overlay&dflag=pdf&pages=&language=CHS&trial=&nonce=83C48B0645114C528B4B9B5DAD3BF53E",硼酸酯,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc3,2,26.10%,,,,,,,,,PTMEG-1000,,,2,43.50%,,,,,,BDB,,30.30%,1.2,,,6.06,696.00%,-32.1,DMA,60,36,4.5,73.83%,,74.26%
+13.0,PU-MN2.0,"[1]许睿,王鼎,窦柳皓,等.硼酸酯基自修复聚氨酯木材涂料制备与性能[J].林业工程学报,2024,9(03):54-60.DOI:10.13360/j.issn.2096-1359.202307036.https://kns.cnki.net/reader/flowpdf?invoice=hs8uu5ooHlLSDJ2ihNtS0aNdacfvDPbOyGgA3V8daRsJ87g5ZWuzicrMzL0VqmXNlXRQHPbTO0s%2BjLxWbIap4W6TepAhNiGpyRznvN5eaLH2pJaCtApQB6RsZ9aKApgkatCC3aEsPuUv6el8wRFtG3FxeKrHC6RTfD0pjAXUdu8%3D&platform=NZKPT&sourcetype=nxgp&product=CJFQ&filename=LKKF202403007&tablename=cjfdlast2024&type=JOURNAL&scope=trial&cflag=overlay&dflag=pdf&pages=&language=CHS&trial=&nonce=83C48B0645114C528B4B9B5DAD3BF53E",硼酸酯,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc4,2,26.10%,,,,,,,,,PTMEG-1000,,,2,43.50%,,,,,,BDB,,30.30%,1.2,,,6.06,696.00%,-32.1,DMA,60,48,5.47,41.30%,,90.20%
+14.0,EP-100%NBN,https://doi.org/10.3390/polym15193894,硼酸酯,NBN*,,2,100%,,,,,,,,,,,,,,,,,,,BDB,,100.00%,,,,50-70,18.00%,35.52,DSC,,,,,,
+15.0,EP-75%NBN:25%NHP,,硼酸酯,NBN*,,2,75%,NHP*,,2,25.00%,,,,,BPE+HDI,,,2,,,,,,,BDB,,100.00%,,,,50-70,,41.7,DSC,,,,,,
+16.0,EP-50%NBN:50%NHP,,硼酸酯,NBN*,,2,50.00%,NHP*,,2,50.00%,,,,,BPE+HDI,,,2,,,,,,,BDB,,100.00%,,,,67.95,31.50%,51.39,DSC,120,4,65.0,31.50%,,95.70%
+17.0,EP-25%NBN:&%%NHP,,硼酸酯,NBN*,,2,25.00%,NHP*,,2,75.00%,,,,,BPE+HDI,,,2,,,,,,,BDB,,100.00%,,,,50-70,45.00%,56.56,DSC,,,,,,
+18.0,EP-100%NHP,,硼酸酯,NBN*,,2,100.00%,,,,,,,,,BPE+HDI,,,2,,,,,,,BDB,,100.00%,,,,50-70,,63.71,DSC,,,,,,
+19.0,BS1,DOI: 10.1021/acsami.8b09863,硼酸酯,SBR,,,,,,,,,,,,,,,,,,,,,,BDB,,16.67%,,,1.86,1.7,498%,,DMA,80,24,,,,
+20.0,BS2,,硼酸酯,SBR,,,,,,,,,,,,,,,,,,,,,,BDB,,28.57%,,,1.95,1.83,315%,,DMA,80,24,,,,
+21.0,BS3,,硼酸酯,SBR,,,,,,,,,,,,,,,,,,,,,,BDB,,42.86%,,,2.06,1.94,262%,,DMA,80,24,,,,
+22.0,BS4,,硼酸酯,SBR,,,,,,,,,,,,,,,,,,,,,,BDB,,57.14%,,,"2,27",2.17,250%,,DMA,80,24,,,,
+23.0,BS5,,硼酸酯,SBR,,,,,,,,,,,,,,,,,,,,,,BDB,,71.43%,,,"2,43",2.68,215%,,DMA,80,24,,,,
+24.0,"CMC-B(OH)2/PVA=3/1,2%",DOI: 10.1039/c9ra10736c,硼酸酯,CMC-B(OH)2,,,75.00%,PVA,,,25.00%,,,,,,,,,,,,,,,BDB,,100.00%,,,,,,,,RT,12,,,,
+25.0,"CMC-B(OH)2/PVA=1/1,2%",,硼酸酯,CMC-B(OH)2,,,50.00%,PVA,,,50.00%,,,,,,,,,,,,,,,BDB,,100.00%,,,,0.0118,384%,,,RT,12,0.0116,,,98.31%
+26.0,"CMC-B(OH)2/PVA=1/3,2%",,硼酸酯,CMC-B(OH)2,,,25.00%,PVA,,,75.00%,,,,,,,,,,,,,,,BDB,,100.00%,,,,,,,,RT,12,,,,
+27.0,"CMC-B(OH)2/PVA=1/1,1%",,硼酸酯,CMC-B(OH)2,,,50.00%,PVA,,,50.00%,,,,,,,,,,,,,,,BDB,,100.00%,,,,,,,,RT,12,,,,
+28.0,"CMC-B(OH)2/PVA=2/1,2%",,硼酸酯,CMC-B(OH)2,,,66.67%,PVA,,,33.33%,,,,,,,,,,,,,,,BDB,,100.00%,,,,,,,,RT,12,,,,
+29.0,"CMC-B(OH)2/PVA=2/1,1%",,硼酸酯,CMC-B(OH)2,,,66.67%,PVA,,,33.33%,,,,,,,,,,,,,,,BDB,,100.00%,,,,,,,,RT,12,,,,
+30.0,PU4,"[1] Wang R , Zhu Y , Wang C ,et al.Hierarchical design strategy for constructing dynamic supramolecular self-healing water-absorbing expansion elastomers[J].Colloids and Surfaces A: Physicochemical and Engineering Aspects, 2025, 724(000).DOI:10.1016/j.colsurfa.2025.137525. https://doi.org/10.1016/j.colsurfa.2025.137525",硼酸酯,IPDI,,2,22.00%,HPBA,,2,8.00%,,,,,PTMEG-1000,,,2,70.00%,,,,,,B-O,,8.00%,1.0,0.00012,1.2,17.89,1804%,-60,DSC,60,48,17.0,1700%,1.1,95%
+31.0,PU4,"[1] Wang R , Zhu Y , Wang C ,et al.Hierarchical design strategy for constructing dynamic supramolecular self-healing water-absorbing expansion elastomers[J].Colloids and Surfaces A: Physicochemical and Engineering Aspects, 2025, 724(000).DOI:10.1016/j.colsurfa.2025.137525. https://doi.org/10.1016/j.colsurfa.2025.137525",硼酸酯,IPDI,,2,22.00%,HPBA,,2,8.00%,,,,,PTMEG-1000,,,2,70.00%,,,,,,B-O,,8.00%,1.0,0.00012,1.2,17.89,1804%,-60,DSC,60,0.5,8.5,900%,1.1,48%
+32.0,PU4,"[1] Wang R , Zhu Y , Wang C ,et al.Hierarchical design strategy for constructing dynamic supramolecular self-healing water-absorbing expansion elastomers[J].Colloids and Surfaces A: Physicochemical and Engineering Aspects, 2025, 724(000).DOI:10.1016/j.colsurfa.2025.137525. https://doi.org/10.1016/j.colsurfa.2025.137525",硼酸酯,IPDI,,2,22.00%,HPBA,,2,8.00%,,,,,PTMEG-1000,,,2,70.00%,,,,,,B-O,,8.00%,1.0,0.00012,1.2,17.89,1804%,-60,DSC,60,1,11.6,1200%,1.1,95%
+33.0,PU4,"[1] Wang R , Zhu Y , Wang C ,et al.Hierarchical design strategy for constructing dynamic supramolecular self-healing water-absorbing expansion elastomers[J].Colloids and Surfaces A: Physicochemical and Engineering Aspects, 2025, 724(000).DOI:10.1016/j.colsurfa.2025.137525. https://doi.org/10.1016/j.colsurfa.2025.137525",硼酸酯,IPDI,,2,22.00%,HPBA,,2,8.00%,,,,,PTMEG-1000,,,2,70.00%,,,,,,B-O,,8.00%,1.0,0.00012,1.2,17.89,1804%,-60,DSC,60,2,17.5,1750%,1.1,98%
+34.0,PU-B3（C）-3,https://doi.org/10.1016/j.mtcomm.2024.108195,硼酸酯,IPDI,,2,25.00%,HDB,,2,15.00%,,,,,PCL（Mn=1000）,,,2,60.00%,,,,,,B-O,,15.00%,1.0,0.00018,2.1,12.6,1250%,-42,DSC,80,4,11.9,1180%,1.9,94.50%
+35.0,PU-B3（C）-3,https://doi.org/10.1016/j.mtcomm.2024.108195,硼酸酯,IPDI,,2,25.00%,HDB,,2,15.00%,,,,,PCL（Mn=1000）,,,2,60.00%,,,,,,B-O,,15.00%,1.0,0.00018,2.1,12.6,1250%,-42,DSC,80,0.5,5.9,620%,1.0,47.00%
+36.0,PU-B3（C）-3,https://doi.org/10.1016/j.mtcomm.2024.108195,硼酸酯,IPDI,,2,25.00%,HDB,,2,15.00%,,,,,PCL（Mn=1000）,,,2,60.00%,,,,,,B-O,,15.00%,1.0,0.00018,2.1,12.6,1250%,-42,DSC,80,1,8.2,870%,1.3,65.00%
+37.0,PU-B3（C）-3,https://doi.org/10.1016/j.mtcomm.2024.108195,硼酸酯,IPDI,,2,25.00%,HDB,,2,15.00%,,,,,PCL（Mn=1000）,,,2,60.00%,,,,,,B-O,,15.00%,1.0,0.00018,2.1,12.6,1250%,-42,DSC,80,2,11.2,1120%,1.8,89.00%
+38.0,BPU,DOI: 10.1021/acsapm.4c02845,硼酸酯,IPDI,,2,28.00%,HPBA,,2,12.00%,,,,,PTMG-1000,,,2,60.00%,,,,,,B-O,,12.00%,1.0,0.00015,1.8,10.6,980%,-52,DSC,80,2,9.9,920%,1.7,93.40%
+39.0,BPU,DOI: 10.1021/acsapm.4c02845,硼酸酯,IPDI,,2,28.00%,HPBA,,2,12.00%,,,,,PTMG-1000,,,2,60.00%,,,,,,B-O,,12.00%,1.0,0.00015,1.8,10.6,980%,-52,DSC,80,1,7.2,710%,1.3,68%
+40.0,BPU,DOI: 10.1021/acsapm.4c02845,硼酸酯,IPDI,,2,28.00%,HPBA,,2,12.00%,,,,,PTMG-1000,,,2,60.00%,,,,,,B-O,,12.00%,1.0,0.00015,1.8,10.6,980%,-52,DSC,80,0.5,5.1,530%,1.0,48%
+41.0,PHPU-0,"[1]刘强,孔维波,蔡绪福.一种具有光热转化能力的光愈合聚氨酯的制备及性能[J].塑料工业, 2023, 51(9):169-175.DOI:10.3969/j.issn.1005-5770.2023.09.026.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C1,2,35.29%,BQBD,ON=C1C=CC(=NO)C=C1,2,15.04%,,,,,PTMG-1000,OCCCCO,,2,40.66%,HTPB,,,2.0,2.94%,-,,0,2.0,,,13.4,990%,32.49,DSC,,,,,,
+42.0,PHPU-0.5,"[1]刘强,孔维波,蔡绪福.一种具有光热转化能力的光愈合聚氨酯的制备及性能[J].塑料工业, 2023, 51(9):169-175.DOI:10.3969/j.issn.1005-5770.2023.09.027.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C2,2,35.11%,BQBD,ON=C1C=CC(=NO)C=C2,2,14.97%,,,,,PTMG-1000,OCCCCO,,2,40.46%,HTPB,,,2.0,2.93%,BDB,,0.53%,2.0,,,14.66,797%,42.62,DSC,,,,,,
+43.0,PHPU-1,"[1]刘强,孔维波,蔡绪福.一种具有光热转化能力的光愈合聚氨酯的制备及性能[J].塑料工业, 2023, 51(9):169-175.DOI:10.3969/j.issn.1005-5770.2023.09.028.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C3,2,34.93%,BQBD,ON=C1C=CC(=NO)C=C3,2,14.89%,,,,,PTMG-1000,OCCCCO,,2,40.26%,HTPB,,,2.0,2.91%,BDB,,1.06%,2.0,,,18.7,755%,26.74,DSC,,,,,,
+44.0,PHPU-2,"[1]刘强,孔维波,蔡绪福.一种具有光热转化能力的光愈合聚氨酯的制备及性能[J].塑料工业, 2023, 51(9):169-175.DOI:10.3969/j.issn.1005-5770.2023.09.029.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C4,2,34.60%,BQBD,ON=C1C=CC(=NO)C=C4,2,14.72%,,,,,PTMG-1000,OCCCCO,,2,39.87%,HTPB,,,2.0,2.88%,BDB,,2.12%,2.0,,,23.06,610%,30.87,DSC,,,,,,
+45.0,IP-DTDA-BA,"[1]盛叶明,程波,卢珣.基于多重可逆作用的自修复聚氨酯弹性体的制备及性能[J].高等学校化学学报, 2020, 41(3):10.DOI:CNKI:SUN:GDXH.0.2020-03-027.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C5,2,57.47%,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc1,2,13.79%,,,,,PBA,OB(O)c1ccccc1,,2,13.79%,,,,,,DTDA+BA,,27.59%,2.0,,,23.1,1181.45%,-37.2,DMA,60,0.5,5.91,20.27%,,25.58%
+46.0,IP-DTDA-BA,"[1]盛叶明,程波,卢珣.基于多重可逆作用的自修复聚氨酯弹性体的制备及性能[J].高等学校化学学报, 2020, 41(3):10.DOI:CNKI:SUN:GDXH.0.2020-03-028.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C6,2,57.47%,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc2,2,13.79%,,,,,PBA,OB(O)c1ccccc2,,2,13.79%,,,,,,DTDA+BA,,27.59%,2.0,,,23.1,1181.45%,-37.2,DMA,60,1,6.12,568.56%,,26.49%
+47.0,IP-DTDA-BA,"[1]盛叶明,程波,卢珣.基于多重可逆作用的自修复聚氨酯弹性体的制备及性能[J].高等学校化学学报, 2020, 41(3):10.DOI:CNKI:SUN:GDXH.0.2020-03-029.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C7,2,57.47%,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc3,2,13.79%,,,,,PBA,OB(O)c1ccccc3,,2,13.79%,,,,,,DTDA+BA,,27.59%,2.0,,,23.1,1181.45%,-37.2,DMA,60,2,8.4,527.77%,,36.36%
+48.0,IP-DTDA-BA,"[1]盛叶明,程波,卢珣.基于多重可逆作用的自修复聚氨酯弹性体的制备及性能[J].高等学校化学学报, 2020, 41(3):10.DOI:CNKI:SUN:GDXH.0.2020-03-030.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C8,2,57.47%,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc4,2,13.79%,,,,,PBA,OB(O)c1ccccc4,,2,13.79%,,,,,,DTDA+BA,,27.59%,2.0,,,23.1,1181.45%,-37.2,DMA,60,4,11.36,603.92%,,49.18%
+49.0,IP-DTDA-BA,"[1]盛叶明,程波,卢珣.基于多重可逆作用的自修复聚氨酯弹性体的制备及性能[J].高等学校化学学报, 2020, 41(3):10.DOI:CNKI:SUN:GDXH.0.2020-03-031.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C9,2,57.47%,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc5,2,13.79%,,,,,PBA,OB(O)c1ccccc5,,2,13.79%,,,,,,DTDA+BA,,27.59%,2.0,,,23.1,1181.45%,-37.2,DMA,60,6,14.66,652.86%,,63.46%
+50.0,IP-DTDA-BA,"[1]盛叶明,程波,卢珣.基于多重可逆作用的自修复聚氨酯弹性体的制备及性能[J].高等学校化学学报, 2020, 41(3):10.DOI:CNKI:SUN:GDXH.0.2020-03-032.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C10,2,57.47%,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc6,2,13.79%,,,,,PBA,OB(O)c1ccccc6,,2,13.79%,,,,,,DTDA+BA,,27.59%,2.0,,,23.1,1181.45%,-37.2,DMA,60,12,17.83,712.69%,,77.19%
+51.0,IP-DTDA-BA,"[1]盛叶明,程波,卢珣.基于多重可逆作用的自修复聚氨酯弹性体的制备及性能[J].高等学校化学学报, 2020, 41(3):10.DOI:CNKI:SUN:GDXH.0.2020-03-033.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C11,2,57.47%,DTDA,Nc1ccc(SSc2ccc(N)cc2)cc7,2,13.79%,,,,,PBA,OB(O)c1ccccc7,,2,13.79%,,,,,,DTDA+BA,,27.59%,2.0,,,23.1,1181.45%,-37.2,DMA,60,24,22.87,949.62%,,99%
+52.0,WPU2,"[1] Zhang X , Bai J , Xu R ,et al.Self-Healing Waterborne Polyurethane Coatings Based on Dynamic Covalent Borate Esters with Boron–Nitrogen Internal Coordination[J].ACS APPLIED POLYMER MATERIALS, 2025, 7(11):7025-7034.DOI:10.1021/acsapm.5c00626.",硼酸酯,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc1,2,31.61%,DMPA +MN+TEA,CC(C(=O)O)(CO)CO,2,15.76%,,,,,PTMEG-1000,OCCCCO,,2,52.63%,,,,,,MN,,6.75%,0.96,,21.1,14.6,691%,,,60,6,8.7,293%,,59.59%
+53.0,WPU2,"[1] Zhang X , Bai J , Xu R ,et al.Self-Healing Waterborne Polyurethane Coatings Based on Dynamic Covalent Borate Esters with Boron–Nitrogen Internal Coordination[J].ACS APPLIED POLYMER MATERIALS, 2025, 7(11):7025-7034.DOI:10.1021/acsapm.5c00627.",硼酸酯,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc2,2,31.61%,DMPA+MN+TEA,CC(C(=O)O)(CO)CO,2,15.76%,,,,,PTMEG-1000,OCCCCO,,2,52.63%,,,,,,MN,,6.75%,0.96,,21.1,14.6,691%,,,60,12,9.78,279%,,66.99%
+54.0,WPU2,"[1] Zhang X , Bai J , Xu R ,et al.Self-Healing Waterborne Polyurethane Coatings Based on Dynamic Covalent Borate Esters with Boron–Nitrogen Internal Coordination[J].ACS APPLIED POLYMER MATERIALS, 2025, 7(11):7025-7034.DOI:10.1021/acsapm.5c00628.",硼酸酯,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc3,2,31.61%,DMPA+MN+TEA,CC(C(=O)O)(CO)CO,2,15.76%,,,,,PTMEG-1000,OCCCCO,,2,52.63%,,,,,,MN,,6.75%,0.96,,21.1,14.6,691%,,,60,24,11.1,670%,,76.03%
+56.0,WPU3,"[1] Zhang X , Bai J , Xu R ,et al.Self-Healing Waterborne Polyurethane Coatings Based on Dynamic Covalent Borate Esters with Boron–Nitrogen Internal Coordination[J].ACS APPLIED POLYMER MATERIALS, 2025, 7(11):7025-7034.DOI:10.1021/acsapm.5c00629.",硼酸酯,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc4,2,32.53%,DMPA+MN+TEA,CC(C(=O)O)(CO)CO,2,13.31%,,,,,PTMEG-1000,OCCCCO,,2,54.16%,,,,,,MN,,6.94%,0.96,,43.8,24.2,552%,,,60,6,9.5,198%,,39.26%
+57.0,WPU3,"[1] Zhang X , Bai J , Xu R ,et al.Self-Healing Waterborne Polyurethane Coatings Based on Dynamic Covalent Borate Esters with Boron–Nitrogen Internal Coordination[J].ACS APPLIED POLYMER MATERIALS, 2025, 7(11):7025-7034.DOI:10.1021/acsapm.5c00630.",硼酸酯,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc5,2,32.53%,DMPA+MN+TEA,CC(C(=O)O)(CO)CO,2,13.31%,,,,,PTMEG-1000,OCCCCO,,2,54.16%,,,,,,MN,,6.94%,0.96,,43.8,24.2,552%,,,60,24,20.0,440%,,82.64%
+58.0,WPU3,"[1] Zhang X , Bai J , Xu R ,et al.Self-Healing Waterborne Polyurethane Coatings Based on Dynamic Covalent Borate Esters with Boron–Nitrogen Internal Coordination[J].ACS APPLIED POLYMER MATERIALS, 2025, 7(11):7025-7034.DOI:10.1021/acsapm.5c00631.",硼酸酯,MDI,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc6,2,32.53%,DMPA+MN+TEA,CC(C(=O)O)(CO)CO,2,13.31%,,,,,PTMEG-1000,OCCCCO,,2,54.16%,,,,,,MN,,6.94%,0.96,,43.8,24.2,552%,,,60,12,16.13,462.61%,,66.65%
+59.0,PU,"[1] Teng J , Shen X , Hang G ,et al.Mechanically Robust Polyurethane Vitrimers with B–N-Coordinated Boronic Ester Bonds[J].ACS Applied Polymer Materials, 2025, 7(4):2716-2730.DOI:10.1021/acsapm.5c00092.",硼酸酯,IPDI    BDO,CC1(C)CC(N=C=O)CC(C)(N=C=O)C1     OCCCCCO ,2,48.57%+42.57%,IPTS,CCO[Si](CCCN=C=O)(OCC)OCC,4,9.71%,,,,,HO-PDMS-OH,HO(CH2)3[Si(CH3)2O]13Si(CH3)2(CH2)3OH,,2,8.57%,,,,,,BN-二醇,,0,1.0,,140.8,10.1,58.40%,59.7,DMA,,,,,,
+60.0,PU-BN-0.15,"[1] Teng J , Shen X , Hang G ,et al.Mechanically Robust Polyurethane Vitrimers with B–N-Coordinated Boronic Ester Bonds[J].ACS Applied Polymer Materials, 2025, 7(4):2716-2730.DOI:10.1021/acsapm.5c00093.",硼酸酯,IPDI+BDO,CC1(C)CC(N=C=O)CC(C)(N=C=O)C2    OCCCCCO,2,48.57%+27.79%,IPTS+BN-二醇,CCO[Si](CCCN=C=O)(OCC)OCC,2+4,9.71%+4.80%,,,,,HO-PDMS-OH,HO(CH2)3[Si(CH3)2O]13Si(CH3)2(CH2)4OH,,2,8.57%,,,,,,BN-二醇,,4.80%,1.0,,180.2,13.2,25.90%,71.76,DMA,,,,,,
+61.0,PU-BN-0.3,"[1] Teng J , Shen X , Hang G ,et al.Mechanically Robust Polyurethane Vitrimers with B–N-Coordinated Boronic Ester Bonds[J].ACS Applied Polymer Materials, 2025, 7(4):2716-2730.DOI:10.1021/acsapm.5c00094.",硼酸酯,IPDI+BDO,CC1(C)CC(N=C=O)CC(C)(N=C=O)C3    OCCCCCO,2,48.57%+22.89%,IPTS+BN-二醇,CCO[Si](CCCN=C=O)(OCC)OCC,2+4,9.71%+9.71%,,,,,HO-PDMS-OH,HO(CH2)3[Si(CH3)2O]13Si(CH3)2(CH2)5OH,,2,8.57%,,,,,,BN-二醇,,9.71%,1.0,,201.4,22.1,28.00%,83.83,DMA,,,,,,
+62.0,PU-BN-0.6,"[1] Teng J , Shen X , Hang G ,et al.Mechanically Robust Polyurethane Vitrimers with B–N-Coordinated Boronic Ester Bonds[J].ACS Applied Polymer Materials, 2025, 7(4):2716-2730.DOI:10.1021/acsapm.5c00095.",硼酸酯,IPDI+BDO,CC1(C)CC(N=C=O)CC(C)(N=C=O)C4    OCCCCCO,2,48.57%+13.06%,IPTS+BN-二醇,CCO[Si](CCCN=C=O)(OCC)OCC,2+4,9.71%+19.59%,,,,,HO-PDMS-OH,HO(CH2)3[Si(CH3)2O]13Si(CH3)2(CH2)6OH,,2,8.57%,,,,,,BN-二醇,,19.59%,1.0,,232.7,32.5,26.70%,103.48,DMA,,,,,,
+63.0,PU-BN-1.0,"[1] Teng J , Shen X , Hang G ,et al.Mechanically Robust Polyurethane Vitrimers with B–N-Coordinated Boronic Ester Bonds[J].ACS Applied Polymer Materials, 2025, 7(4):2716-2730.DOI:10.1021/acsapm.5c00096.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C5 ,2,48.57%,IPTS+BN-二醇,CCO[Si](CCCN=C=O)(OCC)OCC,2+4,19.33%+32.57%,,,,,HO-PDMS-OH,HO(CH2)3[Si(CH3)2O]13Si(CH3)2(CH2)7OH,,2,8.57%,,,,,,BN-二醇,,32.57%,1.0,,302.7,35.4,12.20%,120.89,DMA,,,,,,
+64.0,PU-B0,"[1] Song K , Ye W , Gao X ,et al.Synergy between dynamic covalent boronic ester and boron–nitrogen coordination: strategy for self-healing polyurethane elastomers at room temperature with unprecedented mechanical properties[J].Materials Horizons[2026-02-07].DOI:10.1039/D0MH01142H.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C6 ,2,45.46%,DPA,CC(CC(C)(O)C(C)CO)OCCCN(C)C,2,9.09%,,,,,PTMEG-1000,OCCCCO,,2,18.18%,,,,,,-,,0,1.25,0.00012,1.7,0.3,2740%,,,,,,,,
+65.0,PU-B9,"[1] Song K , Ye W , Gao X ,et al.Synergy between dynamic covalent boronic ester and boron–nitrogen coordination: strategy for self-healing polyurethane elastomers at room temperature with unprecedented mechanical properties[J].Materials Horizons[2026-02-07].DOI:10.1039/D0MH01143H.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C7 ,2,46.30%,HDB,OCCC1COB2OB(OCC(CCO)c3ccc1cc3)O2 CC(CC(C)(O)C(C)CO)OCCCN(C)C,2,9.26%,,,,,PTMEG-1000,OCCCCO,,2,18.52%,,,,,,HDB,,9.26%,1.0,8.5e-05,0.7,0.3,2590%,,,,,,,,
+66.0,PU-BN7,"[1] Song K , Ye W , Gao X ,et al.Synergy between dynamic covalent boronic ester and boron–nitrogen coordination: strategy for self-healing polyurethane elastomers at room temperature with unprecedented mechanical properties[J].Materials Horizons[2026-02-07].DOI:10.1039/D0MH01144H.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C8 ,2,46.15%,HDB+DPA,OCCC1COB2OB(OCC(CCO)c3ccc1cc3)O3 CC(CC(C)(O)C(C)CO)OCCCN(C)C,2,7.69%+15.39%,,,,,PTMEG-1000,OCCCCO,,2,23.08%,,,,,,HDB,,7.69%,1.5,0.00031,1.4,0.7,14050%,,,,,,,,
+67.0,PU-BN9,"[1] Song K , Ye W , Gao X ,et al.Synergy between dynamic covalent boronic ester and boron–nitrogen coordination: strategy for self-healing polyurethane elastomers at room temperature with unprecedented mechanical properties[J].Materials Horizons[2026-02-07].DOI:10.1039/D0MH01145H.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C9 ,2,46.30%,HDB+DPA,OCCC1COB2OB(OCC(CCO)c3ccc1cc3)O4 CC(CC(C)(O)C(C)CO)OCCCN(C)C,2,9.26%+18.52%,,,,,PTMEG-1000,OCCCCO,,2,18.52%,,,,,,HDB,,9.26%,1.67,0.00058,3.1,4.2,4960%,,,,,,,,
+68.0,PU-BN11,"[1] Song K , Ye W , Gao X ,et al.Synergy between dynamic covalent boronic ester and boron–nitrogen coordination: strategy for self-healing polyurethane elastomers at room temperature with unprecedented mechanical properties[J].Materials Horizons[2026-02-07].DOI:10.1039/D0MH01146H.",硼酸酯,IPDI,CC1(C)CC(N=C=O)CC(C)(N=C=O)C10 ,2,50.00%,HDB+DPA,OCCC1COB2OB(OCC(CCO)c3ccc1cc3)O5 CC(CC(C)(O)C(C)CO)OCCCN(C)C,2,11.11%+22.22%,,,,,PTMEG-1000,OCCCCO,,2,16.67%,,,,,,HDB,,11.11%,1.8,0.00073,8.6,10.5,3120%,,,,,,,,
+69.0,PBSODMS-1.2,"Achieving room-temperature self-healing of mechanoluminescent materials by dynamic borate ester bonding Zhu Lin1 , Changjian Chen1 , Honghui Huang1 , Beibei Xu2 , Yixi Zhuang1* and Rong-Jun Xie1,3*",硼酸酯,PBS,,,,PDMS,,,,,,,,PDMS-OH,,,,,,,,,,BDB,,,0.004,,,,1500%,,,0.17,,,,,75%
+70.0,PVA/B(OH)3-1,"Transient Polymer Hydrogels Based on Dynamic Covalent Borate Ester Bonds Chunxiao Zhang, a,b  Haoyue Lu, a,b  and Xu Wang* ,a,b ",硼酸酯,,,,,,,,,,,,,PVA,,,2,89.41%,,,,,,B(OH)3,,10.62%,,4e-05,0.001,,,,,25,0.17,,,,
+71.0,0.5%Fast(4),"Malleable and Self-Healing Covalent Polymer Networks through Tunable Dynamic Boronic Ester Bonds Olivia R. Cromwell, ‡ Jaeyoon Chung, ‡ and Zhibin Guan*",硼酸酯,,,,,,,,,,,,,20%-diolPCO,,,,100%,,,,,,B-O,,0.50%,,7.73e-05,4.68,1.85,345%,,,50,16,1.75,344%,4.63,95.59%
+72.0,1.0%Fast(4),,硼酸酯,,,,,,,,,,,,,20%-diolPCO,,,,100%,,,,,,B-O,,1.00%,,0.000155,4.86,1.51,174%,,,50,16,1.47,158%,4.81,97.35%
+73.0,0.5%Slow(3),,硼酸酯,,,,,,,,,,,,,20%-diolPCO,,,,100%,,,,,,B-O,,0.50%,,7.73e-05,4.55,1.97,446%,,,50,16,0.72,28.30%,4.15,36.70%
+74.0,1.0%Slow(3),,硼酸酯,,,,,,,,,,,,,20%-diolPCO,,,,100%,,,,,,B-O,,1.00%,,0.000155,3.23,1.12,121%,,,,,,,,
+75.0,GP-B-H(4wt%PVA),"A tri-responsive and fast self-healing organogel with stretchability based on multiple dynamic covalent bonds† Shujing Ren, a Huiqin Liang, b Panpan Sun, a Yanan Gao *c and Liqiang Zheng *a ",硼酸酯,,,,,,,,,,,,,PVA,,,,4.00%,,,,,,"B-O,酰腙键，二硫键",,"FPBA:0.74%,DPH:0.58%",,,0.014,0.086,545%,,,25,0.17,0.086,545%,0.014,100%
+76.0,PB-5/PA-5,"[1] Liu Y , Liu Y , Wang Q ,et al.Boronic Ester-Based Self-Healing Hydrogels Formed by Using Intermolecular B-N Coordination[J].Polymer, 2020, 202:122624.DOI:10.1016/j.polymer.2020.122624.",硼酸酯,PBA,,2,80.53%,,,,,,,,,PAAm,,,2,14.11%,,,,,,B-O,,5.36%,1.0,0.000238,0.15,0.02,280,-50,DSC,37,0.5,0.018,250,0.13,90%
+77.0,PB-10/PA-10,"[1] Liu Y , Liu Y , Wang Q ,et al.Boronic Ester-Based Self-Healing Hydrogels Formed by Using Intermolecular B-N Coordination[J].Polymer, 2020, 202:122624.DOI:10.1016/j.polymer.2020.122624.",硼酸酯,PBA,,2,73.23%,,,,,,,,,PAAm,,,2,17.56%,,,,,,B-O,,9.21%,1.0,0.000412,0.32,0.05,320,-48,DSC,37,0.5,0.045,290,0.28,90%
+78.0,BH-5-1.0,"[1] Ji F , Li J , Zhang G ,et al.Alkaline monomer for mechanical enhanced and self-healing hydrogels based on dynamic borate ester bonds[J].Polymer, 2019, 184(000):11.DOI:10.1016/j.polymer.2019.121882.",硼酸酯,BDA,,2,5.00%,,,,,,,,,AM,,,2,94.00%,DMAEMA,,,2.0,1.00%,B-O,,5.00%,,0.000121,0.08,0.015,210,-45,DSC,25,0.5,0.013,190,0.07,87%
+79.0,BH-5-0.4,"[1] Ji F , Li J , Zhang G ,et al.Alkaline monomer for mechanical enhanced and self-healing hydrogels based on dynamic borate ester bonds[J].Polymer, 2019, 184(000):11.DOI:10.1016/j.polymer.2019.121882.",硼酸酯,BDA,,2,5.00%,,,,,,,,,AM,,,2,94.60%,DMAEMA,,,2.0,0.40%,B-O,,5.00%,,8.9e-05,0.05,0.009,170,-47,DSC,25,0.5,0.008,150,0.045,89%
+80.0,BH-6.5-1.0,"[1] Ji F , Li J , Zhang G ,et al.Alkaline monomer for mechanical enhanced and self-healing hydrogels based on dynamic borate ester bonds[J].Polymer, 2019, 184(000):11.DOI:10.1016/j.polymer.2019.121882.",硼酸酯,BDA,,2,6.50%,,,,,,,,,AM,,,2,92.50%,DMAEMA,,,2.0,1.00%,B-O,,6.50%,,0.000185,0.13,0.023,250,-43,DSC,25,0.5,0.021,230,0.12,91%
+81.0,PDUB2,DOI: 10.1021/acsami.5c07208,硼酸酯,PDI,,2,25.30%,,,,,,,,,PCL,,,2,74.70%,,,,,,B-O,,8.20%,1.05,0.000215,0.28,0.035,320,-38,DSC,37,1,0.032,295,0.25,91%
+82.0,PDUB1,DOI: 10.1021/acsami.5c07208,硼酸酯,PDI,,2,22.80%,,,,,,,,,PCL,,,2,77.20%,,,,,,B-O,,5.60%,1.05,0.000152,0.19,0.022,270,-41,DSC,37,1,0.02,250,0.17,90%
+83.0,PDIB,DOI: 10.1021/acsami.5c07208,硼酸酯,PDI,,2,27.50%,,,,,,,,,PCL,,,2,72.50%,,,,,,B-O,,10.80%,1.05,0.000298,0.39,0.048,380,-35,DSC,37,1,0.044,350,0.35,92%
+84.0,D=BSPE-3,DOI: 10.1002/adfm.202212005,硼酸酯,PSt-co-PBA,,2,35.00%,,,,,,,,,PEGMA,,,2,65.00%,,,,,,B-O,,12.00%,,0.000189,0.12,0.018,210,-32,DSC,60,2,0.016,190,0.11,89%
+85.0,D=BSPE-5,DOI: 10.1002/adfm.202212005,硼酸酯,PSt-co-PBA,,2,38.00%,,,,,,,,,PEGMA,,,2,62.00%,,,,,,B-O,,15.00%,,0.000245,0.17,0.025,250,-29,DSC,60,2,0.023,230,0.15,92%
+86.0,D=BSPE-7,DOI: 10.1002/adfm.202212005,硼酸酯,PSt-co-PBA,,2,42.00%,,,,,,,,,PEGMA,,,2,58.00%,,,,,,B-O,,18.00%,,0.000312,0.23,0.032,290,-25,DSC,60,2,0.03,270,0.21,94%
+87.0,Gel1(PVA/GC:2.5/0),"Self-Healing Hydrogel with a Double Dynamic Network Comprising Imine and Borate Ester Linkages Yongsan Li, † Lei Yang, ‡ Yuan Zeng, † Yuwei Wu, § Yen Wei, † and Lei Tao",硼酸酯,PVA,,,50.00%,,,,,,,,,MF-PEG,,,2,50.00%,,,,,,B-O,,50.00%,,,0.0057,,,,,25,0.75,,,,98.25%
+88.0,Gel2(PVA/GC:2.0/0.5)),,硼酸酯,PVA,,,40.00%,GC,,,10.00%,,,,,MF-PEG,,,2,50.00%,,,,,,B-O,,50.00%,,,,,,,,25,0.75,,,,
+89.0,Gel3(PVA/GC:2.5/2),,硼酸酯,PVA,,,30.00%,GC,,,20.00%,,,,,MF-PEG,,,2,50.00%,,,,,,B-O,,50.00%,,,,,,,,25,0.75,,,,
+90.0,Gel4(PVA/GC:2.5/3),,硼酸酯,PVA,,,20.00%,GC,,,30.00%,,,,,MF-PEG,,,2,50.00%,,,,,,B-O,,50.00%,,,0.0057,,,,,25,1,,,,100%
+91.0,Gel5(PVA/GC:2.5/4),,硼酸酯,PVA,,,10.00%,GC,,,40.00%,,,,,MF-PEG,,,2,50.00%,,,,,,B-O,,50.00%,,,,,,,,25,1,,,,
+92.0,Gel6(PVA/GC:2.5/5),,硼酸酯,,,,,,,,50.00%,,,,,MF-PEG,,,2,50.00%,,,,,,亚胺,,50.00%,,,,,,,,25,,,,,
+93.0,PAM/PBA-IL1/CNF,"[1]姚雪,张素风,钱立伟.基于动态硼酸酯键/氢键的自修复导电水凝胶的制备及性能[J].精细化工, 2023.DOI:10.13550/j.jxhg.20220632.
+",硼酸酯,PBA-IL,C=Cn1cc[n+](Cc2ccc(B(O)O)cc2)c1.[Br-],2,2%,CNF,"O[C@H]1[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@H]2[C@@H](O)[C@H](O)[C@@H](O)[C@H]2O
+",>=3,1.12%,,,,,PAM,CCC(N)=O,,2,95.74%,,,,,,PBA-IL,,2%,,,,365.5,1598.40%,,,RT,2.5,315.6,1476.70%,,86.34%
+94.0,PAM/PBA-IL2/CNF,"[1]姚雪,张素风,钱立伟.基于动态硼酸酯键/氢键的自修复导电水凝胶的制备及性能[J].精细化工, 2023.DOI:10.13550/j.jxhg.20220633.
+",硼酸酯,PBA-IL,C=Cn1cc[n+](Cc2ccc(B(O)O)cc2)c2.[Br-],2,5%,CNF,"O[C@H]1[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@H]2[C@@H](O)[C@H](O)[C@@H](O)[C@H]3O
+",>=3,1.09%,,,,,PAM,CCC(N)=O,,2,93.22%,,,,,,PBA-IL,,5%,,,,348.9,1789.60%,,,RT,2.5,320.9,1764.90%,,91.98%
+95.0,PAM/PBA-IL3/CNF,"[1]姚雪,张素风,钱立伟.基于动态硼酸酯键/氢键的自修复导电水凝胶的制备及性能[J].精细化工, 2023.DOI:10.13550/j.jxhg.20220634.
+",硼酸酯,PBA-IL,C=Cn1cc[n+](Cc2ccc(B(O)O)cc2)c3.[Br-],2,8%,CNF,"O[C@H]1[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@H]2[C@@H](O)[C@H](O)[C@@H](O)[C@H]4O
+",>=3,1.05%,,,,,PAM,CCC(N)=O,,2,90.09%,,,,,,PBA-IL,,8%,,,,335.1,1969.50%,,,RT,2.5,319.8,1950.40%,,95.43%
+96.0,PAM/PBA-IL4/CNF,"[1]姚雪,张素风,钱立伟.基于动态硼酸酯键/氢键的自修复导电水凝胶的制备及性能[J].精细化工, 2023.DOI:10.13550/j.jxhg.20220635.
+",硼酸酯,PBA-IL,C=Cn1cc[n+](Cc2ccc(B(O)O)cc2)c4.[Br-],2,12%,CNF,"O[C@H]1[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@H]2[C@@H](O)[C@H](O)[C@@H](O)[C@H]5O
+",>=3,1.00%,,,,,PAM,CCC(N)=O,,2,86.16%,,,,,,PBA-IL,,12%,,,,306.9,2053.80%,,,RT,2.5,277.3,2018.10%,,90.36%
+97.0,p-HPDM,https://doi.org/10.1021/acssuschemeng.2c03717,硼酸酯,IPDI,"O=C=NCC1(CN=C=O)CCCCC1(C)C
+",2,46.16%,,,,,,,,,HPSi,C[Si](C)(C)O[Si](C)(CCCO)O[Si](C)(C)O[Si](C)(CCCO)O[Si](C)(C)(C)(C)O[Si](C)(CCCO)O[Si](C)(C)C,,2,32.69%,,,,,,,,,,,,1.9,106.40%,,,60,8,1.82,117.23%,,95.79%
+98.0,p-GMA,https://doi.org/10.1021/acssuschemeng.2c03718,硼酸酯,IPDI,"O=C=NCC1(CN=C=O)CCCCC2(C)C
+",2,43.56%,,,,,,,,,HPSi,C[Si](C)(C)O[Si](C)(CCCO)O[Si](C)(C)O[Si](C)(CCCO)O[Si](C)(C)(C)(C)O[Si](C)(CCCO)O[Si](C)(C)C,,2,30.85%,,,,,,,,,,,,10.5,50.10%,,,60,8,6.6,34%,,62.86%
+99.0,TB-Ca,"[1] Zhao Y , Li Y , Yang S ,et al.Synergistic Enhancement of Polyurethane Materials by Dynamic Borate Bonds and Inorganic Nanoparticles[J].ACS Applied Polymer Materials, 2010, 7(16):11.DOI:10.1021/acsapm.5c02016.",硼酸酯,IPDI,"O=C=NCC1(CN=C=O)CCCCC5(C)C
+",2,47.04%,MDA,"Nc1ccc(Cc2ccc(N)cc2)cc1
+",2,17.42%,,,,,PPG-1000,"CC(CO)COC(C)COC(C)CO
+",,2,15.68%,,,,,,TB-OH,,3.49%,,,,15.23,459.08,0,DMA,60,3,2.43,102.32%,,15.96%
+100.0,TB-Ca,"[1] Zhao Y , Li Y , Yang S ,et al.Synergistic Enhancement of Polyurethane Materials by Dynamic Borate Bonds and Inorganic Nanoparticles[J].ACS Applied Polymer Materials, 2010, 7(16):11.DOI:10.1021/acsapm.5c02017.",硼酸酯,IPDI,"O=C=NCC1(CN=C=O)CCCCC6(C)C
+",2,47.04%,MDA,"Nc1ccc(Cc2ccc(N)cc2)cc2
+",2,17.42%,,,,,PPG-1000,"CC(CO)COC(C)COC(C)CO
+",,2,15.68%,,,,,,TB-OH,,3.49%,,,,15.23,459.08,0,DMA,60,6,7.11,167.28%,,46.68%
+101.0,TB-Ca,"[1] Zhao Y , Li Y , Yang S ,et al.Synergistic Enhancement of Polyurethane Materials by Dynamic Borate Bonds and Inorganic Nanoparticles[J].ACS Applied Polymer Materials, 2010, 7(16):11.DOI:10.1021/acsapm.5c02018.",硼酸酯,IPDI,"O=C=NCC1(CN=C=O)CCCCC7(C)C
+",2,47.04%,MDA,"Nc1ccc(Cc2ccc(N)cc2)cc3
+",2,17.42%,,,,,PPG-1000,"CC(CO)COC(C)COC(C)CO
+",,2,15.68%,,,,,,TB-OH,,3.49%,,,,15.23,459.08,0,DMA,60,9,10.14,297.20%,,66.58%
+102.0,TB-Ca,"[1] Zhao Y , Li Y , Yang S ,et al.Synergistic Enhancement of Polyurethane Materials by Dynamic Borate Bonds and Inorganic Nanoparticles[J].ACS Applied Polymer Materials, 2010, 7(16):11.DOI:10.1021/acsapm.5c02019.",硼酸酯,IPDI,"O=C=NCC1(CN=C=O)CCCCC8(C)C
+",2,47.04%,MDA,"Nc1ccc(Cc2ccc(N)cc2)cc4
+",2,17.42%,,,,,PPG-1000,"CC(CO)COC(C)COC(C)CO
+",,2,15.68%,,,,,,TB-OH,,3.49%,,,,15.23,459.08,0,DMA,60,12,12.69,383.47%,,83.32%
+103.0,PU-CNC-0,"[1] Gao Y , Hu J , Shen X ,et al.Nanocomposites of Polyurethane Featuring Cellulose Nanocrystals and Dynamic Boronic Ester Bonds[J].ACS Applied Polymer Materials, 2024, 6(18):14.DOI:10.1021/acsapm.4c01886.",硼酸酯,IPDI,"O=C=NCC1(CN=C=O)CCCCC9(C)C
+",2,30.87%,DMHD,OCC1(OCC(=O)O)OCC(=O)O1,2,16.32%,,,,,PTMEG-1000,OCCCCOCCCCOCCCCO,,2,2.35%,,,,,,DBA  ,,6.51%,1.0,,,0.95,1294.12,,,60,24,0.91,1262.75%,,95.79%
+104.0,PU-CNC-5,"[1] Gao Y , Hu J , Shen X ,et al.Nanocomposites of Polyurethane Featuring Cellulose Nanocrystals and Dynamic Boronic Ester Bonds[J].ACS Applied Polymer Materials, 2024, 6(18):14.DOI:10.1021/acsapm.4c01887.",硼酸酯,IPDI,"O=C=NCC1(CN=C=O)CCCCC10(C)C
+",2,29.42%,DMHD,OCC1(OCC(=O)O)OCC(=O)O2,2,15.56%,,,,,PTMEG-1000,OCCCCOCCCCOCCCCO,,2,1.90%,,,,,,DBA   PBA-CNCs,,6.20%  4.69%,1.0,,,1.9,1227.18,,,60,24,1.84,1196.12%,,96.84%
+105.0,PU-CNC-10,"[1] Gao Y , Hu J , Shen X ,et al.Nanocomposites of Polyurethane Featuring Cellulose Nanocrystals and Dynamic Boronic Ester Bonds[J].ACS Applied Polymer Materials, 2024, 6(18):14.DOI:10.1021/acsapm.4c01888.",硼酸酯,IPDI,"O=C=NCC1(CN=C=O)CCCCC11(C)C
+",2,27.96%,DMHD,OCC1(OCC(=O)O)OCC(=O)O3,2,14.79%,,,,,PTMEG-1000,OCCCCOCCCCOCCCCO,,2,1.56%,,,,,,DBA   PBA-CNCs,,5.89%  9.42%,1.0,,,2.64,1012.56,,,60,24,2.49,958.45%,,94.32%
+106.0,PU-CNC-15,"[1] Gao Y , Hu J , Shen X ,et al.Nanocomposites of Polyurethane Featuring Cellulose Nanocrystals and Dynamic Boronic Ester Bonds[J].ACS Applied Polymer Materials, 2024, 6(18):14.DOI:10.1021/acsapm.4c01889.",硼酸酯,IPDI,"O=C=NCC1(CN=C=O)CCCCC12(C)C
+",2,26.50%,DMHD,OCC1(OCC(=O)O)OCC(=O)O4,2,14.01%,,,,,PTMEG-1000,OCCCCOCCCCOCCCCO,,2,1.31%,,,,,,DBA   PBA-CNCs,,5.59%  14.16%,1.0,,,3.04,827.32,,,60,24,2.97,764.88%,,97.70%
+107.0,CMC-B(OH)2/PVA,"[1] An H , Bo Y , Chen D ,et al.Cellulose-based self-healing hydrogel through boronic ester bonds with excellent biocompatibility and conductivity[J].RSC Adv.  2020(19).DOI:10.1039/C9RA10736C.",硼酸酯,CMC-B(OH)2,"[Na+].[Na+].[*]OC[C@H]1O[C@H](O[*])[C@@H](O)[C@H](OCC(=O)[O-])[C@@H]1OCC(=O)[O-]
+",多官能度,,,,,,,,,,PVA-124,O[*:1]C([*:2])[*:3],,多官能度,,,,,,,,,,,,,11.8,384,,,,24,11.6,300%,,98.31%
+108.0,X:Y:Z=0.8:0.3:1.0,"[1]丁晓亚,王宇,李杲,等.基于亚胺硼酸盐和硼酸酯键的可注射自修复水凝胶及其多重响应性能研究[J].高分子学报, 2019(5):11.DOI:10.11777/j.issn1000-3304.2019.19015.",硼酸酯,PEI,C(CN)CN(CCN)CCN,多官能度,0.98%,2-FPBA,"O=Cc1cccc(B(O)O)c1
+",2,21.15%,,,,,SA,"[Na+].[O-]C(=O)C1O[C@H]([C@H]([O-])[C@@H](O)[C@H]1O)O
+",,多官能度,77.87%,,,,,,2-FPBA,,21.15%,,,,,,,,,,,,,
+109.0,ENR@10PDA/B,"[1] Zhang J , Cao L , Chen Y .Malleable and self-healing rubbers covalently crosslinked by reversible boronic ester bonds[J].Soft Matter, 2022, 18(44):8436-8445.DOI:10.1039/d2sm01128a.
+",硼酸酯,DA,[Cl-].[NH3+]CCc1ccc(O)c(O)c2,2,3.07%,BA,"O=C(O)c1cccc(B(O)O)2
+",3,1.54%,,,,,ENR,C[C@H]1C(O)CC[C@H]1,,,95.40%,,,,,,BA,,1.54%,,,0.55,1.22,720%,-32.1℃,DMA,60,1,0.27,122.30%,,22.13%
+110.0,ENR@10PDA/B,"[1] Zhang J , Cao L , Chen Y .Malleable and self-healing rubbers covalently crosslinked by reversible boronic ester bonds[J].Soft Matter, 2022, 18(44):8436-8445.DOI:10.1039/d2sm01129a.
+",硼酸酯,DA,[Cl-].[NH3+]CCc1ccc(O)c(O)c3,2,3.07%,BA,"O=C(O)c1cccc(B(O)O)1
+",3,1.54%,,,,,ENR,C[C@H]1C(O)CC[C@H]0,,,95.40%,,,,,,BA,,1.54%,,,0.55,1.22,720%,-32.0℃,DMA,60,8,0.43,244.60%,,35.24%
+111.0,ENR@10PDA/B,"[1] Zhang J , Cao L , Chen Y .Malleable and self-healing rubbers covalently crosslinked by reversible boronic ester bonds[J].Soft Matter, 2022, 18(44):8436-8445.DOI:10.1039/d2sm01130a.
+",硼酸酯,DA,[Cl-].[NH3+]CCc1ccc(O)c(O)c4,2,3.07%,BA,"O=C(O)c1cccc(B(O)O)0
+",3,1.54%,,,,,ENR,C[C@H]1C(O)CC[C@H]1,,,95.40%,,,,,,BA,,1.54%,,,0.55,1.22,720%,-32.1℃,DMA,60,16,0.66,561.15%,,54.10%
+112.0,ENR@10PDA/B,"[1] Zhang J , Cao L , Chen Y .Malleable and self-healing rubbers covalently crosslinked by reversible boronic ester bonds[J].Soft Matter, 2022, 18(44):8436-8445.DOI:10.1039/d2sm01128a.
+",硼酸酯,DA,[Cl-].[NH3+]CCc1ccc(O)c(O)c2,2,3.07%,BA,"O=C(O)c1cccc(B(O)O)1
+",3,1.54%,,,,,ENR,C[C@H]1C(O)CC[C@H]2,,,95.40%,,,,,,BA,,1.54%,,,0.55,1.22,720%,-32.2℃,DMA,60,24,1.09,728.57%,,90%
+113.0,ENR@10PDA/B,"[1] Zhang J , Cao L , Chen Y .Malleable and self-healing rubbers covalently crosslinked by reversible boronic ester bonds[J].Soft Matter, 2022, 18(44):8436-8445.DOI:10.1039/d2sm01129a.
+",硼酸酯,DA,[Cl-].[NH3+]CCc1ccc(O)c(O)c3,2,3.07%,BA,"O=C(O)c1cccc(B(O)O)2
+",3,1.54%,,,,,ENR,C[C@H]1C(O)CC[C@H]3,,,95.40%,,,,,,BA,,1.54%,,,0.55,1.22,720%,-32.3℃,DMA,50,24,0.76,539.29%,,62%
+114.0,ENR@10PDA/B,"[1] Zhang J , Cao L , Chen Y .Malleable and self-healing rubbers covalently crosslinked by reversible boronic ester bonds[J].Soft Matter, 2022, 18(44):8436-8445.DOI:10.1039/d2sm01130a.
+",硼酸酯,DA,[Cl-].[NH3+]CCc1ccc(O)c(O)c4,2,3.07%,BA,"O=C(O)c1cccc(B(O)O)3
+",3,1.54%,,,,,ENR,C[C@H]1C(O)CC[C@H]4,,,95.40%,,,,,,BA,,1.54%,,,0.55,1.22,720%,-32.4℃,DMA,25,24,0.49,396.43%,,40%
+115.0,IAPU-80,"[1] Li J , Hu C , Yang B ,et al.Recyclable, self-healing itaconic acid-based polyurethane networks with dynamic boronic ester bonds for recoverable adhesion application[J].Polymer: The International Journal for the Science and Technology of Polymers, 2022.DOI:10.1016/j.polymer.2022.125227.
+",硼酸酯,TDI,O=C=NC1=CC(N=C=O)=CC=C1C,2,52.63%,BDB,SCC1COB(c2cccc(B3OCC(CS)O3)c2)O1,2,21.05%,,,,,IAOH,"C=C(CC(=O)OCCCCCCO)C(=O)OCCCCCCO
+",,2,26.32%,,,,,,BDB,,21.05%,1.5,0.00049,380,15.6,70.40%,51.3℃,DMA,120,20min,14.93,68.64%,,95.70%
+116.0,PU-B2N-(C/G)-X,,硼酸酯,IPDI,"O=C=NCC1(CN=C=O)CCCCC8(C)C
+",2,50.00%,HDB   DPA,OCCC1COB2OB(OCC(CCO)c3ccc1cc3)O2    CC(CC(C)(O)C(C)CO)OCCCN(C)C,2,8.33%   16.67%,,,,,PEG10000,OCCO,,2,25.00%,,,,,,HDB,,8.33%,2.0,,,66.5,2792%,,,70,24,40.9,2188%,,61.50%
+117.0,3-DP-PUE-3A,"[1] Liu Y , Zhang J , Ji Y ,et al.Self-healing polyurethane elastomers with dynamic crosslinked networks for complex structure 3D printing[J].Chemical Engineering Journal, 2025, 507.DOI:10.1016/j.cej.2025.160193.
+",硼酸酯,BDBA,OB(O)c1ccc(B(O)O)cc1,2,0.90%,,,,,,,,,UMA,,,1,56.99%,2-HEA,C=CC(=O)OCCO,,1.0,42.11%,BDBA,,0.90%,1.0,,0.321,0.923,1056%,11.9℃,DSC,80,12,0.995,1138%,,107.73%
+118.0,3-DP-PUE-6A,"[1] Liu Y , Zhang J , Ji Y ,et al.Self-healing polyurethane elastomers with dynamic crosslinked networks for complex structure 3D printing[J].Chemical Engineering Journal, 2025, 507.DOI:10.1016/j.cej.2025.160194.
+",硼酸酯,BDBA,OB(O)c1ccc(B(O)O)cc2,2,1.78%,,,,,,,,,UMA,,,1,56.48%,3-HEA,C=CC(=O)OCCO,,1.0,41.74%,BDBA,,1.78%,1.0,,0.894,1.682,689%,14.7℃,DSC,80,12,1.658,680%,,98.57%
+119.0,3-DP-PUE-9A,"[1] Liu Y , Zhang J , Ji Y ,et al.Self-healing polyurethane elastomers with dynamic crosslinked networks for complex structure 3D printing[J].Chemical Engineering Journal, 2025, 507.DOI:10.1016/j.cej.2025.160195.
+",硼酸酯,BDBA,OB(O)c1ccc(B(O)O)cc3,2,2.65%,,,,,,,,,UMA,,,1,55.98%,4-HEA,C=CC(=O)OCCO,,1.0,41.37%,BDBA,,2.65%,1.0,,1.456,2.417,423%,16.5℃,DSC,80,12,2.378,416%,,98.35%
+120.0,3-DP-PUE-12A,"[1] Liu Y , Zhang J , Ji Y ,et al.Self-healing polyurethane elastomers with dynamic crosslinked networks for complex structure 3D printing[J].Chemical Engineering Journal, 2025, 507.DOI:10.1016/j.cej.2025.160196.
+",硼酸酯,BDBA,OB(O)c1ccc(B(O)O)cc4,2,3.50%,,,,,,,,,UMA,,,1,55.49%,5-HEA,C=CC(=O)OCCO,,1.0,41.01%,BDBA,,3.50%,1.0,,1.889,2.845,287%,17.9℃,DSC,80,12,2.877,290%,,101.13%

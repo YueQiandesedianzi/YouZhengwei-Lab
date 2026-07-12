@@ -1,0 +1,8 @@
+target,selected_stage,selected_model,n_samples,n_features_final,oof_r2,oof_rmse,oof_mae,plot_file
+E_MPa,v2,SVR_RBF,135,66,0.7157116592718293,32.646011539949704,14.474875551180368,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/07_最终定版_当前思路消融/task07_best_model_regression_plots/E_MPa_best_model_regression.png
+E_healed_MPa,v1,ExtraTrees,80,44,0.9496678769404591,8.671301479820409,4.09799596985072,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/07_最终定版_当前思路消融/task07_best_model_regression_plots/E_healed_MPa_best_model_regression.png
+Tg,v1,ExtraTrees,186,73,0.8594708364545249,16.09820450473646,8.816998744506293,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/07_最终定版_当前思路消融/task07_best_model_regression_plots/Tg_best_model_regression.png
+epsilon_break_pct,v2,ExtraTrees,258,11,0.7381761865588659,300.07117264951887,171.1990567658673,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/07_最终定版_当前思路消融/task07_best_model_regression_plots/epsilon_break_pct_best_model_regression.png
+epsilon_healed_pct,v2,ExtraTrees,197,15,0.7367972837977075,282.08189317811286,192.375028218645,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/07_最终定版_当前思路消融/task07_best_model_regression_plots/epsilon_healed_pct_best_model_regression.png
+sigma_healed_MPa,v2,HistGBR,222,51,0.6455653970064954,4.17466026951466,2.6168902855125147,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/07_最终定版_当前思路消融/task07_best_model_regression_plots/sigma_healed_MPa_best_model_regression.png
+sigma_max_MPa,v2,RandomForest,263,15,0.7184418962426253,5.546331949865313,3.2989494085934683,/Users/yljj0528/Desktop/论文/大论文/多文献课题_2/07_最终定版_当前思路消融/task07_best_model_regression_plots/sigma_max_MPa_best_model_regression.png

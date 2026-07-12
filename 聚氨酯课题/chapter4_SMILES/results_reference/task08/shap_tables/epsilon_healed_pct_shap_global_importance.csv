@@ -1,0 +1,16 @@
+target,feature,mean_abs_shap
+epsilon_healed_pct,healing_efficiency,139.2953682472394
+epsilon_healed_pct,delta_hs,87.13300568192744
+epsilon_healed_pct,healing_temp_C,60.56885882242786
+epsilon_healed_pct,Tg_fox_C,49.33734003399605
+epsilon_healed_pct,delta_delta,37.55976736725296
+epsilon_healed_pct,r_NCO_OH,32.297985451043125
+epsilon_healed_pct,delta_Tg_repair,32.2255600994005
+epsilon_healed_pct,urea_frac,22.416747536725996
+epsilon_healed_pct,f_ss_total,18.923838614654944
+epsilon_healed_pct,dk_total_ratio,18.383376299150225
+epsilon_healed_pct,mol_pca_034,17.12783920314369
+epsilon_healed_pct,mol_pca_023,15.54072705646631
+epsilon_healed_pct,mol_pca_025,15.258361420079149
+epsilon_healed_pct,mol_pca_031,13.7802839671657
+epsilon_healed_pct,mol_pca_004,12.460583971142313

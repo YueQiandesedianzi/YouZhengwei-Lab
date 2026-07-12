@@ -1,0 +1,16 @@
+target,selected_rank,feature
+epsilon_healed_pct,1,r_NCO_OH
+epsilon_healed_pct,2,dk_total_ratio
+epsilon_healed_pct,3,urea_frac
+epsilon_healed_pct,4,delta_delta
+epsilon_healed_pct,5,delta_Tg_repair
+epsilon_healed_pct,6,healing_efficiency
+epsilon_healed_pct,7,healing_temp_C
+epsilon_healed_pct,8,delta_hs
+epsilon_healed_pct,9,mol_pca_004
+epsilon_healed_pct,10,mol_pca_023
+epsilon_healed_pct,11,mol_pca_031
+epsilon_healed_pct,12,f_ss_total
+epsilon_healed_pct,13,mol_pca_034
+epsilon_healed_pct,14,Tg_fox_C
+epsilon_healed_pct,15,mol_pca_025

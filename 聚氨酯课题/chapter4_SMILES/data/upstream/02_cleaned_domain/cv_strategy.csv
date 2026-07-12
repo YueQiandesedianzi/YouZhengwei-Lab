@@ -1,0 +1,8 @@
+target,n_valid,n_features,n_p_ratio,cv_type,note,log_transform
+sigma_max_MPa,275,25,11.0,5-fold × 10 repeats,标准方案,True
+E_MPa,143,25,5.72,LOO-CV,小样本/高风险,True
+healing_efficiency,250,25,10.0,5-fold × 10 repeats,标准方案,False
+epsilon_break_pct,270,25,10.8,5-fold × 10 repeats,标准方案,True
+healing_temp_C,264,25,10.56,5-fold × 10 repeats,标准方案,False
+Tg,192,25,7.68,10-fold × 10 repeats,n/p偏低,False
+healing_time_h,265,25,10.6,5-fold × 10 repeats,标准方案,True

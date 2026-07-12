@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.11
+xgboost>=2.0
+shap>=0.44
+# optional for stage02 rebuild / pareto
+rdkit>=2023.9.1
+pymoo>=0.6.1
