@@ -1,0 +1,17 @@
+﻿system,ratio_pct,source_batch,source_detail,n,measured_vpp_mean_v,measured_vpp_sd_v,is_boundary_anchor,is_external_experiment,model_pred_vpp_v,error_vs_model_v,error_vs_model_pct,source_priority
+PGDS,0.0,original_anchor,run_cycle_ptp_epoch200_rerun_20260523,99,2.2563539434343434,0.1629586724392405,False,False,,,,1
+PGDS,10.0,origin_faxiaotian,预测值电压-Origin发晓天,3,2.3434315384615387,0.0179191792229353,False,True,2.2116,0.1318315384615389,5.960912392003028,3
+PGDS,25.0,original_anchor,run_cycle_ptp_epoch200_rerun_20260523,109,2.1443682357798166,0.1833453091469151,False,False,,,,1
+PGDS,45.0,origin_faxiaotian,预测值电压-Origin发晓天,3,7.218959640354639,0.1293926371350152,False,True,7.113,0.105959640354639,1.4896617510844792,3
+PGDS,50.0,original_anchor,run_cycle_ptp_epoch200_rerun_20260523,104,8.355159726923077,0.7921897575957614,False,False,,,,1
+PGDS,60.0,origin_faxiaotian,预测值电压-Origin发晓天,3,11.92987358378056,0.131899612178105,False,True,12.4293,-0.499426416219439,-4.018137917818695,3
+PGDS,75.0,original_anchor,run_cycle_ptp_epoch200_rerun_20260523,61,18.540491803278687,0.6280059082246148,False,False,,,,1
+PGDS,100.0,original_anchor,run_cycle_ptp_epoch200_rerun_20260523,170,27.86603373882353,0.4658245800677165,False,False,,,,1
+PGTD,0.0,boundary_anchor,0%PGTD = 100%PGDS,170,27.86603373882353,0.4658245800677165,True,False,,,,2
+PGTD,10.0,fa_yuanli_latest,发袁李,145,26.093357478260874,0.3984578483723843,False,True,25.391,0.7023574782608755,2.7661670602216355,4
+PGTD,25.0,original_anchor,run_cycle_ptp_epoch200_rerun_20260523,47,22.528787234042554,2.019985406061899,False,False,,,,1
+PGTD,45.0,fa_yuanli_latest,发袁李,171,21.405941656934303,0.3669443995983914,False,True,18.7126,2.6933416569343045,14.393198470198184,4
+PGTD,50.0,original_anchor,run_cycle_ptp_epoch200_rerun_20260523,73,17.75849315068493,0.7851427174456831,False,False,,,,1
+PGTD,60.0,fa_yuanli_latest,发袁李,84,18.63910447761194,0.2532739045721507,False,True,17.6508,0.9883044776119404,5.599205008339228,4
+PGTD,75.0,original_anchor,run_cycle_ptp_epoch200_rerun_20260523,80,17.48936205,0.7500599884872783,False,False,17.4894,-3.794999999939819e-05,-0.0002169885759339,1
+PGTD,100.0,original_anchor,run_cycle_ptp_epoch200_rerun_20260523,57,10.730546438596493,0.3004381596998335,False,False,,,,1
